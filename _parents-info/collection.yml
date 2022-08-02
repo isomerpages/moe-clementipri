@@ -2,6 +2,7 @@ collections:
   parents-info:
     output: true
     order:
+      - School Information/Grading Scheme for P5 and P6 Standard Subjects.md
       - School Information/Graduating Scheme for P5 and P6 Foundation Subjects.md
       - School Information/Edusave Awards For Primary School.md
       - School Information/Service Providers.md
