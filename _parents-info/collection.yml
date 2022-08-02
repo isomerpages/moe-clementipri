@@ -2,6 +2,7 @@ collections:
   parents-info:
     output: true
     order:
+      - Our People/Allied Educators.md
       - Our People/Executive Administrative & Support Staff.md
       - Our People/.keep
       - Parenting Tips.md
