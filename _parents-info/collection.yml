@@ -2,6 +2,7 @@ collections:
   parents-info:
     output: true
     order:
+      - Partners/Parent Support Group.md
       - Partners/School Advisory Committee.md
       - Partners/Family Matters @ School.md
       - Partners/.keep
