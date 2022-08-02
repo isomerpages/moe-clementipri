@@ -2,14 +2,14 @@ collections:
   parents-info:
     output: true
     order:
+      - Notification Letters/.keep
+      - Notification Letters/Overview.md
       - Notification Letters/Primary 1.md
       - Notification Letters/Primary 2.md
       - Notification Letters/Primary 3.md
       - Notification Letters/Primary 4.md
       - Notification Letters/Primary 5.md
       - Notification Letters/Primary 6.md
-      - Notification Letters/Overview.md
-      - Notification Letters/.keep
       - Partners/Parent Support Group.md
       - Partners/School Advisory Committee.md
       - Partners/Family Matters @ School.md
