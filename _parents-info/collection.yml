@@ -2,6 +2,8 @@ collections:
   parents-info:
     output: true
     order:
+      - School Information/Descriptors for Achievement Bands and Grades (P1 to
+        P4).md
       - School Information/Grading Scheme for P5 and P6 Standard Subjects.md
       - School Information/GradingScheme for P5 and P6 Foundation Subjects.md
       - School Information/Edusave Awards For Primary School.md
