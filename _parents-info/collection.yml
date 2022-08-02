@@ -2,6 +2,7 @@ collections:
   parents-info:
     output: true
     order:
+      - School Vision,Mission & Values/.keep
       - School Information/School Hours.md
       - School Information/School Rules.md
       - School Information/Visiting to the School.md
