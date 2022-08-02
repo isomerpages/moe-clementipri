@@ -2,6 +2,7 @@ collections:
   parents-info:
     output: true
     order:
+      - School Information/Opening of School Gate for Visitors.md
       - School Information/Paying School and Miscellaneous Fees GIRO Deduction.md
       - School Information/Non Giro Payment.md
       - School Information/Descriptors for Achievement Bands and Grades (P1 to
