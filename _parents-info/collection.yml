@@ -2,5 +2,6 @@ collections:
   parents-info:
     output: true
     order:
+      - Partners/Family Matters @ School.md
       - Partners/.keep
       - Forms.md
