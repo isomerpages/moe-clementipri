@@ -21,4 +21,10 @@ sections:
         - title: Follow us on Facebook!
           description: ""
           url: https://www.facebook.com/Clementi-Primary-School-Official-779445572142790/info/?tab=overview
+  - infobar:
+      title: Affirmation/Feedback
+      subtitle: we want to hear you
+      description: we'd love to hear your feedback
+      button: click here
+      url: https://form.gov.sg/#!/5f68400ec81ca700112d550b
 ---
