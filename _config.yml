@@ -2,8 +2,8 @@ title: Clementi Primary School
 url: ""
 favicon: /images/sch logo.jpg
 colors:
-  primary-color: "#1530e1"
-  secondary-color: "#f8e71c"
+  primary-color: "#f8e71c"
+  secondary-color: "#1530e1"
   media-colors:
     - title: media-color-one
       color: "#49759a"
