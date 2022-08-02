@@ -2,6 +2,7 @@ collections:
   parents-info:
     output: true
     order:
+      - School Information/Service Providers.md
       - School Information/Helplines for Pupils.md
       - School Information/.keep
       - Our People/School Management Team.md
