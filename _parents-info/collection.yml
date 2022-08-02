@@ -2,6 +2,7 @@ collections:
   parents-info:
     output: true
     order:
+      - Our People/.keep
       - Parenting Tips.md
       - Notification Letters/.keep
       - Notification Letters/Overview.md
