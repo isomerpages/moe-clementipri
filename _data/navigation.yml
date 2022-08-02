@@ -1,8 +1,21 @@
 logo: /images/sch logo.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Parents Info
+    url: /Parents-Info/principal-message/
+    sublinks:
+      - title: Principal's Message
+        url: /Parents-Info/principal-message/
+      - title: School Vision,Mission & Values
+        url: /Parents-Info/core-values/
+      - title: School Information
+        url: /Parents-Info/school-information/
+      - title: Our People
+        url: /Parents-Info/our-people/
+      - title: Parenting Tips
+        url: /Parents-Info/parenting-tips/
+      - title: Notifications
+        url: /Parents-Info/notifications/
+      - title: Partners
+        url: /Parents-Info/partners/
+      - title: Forms
+        url: /Parents-Info/forms/
