@@ -2,5 +2,6 @@ collections:
   signature-programmes-in-ctp:
     output: true
     order:
+      - After School Programmes/MOE Based Remediation.md
       - After School Programmes/School Based Remediation.md
       - After School Programmes/.keep
