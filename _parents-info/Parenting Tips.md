@@ -22,7 +22,20 @@ Please click on the links below on Cyber Wellness resources and tips in helping 
 * **Helping Your Child Be Discerning About Online Information**<br>
 Slides- [/files/online%20info%20slides.pdf](/files/online%20info%20slides.pdf)<br>
 Tipsheet- [/files/online%20info%20tipsheet.pdf](/files/online%20info%20tipsheet.pdf)
-
 * **Helping Your Child With Appropriate Online Expression**<br>
 Slides-[/files/online%20expression%20slides.pdf](/files/online%20expression%20slides.pdf)<br>
 Tipsheet- [/files/online%20expression%20tipsheet.pdf](/files/online%20expression%20tipsheet.pdf)<br>
+* **Helping Your Child Protect Their Personal Data Online**
+[/files/personal%20data%20online.pdf](/files/personal%20data%20online.pdf)
+* **Helping Your Child Handle Online Content**
+[/files/helping%20your%20child%20handle%20online%20content.pdf](/files/helping%20your%20child%20handle%20online%20content.pdf)
+* **Helping Your Child To Be A Positive Peer Influence Online**
+[/files/positive%20peer%20influence%20online.pdf](/files/positive%20peer%20influence%20online.pdf)
+* **Helping Your Child Stay Safe Online**
+[/files/helping%20your%20child%20stay%20safe%20online.pdf](/files/helping%20your%20child%20stay%20safe%20online.pdf)
+* **Helping Your Child Manage Excessive Internet Use**
+[/files/excessive%20internet%20use.pdf](/files/excessive%20internet%20use.pdf)
+* **Helping Your Child Manage Cyber Bullying**
+[/files/manage%20cyber%20bullying.pdf](/files/manage%20cyber%20bullying.pdf)
+* **Helping Your Child Manage Cyber Contacts**
+[/files/manage%20cyber%20contacts.pdf](/files/manage%20cyber%20contacts.pdf)
