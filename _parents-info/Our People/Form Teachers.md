@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 ### Form Teachers
 
-* Parents/guardians may email to the school’s generic email address admin\_clementi\_ps@moe.edu.sg, stating clearly the staff they wish their message be conveyed to.
+* Parents/guardians may: email to the school’s generic email address admin\_clementi\_ps@moe.edu.sg, stating clearly the staff they wish their message be conveyed to.
 
 | Class | Designation | Name |
 |:---:|:---:|:---:|
