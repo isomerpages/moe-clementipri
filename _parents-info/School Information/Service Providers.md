@@ -13,3 +13,4 @@ third_nav_title: School Information
 | School Bus Services | Alan Bus Services<br>Clementi Central Post Office<br>PO Box 65 Singapore 911203<br>Tel : 6777 8811 (Mr Alan Teo)<br>Fax : 6779 1616 | Parents are to make any transport arrangement directly with the bus vendor. |
 | Student Care Centre<br>Kidz Treehouse |  Kidz Treehouse<br><br><br>Tel 6560 7200<br><br>Email: [enquiry@kowabunga.com.sg](enquiry@kowabunga.com.sg)<br>Website: [https://kidztreehouse.com.sg/](https://kidztreehouse.com.sg/) |  Parents are to make arrangement directly with the vendors. |
 |
+
