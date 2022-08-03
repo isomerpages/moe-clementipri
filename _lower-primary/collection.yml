@@ -2,5 +2,6 @@ collections:
   lower-primary:
     output: true
     order:
+      - Primary 1/Cyber Wellness Carnival.md
       - Primary 1/.keep
       - Primary 2/.keep
