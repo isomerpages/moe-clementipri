@@ -6,7 +6,7 @@ description: ""
 ### Principal's Message
 
 <img src="/images/principal%20message.jpg" 
-     style="width:55%" align=left>
+     style="width:35%" align=left>
 		 
 A very warm welcome to the School Year for 2021.
 
