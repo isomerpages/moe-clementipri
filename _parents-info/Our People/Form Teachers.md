@@ -56,7 +56,7 @@ third_nav_title: Our People
 
 | Class | Designation | Name |
 |:---:|:---:|:---:|
-| Primary 3 |  |  |
+| **Primary 3** |  |  |
 | P3 INITIATIVE | MS | HAN LEE WOON JOANN |
 |  | MDM | SYAFIQAH BINTE NOOR ADZAN |
 | P3 RESPONSIBILITY | MS | LIM SHU HUI |
@@ -74,7 +74,7 @@ third_nav_title: Our People
 
 | Class | Designation | Name |
 |:---:|:---:|:---:|
-| Primary 4 |  |  |
+| **Primary 4** |  |  |
 | P4 INITIATIVE | MDM | CORNELIUS GRACE LEONORA |
 |  | MS | CHANG KANG FENG CHRISTINA |
 | P4 RESPONSIBILITY | MS | YEO ANQI CLARA |
@@ -92,7 +92,7 @@ third_nav_title: Our People
 
 | Class | Designation | Name |
 |:---:|:---:|:---:|
-| Primary 5 |  |  |
+| **Primary 5** |  |  |
 | P5 INITIATIVE | MR | CHUA KHENG LEONG ANTHONY |
 |  | MDM | KHEONG ZI JING |
 | P5 RESPONSIBILITY | MDM | OH SHAN CUI [MRS SERENE TEO] |
@@ -110,7 +110,7 @@ third_nav_title: Our People
 
 | Class | Designation | Name |
 |:---:|:---:|:---:|
-| Primary 6 |  |  |
+| **Primary 6** |  |  |
 | P6 INITIATIVE | MR | YAP SHUN YI |
 |  | MS | KHOO SZE EAN |
 | P6 RESPONSIBILITY | MDM | NORA BTE IBRAHIM |
