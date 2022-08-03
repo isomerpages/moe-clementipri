@@ -18,7 +18,7 @@ Please click on the links below on Cyber Wellness resources and tips in helping 
 * **Parent Kit - Cyber Wellness for your child** <br>
 [Cyberwellness for your child](https://www.moe.gov.sg/docs/default-source/document/parent-kit-on-home-based-learning/parent-kit---cyber-wellness-for-your-child.pdf) **broken link**
 * **A Parent’s Guide to Keeping Children Safe & Smart Online** <br>
-[Safe and Smart online parents guide](/files/Safe%20and%20Smart%20Online%20Parent%20Guide.pdf)
+[A Parent’s Guide to Keeping Children Safe & Smart Online](/files/Safe%20and%20Smart%20Online%20Parent%20Guide.pdf)
 * **Helping Your Child Be Discerning About Online Information**<br>
 Slides- [/files/online%20info%20slides.pdf](/files/online%20info%20slides.pdf)<br>
 Tipsheet- [/files/online%20info%20tipsheet.pdf](/files/online%20info%20tipsheet.pdf)
