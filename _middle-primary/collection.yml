@@ -2,6 +2,7 @@ collections:
   middle-primary:
     output: true
     order:
+      - "Primary 3/Learning Journey to the Science Centre : Magnet Lessons.md"
       - Primary 3/VIA.md
       - Primary 3/.keep
       - Primary 4/VIA.md
