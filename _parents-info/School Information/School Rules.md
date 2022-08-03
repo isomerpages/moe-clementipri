@@ -22,7 +22,7 @@ The school rules and regulations are designed to state clearly the boundaries of
 2.  The music for school morning assembly is played from 7.00 a.m. to signal the commencement of silent reading in the parade ground/hall.
 3.  The side gate will be closed at 7.25 a.m.
 4.  For the AM session, the singing of the National anthem/ Pledge-taking ceremony starts at 7.25 a.m.
-5.  Attendance is compulsory. Pupils who are absent without valid reasons will be regarded as having committed truancy.
+5.  Attendance is compulsory. Pupils who are absent without valid reasons will be regarded as having committed truancy. <br>
 *Absence from school must be accompanied by a medical certificate and/ or where appropriate, a letter of explanation from parents.
 
 ##### Conduct During Assembly
