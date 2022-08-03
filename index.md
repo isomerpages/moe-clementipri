@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Clementi Primary School
-      background: /images/hero-banner.png
+      background: /images/hero banner.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -28,4 +28,3 @@ sections:
       button: click here
       url: https://form.gov.sg/#!/5f68400ec81ca700112d550b
 ---
-
