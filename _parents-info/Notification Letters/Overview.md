@@ -25,3 +25,14 @@ third_nav_title: Notification Letters
 16. [2021 Start of Year Notification](/files/2021%20Start%20of%20Year%20Notification.pdf)
 
 #### 2020
+1. [Administrative Briefing for PSLE Results Release 2020](https://clementipri-moe-edu-sg-admin.cwp.sg/qql/slot/u154/Notification%20Letters%20-%202020/T4/PSLE%20Results%202020_Admin%20Brief.mp4)
+2. [Arrangements for PSLE 2020 Results release](/files/Arrangements%20for%20PSLE%202020%20Results%20release.pdf)
+3. [School renovation & upgrading work](/files/School%20renovation%20&%20upgrading%20work.pdf)
+4. [End of Term 4 Parent Notification 2020](/files/End%20of%20Term%204%20Parent%20Notification%202020.pdf)
+5. [Webinar with Principal 28 Oct 2020](/files/Webinar%20with%20Principal%2028%20Oct%202020.pdf)
+6. [Outstanding Youths in Education nomination 2021](https://go.gov.sg/oyea2021) **expired**
+7. [Presidents Awards for Teachers nomination 2021](https://go.gov.sg/pat2021) **expired**
+8. [Children's Day Notification 2020](/files/Children's%20Day%20Notification%202020.pdf)
+9. [ECHA nomination letter for parents](/files/ECHA%20nomination%20letter%20for%20parents.pdf)
+10. [Term 4 Parent Notification 2020](/files/Term%204%20Parent%20Notification%202020.pdf)
+11. 
