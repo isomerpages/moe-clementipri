@@ -1,4 +1,5 @@
 collections:
   students-info:
     output: true
-    order: []
+    order:
+      - SLS.md
