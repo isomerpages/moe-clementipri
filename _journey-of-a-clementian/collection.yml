@@ -2,6 +2,7 @@ collections:
   journey-of-a-clementian:
     output: true
     order:
+      - Middle Primary/.keep
       - Upper Primary/.keep
       - Character & Citizenship Edu/.keep
       - Memorable School Events/.keep
