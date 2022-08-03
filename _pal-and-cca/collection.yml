@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - PAL.md
+      - CCA/Visual and Performing Art.md
       - CCA/Uniformed Group.md
       - CCA/.keep
