@@ -2,6 +2,7 @@ collections:
   upper-primary:
     output: true
     order:
+      - Primary 5/Cyber Wellness Activities.md
       - Primary 5/Annual Sports Carnival.md
       - "Primary 5/Learning Journey to the Science Centre : Diversity of Cells
         Lesson.md"
