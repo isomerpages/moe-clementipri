@@ -15,4 +15,4 @@ third_nav_title: Our People
 | Mdm Mimy Tan | AED/T & L |
 |
 
-*   Parents/guardians may: email to the school’s generic email address [admin\_clementi\_ps@moe.edu.sg](https://staging.d2kepjbew636xb.amplifyapp.com/Parents-Info/Our-People/form-teachers/admin_clementi_ps@moe.edu.sg), stating clearly the staff they wish their message be conveyed to.
+*   Parents/guardians may: email to the school’s generic email address [admin_clementi_ps@moe.edu.sg](admin_clementi_ps@moe.edu.sg), stating clearly the staff they wish their message be conveyed to.
