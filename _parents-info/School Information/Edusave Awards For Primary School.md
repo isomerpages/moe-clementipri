@@ -12,21 +12,21 @@ Edusave Awards are given by the government annually to Singaporeans pupils to he
 ##### Edusave Character Award
 Up to 2% of students in each school who demonstrated exemplary character and outstanding personal qualities through their behaviour and actions.
 
-Award amount:
-**Primary 1 to 3:** $200
+Award amount:<br>
+**Primary 1 to 3:** $200<br>
 **Primary 4 to 6:** $350
 
 ##### Edusave scholarships for government, government-aided and specialised schools
 
 Students who are within the top 10% of their school’s level and course in terms of academic performance, and have demonstrated good conduct.
 
-Award amount:
+Award amount:<br>
 **Primary 5 to 6:** $350
 
 ##### Edusave Award for Achievement, Good Leadership and Service (EAGLES)
 Up to 10% of students from each school who have demonstrated leadership qualities, service to community and schools, excellence in non-academic activities, and good conduct.
 
-Award amount:
+Award amount:<br>
 **Primary 4 to 6:** $250
 
 #### Edusave Merit Bursary (EMB)
@@ -36,8 +36,8 @@ Students who consistently demonstrated positive learning dispositions in the cou
 ##### Other levels
 Students who are within the top 25% of their school’s level and course in terms of academic performance, have demonstrated good conduct and whose monthly household income does not exceed $6,900 (or per capita income does not exceed $1,725). Students must not be recipients of an Edusave scholarship.
 
-Award amount:
-**Primary 1 to 3:** $200
+Award amount:<br>
+**Primary 1 to 3:** $200<br>
 **Primary 4 to 6:** $250
 
 #### Edusave Good Progress Award (GPA)
@@ -47,6 +47,6 @@ Students who do not qualify for Edusave Merit Bursary, but showed the greatest i
 ##### Other levels
 Students who are within the top 10% of their school’s level and course in terms of improvement in academic performance and have demonstrated good conduct.
 
-Award amount:
-**Primary 2 to 3:** $100
+Award amount:<br>
+**Primary 2 to 3:** $100 <br>
 **Primary 4 to 6:** $150
