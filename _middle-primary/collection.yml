@@ -2,4 +2,5 @@ collections:
   middle-primary:
     output: true
     order:
+      - Primary 3/.keep
       - Primary 4/.keep
