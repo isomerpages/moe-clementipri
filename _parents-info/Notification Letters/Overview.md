@@ -35,4 +35,15 @@ third_nav_title: Notification Letters
 8. [Children's Day Notification 2020](/files/Children's%20Day%20Notification%202020.pdf)
 9. [ECHA nomination letter for parents](/files/ECHA%20nomination%20letter%20for%20parents.pdf)
 10. [Term 4 Parent Notification 2020](/files/Term%204%20Parent%20Notification%202020.pdf)
-11. 
+11. [Parent Notification National Day and Traffic](/files/Parent%20Notification%20National%20Day%20and%20Traffic.pdf)
+12. [Racial Harmony Day Notification](/files/Racial%20Harmony%20Day%20Notification.pdf)
+13. [Term 3 Parent Notification Polling Day](/files/Term%203%20Parent%20Notification%20Polling%20Day.pdf)
+14. [Term 3 Parent Notification 26 June](/files/Term%203%20Parent%20Notification%2026%20June.pdf)
+15. [CTP Conference 2020](/files/CTP%20Conference%202020.pdf)
+16. [LEAP Awards 2020 nomination](/files/LEAP%20Awards%202020%20nomination.pdf)
+17. [Term 3 Parent Notification](/files/Term%203%20Parent%20Notification.pdf)
+18. [WE STories 2020](https://clementipri-moe-edu-sg-admin.cwp.sg/qql/slot/u154/Notification%20Letters%20-%202020/T2/WE%20STories%202020.pdf) - try again,pdf not loading
+19. [End of Term 2 Notification](/files/End%20of%20Term%202%20notification.pdf)
+20. [Notification on Full Home Based Learning](/files/Notification%20on%20Full%20Home%20Based%20Learning.pdf)
+21. [Resource Kit Home Based Learning (HBL)](/files/Resource%20Kit%20Home%20Based%20Learning%20(HBL).pdf)
+22. [Term 2 Home Based Learning (HBL)](/files/Term%202%20Home%20Based%20Learning%20(HBL).pdf)
