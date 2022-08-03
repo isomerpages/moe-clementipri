@@ -124,7 +124,7 @@ long hair
 
 #### Offences Guide
 
-| more serious offences | consequences |
+| More serious offences | Consequences |
 |---|---|
 | 1. ATTENDANCE |  |
 | * Late-coming<br>* Skipping classes | 1st to 3rd offence<br><br>* Counselling  by FTs/YH<br>4th and subsequent occurences<br>* FTs to partner parents to address the recurring offence<br>* FTs to inform parents of corrective action(s) to be taken by School Discipline Committee |
