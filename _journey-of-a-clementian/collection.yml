@@ -2,4 +2,5 @@ collections:
   journey-of-a-clementian:
     output: true
     order:
+      - Character & Citizenship Edu/.keep
       - Memorable School Events/.keep
