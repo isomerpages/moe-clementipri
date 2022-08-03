@@ -6,11 +6,11 @@ third_nav_title: Our People
 ---
 ### School Management Team
 
-| Name | Designation | Email  |
-|---|---|:---:|
-| Mr Vimalenthiran s/o Vijayasingam | Principal | Parents/guardians may email to the school’s generic email address |
-| Mrs Cheryl Lim | Vice-Principal (Acad) | [admin_clementi_ps@moe.edu.sg](admin_clementi_ps@moe.edu.sg),  |
-| Ms Tung Ai Jui  | Vice-Principal (Admin)  | stating clearly the staff they wish their message be conveyed to. |
+| Name | Designation | 
+|---|---|
+| Mr Vimalenthiran s/o Vijayasingam | Principal | |
+| Mrs Cheryl Lim | Vice-Principal (Acad) | ,  |
+| Ms Tung Ai Jui  | Vice-Principal (Admin)  | 
 | Ms Ng Geok Peng Georgina | School Staff Developer (SSD) |   |
 | Ms Ewe Jun Wen | HOD/Mathematics  |   |
 | Ms Er Yen Ru | HOD/Science |   |
@@ -35,3 +35,5 @@ third_nav_title: Our People
 | Mdm Suraya Yacob | ST/Lower Primary Learners |   |
 | Ms Lim Koon Pei Cynthia  | ST/Special Educational Needs | 
 |
+
+* Parents/guardians may: email to the school’s generic email address [admin_clementi_ps@moe.edu.sg](admin_clementi_ps@moe.edu.sg), stating clearly the staff they wish their message be conveyed to.
