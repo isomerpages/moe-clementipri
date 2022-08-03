@@ -11,7 +11,7 @@ The school uses the MOE cyber wellness framework to develop Clementians’ insti
 
 MOE’s Cyber Wellness Education comprises the following components to reinforce the importance of Cyber Wellness and its messages.
 
-![](/images/MOE%20Cyber%20wellness%20Revised%20Framework.jpg)
+<img src="/images/MOE%20Cyber%20wellness%20Revised%20Framework.jpg" style="width:75%">
 
 Please click on the links below on Cyber Wellness resources and tips in helping you to reinforce Cyber Wellness education at home:
 
