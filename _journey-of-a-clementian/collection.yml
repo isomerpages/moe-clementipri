@@ -1,4 +1,5 @@
 collections:
   journey-of-a-clementian:
     output: true
-    order: []
+    order:
+      - Memorable School Events/.keep
