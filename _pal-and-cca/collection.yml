@@ -2,4 +2,5 @@ collections:
   pal-and-cca:
     output: true
     order:
+      - PAL.md
       - CCA/.keep
