@@ -6,8 +6,6 @@ third_nav_title: Our People
 ---
 ### Form Teachers
 
-* Parents/guardians may: email to the school’s generic email address [admin_clementi_ps@moe.edu.sg](admin_clementi_ps@moe.edu.sg), stating clearly the staff they wish their message be conveyed to.
-
 | Class | Designation | Name |
 |:---:|:---:|:---:|
 | **Primary 1** |  |  |
@@ -125,3 +123,5 @@ third_nav_title: Our People
 | P6 TEAMWORK | MR | TAN KENG WAI |
 |   | MDM | BI YANMEI |
 |
+
+* Parents/guardians may: email to the school’s generic email address [admin_clementi_ps@moe.edu.sg](admin_clementi_ps@moe.edu.sg), stating clearly the staff they wish their message be conveyed to.
