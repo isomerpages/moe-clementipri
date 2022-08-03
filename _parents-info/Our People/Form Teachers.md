@@ -30,3 +30,26 @@ third_nav_title: Our People
 |   |  MS |  NG DAN YING |
 |
 
+| Class | Designation | Name |
+|:---:|:---:|:---:|
+| **Primary 2** |  |  |
+| P2 INITIATIVE | MDM | HARYATI BTE KHAMIN |
+|  | MR | CHAU CHEE SING |
+| P2 RESPONSIBILITY | MDM | TANG WAI HAN |
+|  | MDM | AFIDAH BTE KAMARI |
+| P2 EMPATHY | MDM | KIR SOO KIEN |
+|  | MR | MOHAMMAD HAFIZ BIN MOHD RASHIB |
+|   |  MS |  TRACY QUEK KAI NING |
+| P2 SINCERITY | MR | LIN WEN'AN |
+|  | MDM | TAN PECK IMM |
+| P2 PERSEVERANCE | MS | NUR BATRISYIA |
+|  | MDM | ALETHEIA NG HUI PING |
+| P2 ENTHUSIASM | MDM | TAN LAY HWA |
+|  | MDM | TAY MING YAN |
+| P2 CONFIDENCE | MDM | SURAYA BTE YACOB |
+|  | MR | QIU ZHAO XIANG |
+| P2 TEAMWORK | MDM | NURSHAIHIDAH BTE MD. SHAH |
+|  | MDM | LIM AI FANG |
+| 
+
+
