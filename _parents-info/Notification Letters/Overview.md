@@ -10,7 +10,7 @@ third_nav_title: Notification Letters
 1. [End of Term 4 Notification](/files/End%20of%20Term%204%20Notification.pdf)
 2. [Children's Day 2021 Celebrations](/files/Children's%20Day%202021%20Celebrations.pdf)
 3. [Caring Teacher Award 2022](/files/Caring%20Teacher%20Award%202022.pdf)
-4. [WEStories 2021](https://clementipri.moe.edu.sg/parents-info/notifications/notification-letters) put pdf link
+4. [WEStories 2021](https://clementipri.moe.edu.sg/parents-info/notifications/notification-letters) **broken link**
 5. [Nomination for Presidents Award for Teachers 2022](http://go.gov.sg/pat2022) **expired**
 6. [Nomination for Outstanding Youth in Education 2022](http://go.gov.sg/oyea2022) **expired**
 7. [Term 4 Parent Notification 2021](/files/Term%204%20Parent%20Notification%202021.pdf)
@@ -42,7 +42,7 @@ third_nav_title: Notification Letters
 15. [CTP Conference 2020](/files/CTP%20Conference%202020.pdf)
 16. [LEAP Awards 2020 nomination](/files/LEAP%20Awards%202020%20nomination.pdf)
 17. [Term 3 Parent Notification](/files/Term%203%20Parent%20Notification.pdf)
-18. [WE STories 2020](https://clementipri-moe-edu-sg-admin.cwp.sg/qql/slot/u154/Notification%20Letters%20-%202020/T2/WE%20STories%202020.pdf) - try again,pdf not loading
+18. [WE STories 2020](https://clementipri-moe-edu-sg-admin.cwp.sg/qql/slot/u154/Notification%20Letters%20-%202020/T2/WE%20STories%202020.pdf) **broken link**
 19. [End of Term 2 Notification](/files/End%20of%20Term%202%20notification.pdf)
 20. [Notification on Full Home Based Learning](/files/Notification%20on%20Full%20Home%20Based%20Learning.pdf)
 21. [Resource Kit Home Based Learning (HBL)](/files/Resource%20Kit%20Home%20Based%20Learning%20(HBL).pdf)
