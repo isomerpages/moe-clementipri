@@ -18,3 +18,6 @@ If you would like to receive email/SMS notifications of any upcoming programme, 
 
 Working closely with Ministry of Social and Family Development (MSF), Mr Zahid hopes to provide quality programs for parents, to help them better connect with their children. He is also a strong supporter of programs that empowers fathers to be better role models and enduring inspiration to their children. He is an active sepaktakraw coach in schools and in the grassroots. Mr Zahid is happily married and a proud father of three children.
 
+#### Upcoming Events
+##### Past Events
+**19 Jan 2018** - [Parenting talk - Helping your child set goals](/files/Parenting%20talk%20-%20Helping%20your%20child%20set%20goals.pdf)
