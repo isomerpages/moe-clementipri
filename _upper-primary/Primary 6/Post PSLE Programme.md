@@ -44,4 +44,4 @@ Let the photos speak for their enthusiasm!
 <img src="/images/p6%20Dragon%20Boating%202.jpg" 
      style="width:65%">		 
 
-**gif**
+**gif**  File exceed 5GB
