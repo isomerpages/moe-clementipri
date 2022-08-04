@@ -16,4 +16,5 @@ Objectives:
 
 All P4 Clementians are required to participate in the Food Waste Management Project as part of their VIA Programme. In this programme, they will be made aware on why food waste is a major issue in developed countries and how it attributes to global warming. Clementians will also have the opportunity to explore the types of foods that are thrown into a food waste bin after their recesses by their peers before they move on to discuss on the various possible reasons why those perfectly edible foods are thrown away. They will then proceed to recycle those food waste via the use of a food digester which they will be taught on how to operate. At the end of the programme, Clementians will be given time to reflect on the current food waste situation around them and how they can help on their parts to reduce food waste.
 
-**gif**
+<img src="/images/VIA%20P4.gif" 
+     style="width:65%">
