@@ -21,4 +21,5 @@ This year, we had a Chiropractic Clinic, Bank, Digital Film Academy and a Bakery
 <img src="/images/p5%20kidzania%204.jpg" 
      style="width:65%">		 
 
-**gif**
+<img src="/images/4%20KIDZANIA%20GO!%20TO%20SCHOOL.gif" 
+     style="width:65%">
