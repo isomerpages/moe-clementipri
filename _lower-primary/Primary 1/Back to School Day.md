@@ -16,4 +16,4 @@ As part of our efforts to strengthen home-school partnerships, the school invite
 <img src="/images/p1%20bts%203.jpg" 
      style="width:65%">		 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OjkefNMn0ao" title="CTP P1 School Experience 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OjkefNMn0ao" title="CTP P1 School Experience 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" align = centre allowfullscreen></iframe>
