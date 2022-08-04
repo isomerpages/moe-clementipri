@@ -15,3 +15,6 @@ If you would like to receive email/SMS notifications of any upcoming programme, 
 		 
 **MR ZAHID BIN ABDUL AZIZ AND HIS FAMILY.** <br>
 **Coordinator of the FamilyMatters@School Programme**
+
+Working closely with Ministry of Social and Family Development (MSF), Mr Zahid hopes to provide quality programs for parents, to help them better connect with their children. He is also a strong supporter of programs that empowers fathers to be better role models and enduring inspiration to their children. He is an active sepaktakraw coach in schools and in the grassroots. Mr Zahid is happily married and a proud father of three children.
+
