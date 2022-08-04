@@ -46,10 +46,10 @@ Working closely with Ministry of Social and Family Development (MSF), Mr Zahid h
 5. [Tips and strategies to manage the cyber issue at home ](/files/Tips%20and%20strategies%20to%20manage%20the%20cyber%20issue%20at%20home.pdf)
 6. Cyberwellness -  [Guide for Parents](https://clementipri.moe.edu.sg/qql/slot/u154/2019/Parents%20Info/Partners/Family%20Matters@School/Family%20Matters/CyberWellnessForParents.pdf) **broken link** <br> [Tip Sheet](/files/cyberwellness%20Tip%20sheet.pdf)
 7. [Supporting your child through transitions](/files/Supporting%20your%20child%20through%20transitions.pdf)
-8. [Building the Resilience Muscle](https://www.schoolbag.sg/story/building-the-resilience-muscle) **privacy error**
+8. [Building the Resilience Muscle](https://www.schoolbag.sg/story/building-the-resilience-muscle) **broken link**
 9. [Resources for Parents on Building Resilience in Children ](/files/Resources%20for%20Parents%20on%20Building%20Resilience%20in%20Children.pdf)
-10. [Raising your child for success](https://www.schoolbag.sg/story/raising-your-child-for-success#.VtaGwF_0qnO)**privacy error**
-11. [Are You a Helicopter Parent?](https://schoolbag.sg/story/are-you-a-helicopter-parent)**privacy error**
-12. [When sibling rivalry causes problematic behaviour](https://schoolbag.sg/story/when-sibling-rivalry-causes-problematic-behaviour#.VizMBrcrLIU)**privacy error**
-13. [ICT in Schools : To Use or Not to Use?](https://schoolbag.sg/story/ict-in-schools-to-use-or-not-to-use#.VizNFrcrLIU)**privacy error**
-14. [Every parent, a supportive partner](https://schoolbag.sg/story/every-parent-a-supportive-partner#.VizLqbcrLIU)**privacy error**
+10. [Raising your child for success](https://www.schoolbag.sg/story/raising-your-child-for-success#.VtaGwF_0qnO)**broken link**
+11. [Are You a Helicopter Parent?](https://schoolbag.sg/story/are-you-a-helicopter-parent)**broken link**
+12. [When sibling rivalry causes problematic behaviour](https://schoolbag.sg/story/when-sibling-rivalry-causes-problematic-behaviour#.VizMBrcrLIU)**broken link**
+13. [ICT in Schools : To Use or Not to Use?](https://schoolbag.sg/story/ict-in-schools-to-use-or-not-to-use#.VizNFrcrLIU)**broken link**
+14. [Every parent, a supportive partner](https://schoolbag.sg/story/every-parent-a-supportive-partner#.VizLqbcrLIU)**broken link**
