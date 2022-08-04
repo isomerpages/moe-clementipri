@@ -39,3 +39,7 @@ Working closely with Ministry of Social and Family Development (MSF), Mr Zahid h
 * 6 Jan 2015 - ["Transit and Succeed”- Christabel](/files/Transit%20and%20Succeed.pdf)
 
 #### Information for Parents
+1. [Is the highest-ranked school the right one for your child?](/files/Is%20the%20highest-ranked%20school%20the%20right%20one%20for%20your%20child.pdf)
+2. [Tip sheet for helping your child stay safe online 2017](/files/Tip%20sheet%20for%20helping%20your%20child%20stay%20safe%20online%202017.pdf)
+3. [‘Let Passion Take Flight 2017@Clementi](/files/‘Let%20Passion%20Take%20Flight%202017@Clementi.pdf)
+4. Transition to Secondary Education’ Parent Seminar for parents of Primary 5 or Primary 6 students <br>Date/Time : Sat 15 July/9am-12noon<br>Venue : NTUC Auditorium, Level 7, NTUC Centre<br>For more information, please click [here]![](/images/image001.jpg)
