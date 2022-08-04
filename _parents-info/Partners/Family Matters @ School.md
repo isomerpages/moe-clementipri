@@ -10,4 +10,8 @@ Clementi Primary has partnered Ministry of Social and Family Development (MSF) t
 
 If you would like to receive email/SMS notifications of any upcoming programme, you could email our FamilyMatters@ School Coordinator, Mr Zahid Bin Abdul Aziz at [cps.familymatters@gmail.com](mailto:cps.familymatters@gmail.com)
 
-	
+<img src="/images/family%20matters%201.jpg" 
+     style="width:85%">
+		 
+**MR ZAHID BIN ABDUL AZIZ AND HIS FAMILY.** <br>
+**Coordinator of the FamilyMatters@School Programme**
