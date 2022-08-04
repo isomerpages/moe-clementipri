@@ -14,4 +14,5 @@ The P4 Adventure Camp 2019 was planned and implemented for all Primary 4 Clement
 
 For the first time this year, Clementians had the experience of camping at one of two campsites, namely the Changi Coast Outdoor Adventure Learning Centre and the Dairy Farm Outdoor Adventure Learning Centre.
 
-**gif**
+<img src="/images/Outdoor%20adventure%20camp.gif" 
+     style="width:65%">
