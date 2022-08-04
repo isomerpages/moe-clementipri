@@ -25,7 +25,7 @@ Working closely with Ministry of Social and Family Development (MSF), Mr Zahid h
 * 29 July 2016 - ["CONNECTING IN LOVE - APPLYING THE 5 LOVE LANGUAGES "](/files/CONNECTING%20IN%20LOVE%20-%20APPLYING%20THE%205%20LOVE%20LANGUAGES.pdf)
 * 25 Feb 2016 - ["How to Help Your Child Be Successful" ](https://staging.d2kepjbew636xb.amplifyapp.com/images/How%20to%20Help%20Your%20Child%20Be%20Successful.jpg) **Ms Serina Cheong**
 * 25 Feb 2016 - [ "How to Talk so Your Child Will Listen"] **Mrs Susan Comiskey**
-* 30 Jan 2016 - 
+* 30 Jan 2016 - "Father and Child Prawn Fishing" [(1)],(2)(3)(4) **broken link 2-4**
 * 22 Jan 2016 - 
 * 22 Jan 2016 - 
 * 6 Jan 2016 - 
@@ -40,3 +40,4 @@ Working closely with Ministry of Social and Family Development (MSF), Mr Zahid h
 
 #### Information for Parents
 ![](/images/How%20to%20Talk%20so%20Your%20Child%20Will%20Listen.jpg)
+![](/images/Father%20and%20Child%20Prawn%20Fishing.jpg)
