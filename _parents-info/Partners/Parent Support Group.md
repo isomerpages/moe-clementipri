@@ -12,6 +12,8 @@ third_nav_title: Partners
 #### Vision
 A nurturing school environment that develops every child to be a Leader, a Keen Learner, and a Friend.
 
+<br>
+
 #### Mission
 To render our services and provide support to the school programmes and activities through working together to promote collaborative partnerships among parents, teachers, and the community.
 
