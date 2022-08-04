@@ -17,4 +17,5 @@ The Clementians had fun while learning that Health is Wealth!
 <img src="/images/p5%20hpb.jpg" 
      style="width:65%">
 		 
-**gif**
+<img src="/images/5%20I%20LOVE%20ME!%20ROVING%20CARNIVAL%20BY%20HEALTH%20PROMOTION%20BOARD.gif" 
+     style="width:65%">
