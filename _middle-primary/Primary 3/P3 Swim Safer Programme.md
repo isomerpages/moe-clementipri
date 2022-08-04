@@ -9,4 +9,5 @@ P3 SwimSafer 2.0
 
 The SwimSafer™ 2.0 programme is a programme conducted by ActiveSG to teach swimming proficiency and water survival skills to children to minimize drowning incidences in a fun manner.
 
-**gif**
+<img src="/images/Swim%20Safer%20Programme.gif" 
+     style="width:65%">
