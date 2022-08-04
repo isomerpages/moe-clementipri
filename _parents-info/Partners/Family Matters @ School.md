@@ -22,3 +22,20 @@ Working closely with Ministry of Social and Family Development (MSF), Mr Zahid h
 ##### Past Events
 * 19 Jan 2018 - [Parenting talk - Helping your child set goals](/files/Parenting%20talk%20-%20Helping%20your%20child%20set%20goalss.pdf)
 * 11 August 2016 - ["Parenting by Design - Different children, different needs"](/files/Parenting%20by%20Design%20-%20Different%20children,%20different%20needs.pdf)
+* 29 July 2016 -
+* 25 Feb 2016 -
+* 25 Feb 2016 -
+* 30 Jan 2016 -
+* 22 Jan 2016 -
+* 22 Jan 2016 -
+* 6 Jan 2016 -
+* 5 Jan 2016 -
+* 23 Oct 2015 -
+* 23 Oct 2015 -
+* 19 May 2015 -
+* 15 May 2015 -
+* 14 Feb 2015 -
+* 24 Jan 2015 -
+* 6 Jan 2015 -
+
+#### Information for Parents
