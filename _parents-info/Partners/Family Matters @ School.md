@@ -32,10 +32,10 @@ Working closely with Ministry of Social and Family Development (MSF), Mr Zahid h
 * 5 Jan 2016 - ["Transition to Primary School" - Poh Ee-Lyn](/files/Transition%20to%20Primary%20School.pdf)
 * 23 Oct 2015 - ["Scream-Free Parenting" - Ms Ada Wong and](/files/Scream-Free%20Parenting.pdf)
 * 23 Oct 2015 - ["Transition to Secondary School" - Mr Richard Chang](/files/Transition%20to%20Secondary%20School.pdf)
-* 19 May 2015 - 
-* 15 May 2015 - 
-* 14 Feb 2015 - 
-* 24 Jan 2015 - 
-* 6 Jan 2015 - 
+* 19 May 2015 - [" Building Self-Assertive Skill' - Ms Caroline David](/files/Building%20Self-Assertive%20Skill.pdf)
+* 15 May 2015 - ["How to handle your child's talk-back behaviour" - Mr David Seah](/files/How%20to%20handle%20your%20child's%20talk-back%20behaviour.pdf)
+* 14 Feb 2015 - [" Parent – Child Bonding Through “Creative BIG Memories in a Mini Album "](/files/%20Parent%20–%20Child%20Bonding%20Through%20“Creative%20BIG%20Memories%20in%20a%20Mini%20Album.pdf)
+* 24 Jan 2015 - ["Even Eagles Need a Push” - Mr Jeffrey Goh](/files/Even%20Eagles%20Need%20a%20Push.pdf)
+* 6 Jan 2015 - ["Transit and Succeed”- Christabel](/files/Transit%20and%20Succeed.pdf)
 
 #### Information for Parents
