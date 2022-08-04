@@ -5,4 +5,6 @@ description: ""
 third_nav_title: Primary 3
 ---
 ### P3 Music Programme
-**gif**
+
+<img src="/images/Music.gif" 
+     style="width:65%">
