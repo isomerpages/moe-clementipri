@@ -24,3 +24,11 @@ Good teacher-student relationship enhances pupils’ learning. Very Important Pu
 ##### Form Teacher Guidance Period
 The Form Teacher Guidance Period is an important weekly time for form teachers to carry out various lessons including cyberwellness, growth mindset and habits of mind lessons and the discussion of contemporary issues in society today. Form teachers use a variety of facilitation strategies to draw out student discussion in class and help students develop key traits such as empathy and perspective-taking.
 
+<img src="/images/Form%20Teacher%20Guidance%20Period.jpg" 
+     style="width:65%">
+		 
+##### Assembly Talks
+Throughout the year, the school also organises Assembly Talks covering a range of issues such as Cyber Bullying, Kindness, Climate Change and Recycling. Some of the Assembly talks are conducted by external partners such as the Singapore Police and the National Environment Agency. In Clementi Primary, the assembly programmes are carefully curated and targeted for each level so that all students are meaningfully engaged.
+
+<img src="/images/Assembly%20Talks.jpeg" 
+     style="width:65%">
