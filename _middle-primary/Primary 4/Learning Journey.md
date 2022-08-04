@@ -11,4 +11,5 @@ As part of the Social Studies curriculum, our P4 pupils went on a learning journ
 
 Chinatown Heritage Centre presents an eye-opening experience of the journey of Singapore, providing deeper insights and cultivating greater appreciation of the story and spirit of Singapore – the little red dot that succeeded to survive and thrive against the odds.
 
-**gif**
+<img src="/images/Learning%20Journey%20P4.gif" 
+     style="width:65%">
