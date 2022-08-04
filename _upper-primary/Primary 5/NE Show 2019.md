@@ -9,4 +9,5 @@ It is an annual affair for our P5 Clementians to be invited to attend the Nation
 
 Through the NE Show, we hope our Clementians are inspired to look towards the future with hope and that the experience of waving flags, singing their favourite NDP songs and watching spectacular fireworks display, has created lasting memories for them!
 
-**gif**
+<img src="/images/NE%20SHOW%202019.gif" 
+     style="width:65%">
