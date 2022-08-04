@@ -26,12 +26,12 @@ Working closely with Ministry of Social and Family Development (MSF), Mr Zahid h
 * 25 Feb 2016 - ["How to Help Your Child Be Successful" ](https://staging.d2kepjbew636xb.amplifyapp.com/images/How%20to%20Help%20Your%20Child%20Be%20Successful.jpg) **Ms Serina Cheong**
 * 25 Feb 2016 - [ "How to Talk so Your Child Will Listen"](https://staging.d2kepjbew636xb.amplifyapp.com/images/How%20to%20Talk%20so%20Your%20Child%20Will%20Listen.jpg) **Mrs Susan Comiskey**
 * 30 Jan 2016 - "Father and Child Prawn Fishing" [(1)](https://staging.d2kepjbew636xb.amplifyapp.com/images/Father%20and%20Child%20Prawn%20Fishing.jpg),(2)(3)(4) **broken link 2-4**
+* 22 Jan 2016 -["Father's Role In Parenting] **Mr David Seah**
 * 22 Jan 2016 - ["The Intentional Parent - Character First"]
-* 22 Jan 2016 - ["Maximising your child's learning potential" - Monica Fernando](/files/Maximising%20your%20child's%20learning%20potential.pdf)
-* 6 Jan 2016 - 
-* 5 Jan 2016 - 
-* 23 Oct 2015 - 
-* 23 Oct 2015 - 
+* 6 Jan 2016 -  ["Maximising your child's learning potential" - Monica Fernando](/files/Maximising%20your%20child's%20learning%20potential.pdf)
+* 5 Jan 2016 - ["Transition to Primary School" - Poh Ee-Lyn](/files/Transition%20to%20Primary%20School.pdf)
+* 23 Oct 2015 - ["Scream-Free Parenting" - Ms Ada Wong and](/files/Scream-Free%20Parenting.pdf)
+* 23 Oct 2015 - ["Transition to Secondary School" - Mr Richard Chang](/files/Transition%20to%20Secondary%20School.pdf)
 * 19 May 2015 - 
 * 15 May 2015 - 
 * 14 Feb 2015 - 
