@@ -22,20 +22,21 @@ Working closely with Ministry of Social and Family Development (MSF), Mr Zahid h
 ##### Past Events
 * 19 Jan 2018 - [Parenting talk - Helping your child set goals](/files/Parenting%20talk%20-%20Helping%20your%20child%20set%20goalss.pdf)
 * 11 August 2016 - ["Parenting by Design - Different children, different needs"](/files/Parenting%20by%20Design%20-%20Different%20children,%20different%20needs.pdf)
-* 29 July 2016 -
-* 25 Feb 2016 -
-* 25 Feb 2016 -
-* 30 Jan 2016 -
-* 22 Jan 2016 -
-* 22 Jan 2016 -
-* 6 Jan 2016 -
-* 5 Jan 2016 -
-* 23 Oct 2015 -
-* 23 Oct 2015 -
-* 19 May 2015 -
-* 15 May 2015 -
-* 14 Feb 2015 -
-* 24 Jan 2015 -
-* 6 Jan 2015 -
+* 29 July 2016 - ["CONNECTING IN LOVE - APPLYING THE 5 LOVE LANGUAGES "](/files/CONNECTING%20IN%20LOVE%20-%20APPLYING%20THE%205%20LOVE%20LANGUAGES.pdf)
+* 25 Feb 2016 - ["How to Help Your Child Be Successful" ] **Ms Serina Cheong**
+* 25 Feb 2016 - 
+* 30 Jan 2016 - 
+* 22 Jan 2016 - 
+* 22 Jan 2016 - 
+* 6 Jan 2016 - 
+* 5 Jan 2016 - 
+* 23 Oct 2015 - 
+* 23 Oct 2015 - 
+* 19 May 2015 - 
+* 15 May 2015 - 
+* 14 Feb 2015 - 
+* 24 Jan 2015 - 
+* 6 Jan 2015 - 
 
 #### Information for Parents
+![](/images/How%20to%20Help%20Your%20Child%20Be%20Successful.jpg)
