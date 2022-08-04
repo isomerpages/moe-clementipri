@@ -19,7 +19,8 @@ All these while working together as a class for their graduation performance for
 
 Let the photos speak for their enthusiasm!
 
-**gif**
+<img src="/images/POST-PSLE%20PROGRAMME.gif" 
+     style="width:65%">
 
 #### Learning Journey to Kranji War Memorial
 <img src="/images/p6%20Kranji%20War%20Memorial%202.jpg" 
