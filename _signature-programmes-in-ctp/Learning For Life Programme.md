@@ -19,7 +19,9 @@ Through our LLP, Clementians will enjoy art from learning various experiences th
 In line with MOE’s Art Syllabus 2018, the Primary 4 Museum Based Learning is one of the core learning experiences. Clementians will learn to observe museum etiquette and respond to artworks that have been identified specifically for this learning experience. Our Art and Social Studies teacher-docents will engage Clementians with the subject matter of the artworks and art forms through a meaningful and integrated approach, where the past, present and future world of art in Singapore is at the core or their learning (MOE, 2018).
 
 Clementians with the potential and passion in visual arts will be identified by their art teachers to attend after-school art enrichment programmes that aim to help them hone their skills and deepen their interests. The three-tier enrichment programmes, SPARK (P1/P2), GLOW (P3/P4) and BLAZE (P5/P6), are designed to extend their technical skills while engaging in advanced art making tasks.
+
 <br>
+
 | Levels/Programmes | P1 & P2 | | P3 | P4 | P5 | P6 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Visual Arts Curriculum Modules | · Watercolour Painting <br>· Collage <br>· Hand building (Plasticine) |  | · Acrylic Painting <br> · Collage<br> · Hand building (Coiling) | · Acrylic Painting · Collage · Hand building (Pinching) | · Printmaking · Digital Art (Poster Design) · Hand building (Slab) | · Batik Painting · Digital Art (Animation)   |
