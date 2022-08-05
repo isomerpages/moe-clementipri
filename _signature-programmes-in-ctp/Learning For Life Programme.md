@@ -11,6 +11,7 @@ Visual arts education involves ways of knowing about the world through thought, 
 Through our LLP, Clementians will enjoy art from learning various experiences that are created for them within and beyond school. Clementians will also learn to communicate their ideas visually through the use of various materials, tools and media in different art forms. Such learning experiences are also aimed to equip Clementians with the skills to discuss and interpret artwork while learning about other cultures. The outcomes of our LLP are also aligned to MOE’s Primary Art Syllabus Framework shown below.
 
 ![](/images/LLP%20framework.png)
+
 | |
 |:---:|
 | Figure 1: Primary Art Syllabus Framework |
@@ -21,7 +22,7 @@ Clementians with the potential and passion in visual arts will be identified by 
 <br>
 | Levels/Programmes | P1 & P2 | | P3 | P4 | P5 | P6 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Visual Arts Curriculum Modules |  · Watercolour Painting <br>· Collage <br>· Hand building (Plasticine) |  | · Acrylic Painting <br> · Collage<br> · Hand building (Coiling) | · Acrylic Painting · Collage · Hand building (Pinching) | · Printmaking · Digital Art (Poster Design) · Hand building (Slab) | · Batik Painting · Digital Art (Animation)   |
+| Visual Arts Curriculum Modules | · Watercolour Painting <br>· Collage <br>· Hand building (Plasticine) |  | · Acrylic Painting <br> · Collage<br> · Hand building (Coiling) | · Acrylic Painting · Collage · Hand building (Pinching) | · Printmaking · Digital Art (Poster Design) · Hand building (Slab) | · Batik Painting · Digital Art (Animation)   |
 |
 
 ##### Drawing
