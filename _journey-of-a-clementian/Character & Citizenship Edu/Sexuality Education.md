@@ -53,7 +53,6 @@ third_nav_title: Character & Citizenship Edu
 |  | Stop It! Run! Tell!<br> (30 min) |  - protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br> - know their responsibilities in minimising the risk of sexual harm | Term 2 Week 6 |
 |
 
-<br>
 
 |  |  | **Primary 6** |  |
 |---|---|---|---|
