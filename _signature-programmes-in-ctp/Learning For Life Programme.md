@@ -19,3 +19,7 @@ In line with MOE’s Art Syllabus 2018, the Primary 4 Museum Based Learning is o
 
 Clementians with the potential and passion in visual arts will be identified by their art teachers to attend after-school art enrichment programmes that aim to help them hone their skills and deepen their interests. The three-tier enrichment programmes, SPARK (P1/P2), GLOW (P3/P4) and BLAZE (P5/P6), are designed to extend their technical skills while engaging in advanced art making tasks.
 
+| Levels/Programmes | P1 | P2 | P3 | P4 | P5 | P6 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Visual Arts Curriculum Modules |  Watercolour Painting Collage Hand building (Plasticine) |  | ·Acrylic Painting ·Collage ·Hand building (Coiling) | ·Acrylic Painting ·Collage ·Hand building (Pinching) | ·Printmaking ·Digital Art (Poster Design) ·         Hand building (Slab) | ·Batik Painting ·Digital Art (Animation)   |
+|
