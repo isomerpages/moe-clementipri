@@ -28,3 +28,5 @@ Having developed the foundational skills from Primary 1 to 3, at the upper prima
 
 To complement level-based programmes, the school will conduct extension activities for all Clementians to deepen their understanding of DT. Clementians will apply DT through thoughtfully planned programmes and learning journeys that aim to trigger their curiosity and nurture their creativity. Examples of such extension activities include mass or level-targeted interdisciplinary themed programmes in the form of performances, skits and talks. Platforms such as recess performances on the library stage will also provide opportunities for Clementians to display their creative products and talent. In addition to the school’s Doodle Walls and Lego Corners, additional learning spaces like the Tinker Space also allow Clementians to express their creativity before, during and after school.
 
+<img src="/images/applied%20learning%20programme.gif" 
+     style="width:85%">
