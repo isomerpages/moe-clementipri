@@ -2,15 +2,15 @@ collections:
   enrichment:
     output: true
     order:
+      - Enrichment.md
       - Primary 3/.keep
+      - Primary 4/.keep
       - Primary 4/Chinese Theatre Arts Programme.md
       - Primary 4/Malay Pelakon Cilik.md
       - Primary 4/P4 Speak Right (Readers' Theatre).md
       - Primary 4/Tamil Radio Drama Programme.md
       - Primary 4/P4 Coding Enrichment.md
-      - Primary 4/.keep
       - Primary 5.md
       - Primary 6/.keep
       - Primary 6/Primary 6.md
       - Primary 6/Drone Workshop.md
-      - Enrichment.md
