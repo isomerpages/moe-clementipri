@@ -29,16 +29,16 @@ Pupils in the Math ALPHA+ and Science ALPHA+ will attend the E2K Mathematics Pro
 
 #### E2k Science
 <img src="/images/e2k%20science%201.gif" 
-     style="width:85%">
+     style="width:75%">
 		 
 #### E2k Math
 <img src="/images/e2k%20math.gif" 
-     style="width:85%">
+     style="width:75%">
 
 #### Destination Imagination
 <img src="/images/destination%20imagination.gif" 
-     style="width:85%">
+     style="width:75%">
 
 #### Learning Journey to NYP
 <img src="/images/learning%20journey%20to%20NYP.gif" 
-     style="width:85%">
+     style="width:75%">
