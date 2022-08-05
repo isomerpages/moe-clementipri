@@ -17,4 +17,5 @@ As Clementians delved into hands-on activities such as building an efficient wat
 
 As a school, students were encouraged to step out of their comfort zone during their recesses as they participated in the water rationing exercise. They had to be mindful over the use of water for drinking and washing their hands. With limited water supply and the taps turned off, Clementians were asked to reflect about possible consequences of a water shortage in the future. After all, “every drop counts” and everyone plays a role to ensure our water supply remains sufficient and sustainable for generations to come.
 
-![](/images/world%20water%20day.gif)
+<img src="/images/world%20water%20day.gif" 
+     style="width:85%">
