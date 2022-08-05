@@ -2,5 +2,6 @@ collections:
   enrichment:
     output: true
     order:
+      - Overview/Primary 3.md
       - Overview/Enrichment.md
       - Overview/.keep
