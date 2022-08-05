@@ -1,10 +1,4 @@
 collections:
   enrichment:
     output: true
-    order:
-      - Overview/Primary 6.md
-      - Overview/Primary 5.md
-      - Overview/Primary 4.md
-      - Overview/Primary 3.md
-      - Overview/Enrichment.md
-      - Overview/.keep
+    order: []
