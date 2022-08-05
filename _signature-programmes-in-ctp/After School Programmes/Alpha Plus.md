@@ -24,12 +24,21 @@ Pupils in the Math ALPHA+ and Science ALPHA+ will attend the E2K Mathematics Pro
 “I love DI because it is very fun and exciting, and teaches me a lot of things that are not taught in the textbooks. Improvisation is super challenging and we need a lot of practice but I love it!” (Megan Lim)
 
 #### Alpha+ Carnival
+<img src="/images/alpha%20carnival.gif" 
+     style="width:45%">
 
 #### E2k Science
+<img src="/images/e2k%20science.gif" 
+     style="width:85%">
 
 #### E2k Math
+<img src="/images/e2k%20math.gif" 
+     style="width:85%">
 
 #### Destination Imagination
+<img src="/images/destination%20imagination.gif" 
+     style="width:85%">
 
 #### Learning Journey to NYP
-
+<img src="/images/learning%20journey%20to%20NYP.gif" 
+     style="width:85%">
