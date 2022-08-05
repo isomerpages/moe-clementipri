@@ -21,5 +21,5 @@ Clementians with the potential and passion in visual arts will be identified by 
 
 | Levels/Programmes | P1 | P2 | P3 | P4 | P5 | P6 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Visual Arts Curriculum Modules |  Watercolour Painting Collage Hand building (Plasticine) |  | ·Acrylic Painting ·Collage ·Hand building (Coiling) | ·Acrylic Painting ·Collage ·Hand building (Pinching) | ·Printmaking ·Digital Art (Poster Design) ·         Hand building (Slab) | ·Batik Painting ·Digital Art (Animation)   |
+| Visual Arts Curriculum Modules |  Watercolour Painting Collage Hand building (Plasticine) |  | ·Acrylic Painting <br> ·Collage ·Hand building (Coiling) | ·Acrylic Painting ·Collage ·Hand building (Pinching) | ·Printmaking ·Digital Art (Poster Design) ·         Hand building (Slab) | ·Batik Painting ·Digital Art (Animation)   |
 |
