@@ -36,4 +36,8 @@ Clementians with the potential and passion in visual arts will be identified by 
 |  | SPARK | GLOW | BLAZE |
 |---|:---:|:---:|:---:|
 | Talent <br>Enrichment <Br> Programme | ·Drawing<br>·Painting<br>·Crafts |·Painting<br>·Sculpture | ·Illustration |
+
+| School Programmes | Competitions | Exhibitions | W1 Cluster Programmes |
+|---|---|---|---|
+| · ART@ Recess (ARTivities) <br> · Assembly Programmes (Artist Talks) <br> · Cyber Wellness Week (Art and ICT)<br> | · Singapore Youth Festival <br>· Internal/External | · Art Gallery (Artique)<br>  · Classrooms | ·Art Teachers' Learning · Journey and Workshop <br> · Art Camp <br> · Art Exhibition @ Clementi Public Library <br> · Art Workshop @ Clementi Public Library  
 |
