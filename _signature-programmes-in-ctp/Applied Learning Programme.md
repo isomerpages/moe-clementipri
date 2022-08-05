@@ -30,3 +30,8 @@ To complement level-based programmes, the school will conduct extension activiti
 
 <img src="/images/applied%20learning%20programme.gif" 
      style="width:85%">
+		 
+| Levels/Programmes | P1 | P2 | P3 | P4 | P5 | P6 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Visual Arts Curriculum Modules |  Watercolour Painting Collage Hand building (Plasticine) |  | ·Acrylic Painting <br> ·Collage ·Hand building (Coiling) | ·Acrylic Painting ·Collage ·Hand building (Pinching) | ·Printmaking ·Digital Art (Poster Design) ·         Hand building (Slab) | ·Batik Painting ·Digital Art (Animation)   |
+|		 
