@@ -29,9 +29,9 @@ Clementians with the potential and passion in visual arts will be identified by 
 
 ##### Drawing
 
-| Levels/Programmes | P1 & P2 | | P3 | P4 | P5 | P6 |
+| Levels/Programmes | P1 & P2 | | P3 | P4 | P5 & P6 ||
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Learning Experiences | · Museum Based Learning <br>· (School Art Gallery) |  | · CCA Experience <br>· (Art Club) |  · Museum Based Learning<br> · (Art and <br>· Social Studies) |  · Outreach Projects <br>· (Art Club) |
+| Learning Experiences | · Museum Based Learning <br>· (School Art Gallery) |  | · CCA Experience <br>· (Art Club) |  · Museum Based Learning<br> · (Art and <br>· Social Studies) |  · Outreach Projects <br>· (Art Club) ||
 |
 
 ##### Learning Portfolios
