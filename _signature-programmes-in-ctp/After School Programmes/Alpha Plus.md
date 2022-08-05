@@ -28,9 +28,9 @@ Pupils in the Math ALPHA+ and Science ALPHA+ will attend the E2K Mathematics Pro
      style="width:45%">
 
 #### E2k Science
-<img src="/images/e2k%20science.gif" 
+<img src="/images/e2k%20science%201.gif" 
      style="width:85%">
-
+		 
 #### E2k Math
 <img src="/images/e2k%20math.gif" 
      style="width:85%">
