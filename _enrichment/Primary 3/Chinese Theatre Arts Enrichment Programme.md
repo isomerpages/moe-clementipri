@@ -13,6 +13,9 @@ To enhance their interest in learning the Chinese Language and to build their co
 <img src="/images/p3%20ctaep%201.jpg" 
      style="width:75%">
 		 
+<img src="/images/p3%20ctaep%202.jpg" 
+     style="width:85%">		 
+		 
 ![](/images/p3%20ctaep%202.jpg)
 
 ![](/images/p3%20ctaep%203.jpg)
