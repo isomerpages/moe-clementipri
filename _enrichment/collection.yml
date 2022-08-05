@@ -2,6 +2,7 @@ collections:
   enrichment:
     output: true
     order:
+      - Primary 4/P4 Coding Enrichment.md
       - Primary 4/.keep
       - Primary 5.md
       - Primary 6/.keep
