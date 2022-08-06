@@ -21,4 +21,5 @@ Ultimately, PAL seeks to equip our pupils with life skills and dispositions for 
 
 With these dispositions and the content knowledge and skills of the other subjects in the school curriculum, our pupils will be set for the world of the future.
 
-**gif**
+<img src="/images/PAL.gif" 
+     style="width:65%">
