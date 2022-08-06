@@ -15,3 +15,11 @@ third_nav_title: CCA
 | **Rope Skipping** |Mdm Suraya Bt Yacob (ST/Lower Pri) <br> Ms Clara Yeo  <br>Mdm Nurshahidah Bte Md.Shah  <br>Mdm Cynthia Lim (ST/SEN)<br>  Mdm Neo Swee Hong | School Hall |
 | **Taekwondo** | Mdm Lim Ai Fang (ST/CH)<br> Mrs Serene Teo <br>Mdm Nora  | The Quad |
 |
+
+#### Badminton
+<img src="/images/badminton.gif" 
+     style="width:65%">
+
+#### Basketball
+<img src="/images/basketball.gif" 
+     style="width:65%">
