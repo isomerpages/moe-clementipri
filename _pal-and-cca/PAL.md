@@ -23,3 +23,18 @@ With these dispositions and the content knowledge and skills of the other subjec
 
 <img src="/images/PAL.gif" 
      style="width:65%">
+		 
+#### PAL @ CTPS
+All Primary 1 & 2 pupils will participate in PAL.<br>
+1.5 hours of PAL a week. PE Attire. <br>
+4 Domains over 2 years: <br>
+*     Sports & Games
+*     Outdoor Education
+*     Performing Arts (Music / Dance / Drama)
+*     Visual Arts
+
+| Level | PAL Domains covered throughout the year |  |  |
+|:---:|:---:|:---:|:---:|
+| Primary 1 | Visual Arts  | Performing Arts (Music) | Sports and Games  |
+| Primary 2 | Performing Arts (Dance) | Performing Arts (Drama) | Outdoor Education |
+|
