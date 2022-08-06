@@ -46,34 +46,49 @@ All Primary 1 & 2 pupils will participate in PAL.<br>
 <img src="/images/visual%20arts%202.jpg" 
      style="width:49%" align=right>		 
 		 
+<br><br><br><br><br>
+<br><br><br>
+
 ##### Performing Arts (Music)
 
 <img src="/images/music%201.png" 
      style="width:49%" align=left>
 <img src="/images/music%202.png" 
      style="width:49%" align=right>		 
+		 
 <br><br><br><br><br>
+<br><br><br>
+
 ##### Sports and Games
 
 <img src="/images/sports%20and%20games%201.jpg" 
      style="width:49%" align=left>
 <img src="/images/sports%20and%20games%202.png" 
      style="width:49%" align=right>		 
+		 
 <br><br><br><br><br>
+<br><br><br>
+
 ##### Performing Arts (Dance)
 
 <img src="/images/dance%201.jpg" 
      style="width:49%" align=left>
 <img src="/images/dance%202.jpg" 
      style="width:49%" align=right>		 
+		 
 <br><br><br><br><br>
+<br><br><br>
+
 ##### Performing Arts (Drama)
 
 <img src="/images/drama%201.jpg" 
      style="width:49%" align=left>
 <img src="/images/drama%202.jpg" 
      style="width:49%" align=right>
+		 
 <br><br><br><br><br>
+<br><br><br>
+
 ##### Outdoor Education
 
 <img src="/images/outdoor%20edu%201.jpg" 
