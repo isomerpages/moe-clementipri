@@ -14,3 +14,6 @@ third_nav_title: CCA
 | **Robotics Club** | Mr Paul Ling <br>Ms Zhong Linshan <br>Mrs Sedryln Si | Level 4 Resource Room |
 | International Chess | Mr Ali <br>Mdm Sasikala <br>Mdm Tan Seok Hymn Mimy  | A5-05, A5-07 |
 |
+
+<img src="/images/sci%20and%20environmental%20club.gif" 
+     style="width:65%">
