@@ -8,11 +8,10 @@ third_nav_title: CCA
 
 | **CCA** | **Teachers** | **Venue** |
 |:---:|:---:|:---:|
-| **Badminton** (Level 1 Classroom) | Mr Chau Chee Sing Kenny Mdm Liu Hua Ms Lee Wan Yi Mdm Chong Wei Sea | Clementi Sports Complex & CTSS ISH |
-| **Basketball** (Level 1 Classroom) | Mdm Jo Tang Wai Han  Mr Lai Huei Yuh Mdm Ng Yee Yun Mr Matthew Lim Juin Meng Noah Ms Kir Soo Kien Mdm Jo Tang | Courtyard, CTPS ISHH |
-| **Floorball** | Mdm Hazlinda Bte Mansor Mr Wu Xin Mr Tan Lin How Mrs Kristale Teo  Mrs Lek Lay Hwa  | School Hall |
-| **Football** (Courtyard) | Mr Md. Hafiz (SH/PAL & CCA) Mr Shamsudin Bin Rahmat Ms Siti Nur Ruzanna Mr Gary Lin Wen'An  Mr Bala | CTSS Field |
-| **Rope Skipping** | Mdm Suraya Bt Yacob (ST/Lower Pri)  Ms Clara Yeo  Mdm Nurshahidah Bte Md.Shah  Mdm Cynthia Lim (ST/SEN)  Mdm Neo Swee Hong | School Hall |
-| **Taekwondo** | Mdm Lim Ai Fang (ST/CH) Mrs Serene Teo Mdm Nora  | The Quad |
+| **Badminton** (Level 1 Classroom) | Mr Chau Chee Sing Kenny <br> Mdm Liu Hua <br>Ms Lee Wan Yi <br>Mdm Chong Wei Sea | Clementi Sports Complex & CTSS ISH |
+| **Basketball** (Level 1 Classroom) | Mdm Jo Tang Wai Han <br> Mr Lai Huei Yuh <br>Mdm Ng Yee Yun<br> Mr Matthew Lim Juin Meng Noah<br> Ms Kir Soo Kien <br>Mdm Jo Tang | Courtyard, CTPS ISHH |
+| **Floorball** |Mdm Hazlinda Bte Mansor<br> Mr Wu Xin<br> Mr Tan Lin How <br>Mrs Kristale Teo<br>  Mrs Lek Lay Hwa  | School Hall |
+| **Football** (Courtyard) | Mr Md. Hafiz (SH/PAL & CCA) <br>Mr Shamsudin Bin Rahmat <br>Ms Siti Nur Ruzanna<br> Mr Gary Lin Wen'An<br>  Mr Bala | CTSS Field |
+| **Rope Skipping** |<br> Mdm Suraya Bt Yacob (ST/Lower Pri) <br> Ms Clara Yeo  <br>Mdm Nurshahidah Bte Md.Shah  <br>Mdm Cynthia Lim (ST/SEN)<br>  Mdm Neo Swee Hong | School Hall |
+| **Taekwondo** | Mdm Lim Ai Fang (ST/CH)<br> Mrs Serene Teo <br>Mdm Nora  | The Quad |
 |
-
