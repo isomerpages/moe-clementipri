@@ -16,3 +16,15 @@ third_nav_title: CCA
 | **Indian Dance** | Mdm Latheefa Beevi <br> Ms Nandhini <br>Mdm Santhi | PAL Room 2 |
 | **Malay Dance** | Mdm Afidah <br>Ms Nasuha  <br>Mdm Haryati | Music Room 1 |
 |
+
+#### Art Club
+
+
+#### Bass Band
+
+
+#### Choir
+
+
+#### Malay Dance
+
