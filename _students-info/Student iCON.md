@@ -49,12 +49,12 @@ Please follow the password requirements below: <br>
 &nbsp;·&nbsp;Password must not match or contain user ID.	
 	
 ##### Q6.**I have encountered one of the following problems:**<br>
-1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Error AADSTS900561 given by the Google website.** <br>
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Website does not load.**<br>
-3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Website keeps refreshing between two sites without loading any page.**<br>
-4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Website keeps refreshing itself without loading the page.  **<br>
-5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Error 400. Server cannot process the request because it is malformed.**<br>
-6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**I get a prompt for me to enter a mobile number verification.**
+1.**Error AADSTS900561 given by the Google website.** <br>
+2.**Website does not load.**<br>
+3.**Website keeps refreshing between two sites without loading any page.**<br>
+4.**Website keeps refreshing itself without loading the page.**<br>
+5.**Error 400. Server cannot process the request because it is malformed.**<br>
+6.**I get a prompt for me to enter a mobile number verification.**
 	
 **What should I do?**	
 * For items 1 to 5, check that the browser is supported by Student iCON by referring to the Operating System / Browser table above.&nbsp;Close the browser and reopen it. Navigate to&nbsp;[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)&nbsp;and repeat the logging in procedure. 	
