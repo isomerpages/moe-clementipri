@@ -57,13 +57,10 @@ Please follow the password requirements below: <br>
 6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**I get a prompt for me to enter a mobile number verification.**
 	
 **What should I do?**	
-·&nbsp;For items 1 to 5, check that the browser is supported by Student iCON by referring to the Operating System / Browser table above.&nbsp;Close the browser and reopen it. Navigate to&nbsp;[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)&nbsp;and repeat the logging in procedure. 
-	
-·&nbsp;For items 6, enter one of the parent’s / guardian’s handphone number where a one time pin (OTP) will be sent to the number. Key the OTP into the following webpage and the student will be able to login to student iCON.	
-	
-·&nbsp;If the above does not work, use&nbsp;Incognito mode&nbsp;on your browser to login.&nbsp;Upon activating&nbsp;Incognito mode, proceed to&nbsp;[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)&nbsp;and repeat the logging in procedure.
-	
-·&nbsp;Please contact the school's General Office at&nbsp;**6779 7449**&nbsp;or send an email to&nbsp;[admin_clementi_ps@moe.edu.sg](mailto:admin_clementi_ps@moe.edu.sg). Please note that requests made after 3 pm can only be attended to by the next working day.	
+* For items 1 to 5, check that the browser is supported by Student iCON by referring to the Operating System / Browser table above.&nbsp;Close the browser and reopen it. Navigate to&nbsp;[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)&nbsp;and repeat the logging in procedure. 	
+* For items 6, enter one of the parent’s / guardian’s handphone number where a one time pin (OTP) will be sent to the number. Key the OTP into the following webpage and the student will be able to login to student iCON.	
+* If the above does not work, use&nbsp;Incognito mode&nbsp;on your browser to login.&nbsp;Upon activating&nbsp;Incognito mode, proceed to&nbsp;[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)&nbsp;and repeat the logging in procedure.
+* Please contact the school's General Office at&nbsp;**6779 7449**&nbsp;or send an email to&nbsp;[admin_clementi_ps@moe.edu.sg](mailto:admin_clementi_ps@moe.edu.sg). Please note that requests made after 3 pm can only be attended to by the next working day.	
 	
 **Operating Hours:** <br>
 Mondays to Fridays: 7.30 a.m. to 3 p.m.  
@@ -84,4 +81,4 @@ For more details on student iCON, you may refer to the school website&nbsp;[www.
 ![](/images/Student%20iCON%20Account%20-%20P1%20to%20P3.png)
 	
 #### G Suite Applications Available for Primary 4 to 6 (Email is enabled with limitations
-![](/images/Student%20iCON%20Account%20-%20P4%20to%20P6.png)	
+![](/images/Student%20iCON%20Account%20-%20P4%20to%20P6.png)
