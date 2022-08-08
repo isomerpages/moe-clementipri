@@ -18,13 +18,17 @@ third_nav_title: CCA
 |
 
 #### Art Club
-![](/images/art%20club.gif)
+<img src="/images/art%20club.gif" 
+     style="width:65%">
 
 #### Bass Band
-![](/images/bass%20band.gif)
+<img src="/images/bass%20band.gif" 
+     style="width:65%">
 
 #### Choir
-![](/images/choir.gif)
+<img src="/images/choir.gif" 
+     style="width:65%">
 
 #### Malay Dance
-![](/images/malay%20dance.gif)
+<img src="/images/malay%20dance.gif" 
+     style="width:70%">
