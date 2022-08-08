@@ -53,3 +53,6 @@ The following are the recommended operating systems:
 * iPad with iOS 8 and later 
 * Android tablet with Android 5 and later 
 * SLS is accessible through the latest internet browsers (minimum: Internet Explorer 11, Google Chrome 51, FireFox 51 or Safari 7.1).
+
+##### **Q6 : Can SLS be accessed on mobile phones?**
+You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.
