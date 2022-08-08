@@ -18,7 +18,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: /Announcement/
+          url: /announcement/
         - title: SLS Login
           description: ""
           url: https://vle.learning.moe.edu.sg/login
