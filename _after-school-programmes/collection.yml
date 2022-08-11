@@ -1,5 +1,5 @@
 collections:
-  enrichment:
+  after-school-programmes:
     output: true
     order:
       - Enrichment/Overview.md
