@@ -1,4 +1,5 @@
 collections:
   alpha-plus:
     output: true
-    order: []
+    order:
+      - Enrichment/.keep
