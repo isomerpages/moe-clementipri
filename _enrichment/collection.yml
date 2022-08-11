@@ -1,5 +1,5 @@
 collections:
-  alpha-plus:
+  enrichment:
     output: true
     order:
       - Overview.md
