@@ -2,6 +2,7 @@ collections:
   enrichment:
     output: true
     order:
+      - Primary 6.md
       - Overview.md
       - Primary 3/Chinese Theatre Arts Enrichment Programme.md
       - Primary 3/Malay Pelakon Cilik.md
