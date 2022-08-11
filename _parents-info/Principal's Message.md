@@ -4,9 +4,8 @@ permalink: /Parents-Info/principal-message/
 description: ""
 ---
 ### Principal's Message
-
-<img src="/images/principal%20message.jpg" 
-     style="width:25%" align=left>
+		 
+<img src="/images/principal%20message.jpg" style="width:25%;margin-right:15px;" align = "left">		 
 		 
 A very warm welcome to the School Year for 2021.<br>
 The past year has been tough for all of us and we look forward to a new year filled with hope and new aspirations. I am Mr Vimalenthiran Vijayasingam and will be honoured to take care of your children together with the staff of Clementi Primary School. I believe in this tenet that we will love your children first, then we will educate them. Nothing matters more than a good upbringing with love and values at the core. We hope to provide this for all Clementians and will work hard to ensure that we do.
