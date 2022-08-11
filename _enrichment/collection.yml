@@ -2,8 +2,8 @@ collections:
   enrichment:
     output: true
     order:
-      - Primary 4.md
-      - Primary 3.md
-      - Primary 6.md
       - Overview.md
+      - Primary 3.md
+      - Primary 4.md
       - Primary 5.md
+      - Primary 6.md
