@@ -2,6 +2,7 @@ collections:
   after-school-programmes:
     output: true
     order:
+      - Alpha Plus.md
       - Enrichment/Overview.md
       - Enrichment/Primary 3.md
       - Enrichment/Primary 4.md
