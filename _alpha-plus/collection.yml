@@ -1,5 +1,0 @@
-collections:
-  alpha-plus:
-    output: true
-    order:
-      - Enrichment/.keep
