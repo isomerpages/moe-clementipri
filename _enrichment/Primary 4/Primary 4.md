@@ -72,4 +72,10 @@ The programme aims to build Clementians’ creativity and equip them with vocali
      style="width:65%">
 		 
 <img src="/images/Radio%20Drama%20Programme%203.jpg" 
+     style="width:65%">
+		 
+### P4 Coding Enrichment
+The P4 Coding enrichment programme allows pupils to learn how to write codes into micro:bit to perform functions. Clementians will be exposed to see how micro:bit can be used to make simple applications in their daily lives. Through the hands-on sessions, pupils will learn creative problem-solving skills using science and technology.
+
+<img src="/images/p4%20coding.gif" 
      style="width:65%">		 
