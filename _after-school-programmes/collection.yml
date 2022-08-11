@@ -2,12 +2,12 @@ collections:
   after-school-programmes:
     output: true
     order:
-      - School Based Remediation.md
-      - MOE Based Remediation.md
       - Alpha Plus.md
+      - Enrichment/.keep
       - Enrichment/Overview.md
       - Enrichment/Primary 3.md
       - Enrichment/Primary 4.md
       - Enrichment/Primary 5.md
       - Enrichment/Primary 6.md
-      - Enrichment/.keep
+      - MOE Based Remediation.md
+      - School Based Remediation.md
