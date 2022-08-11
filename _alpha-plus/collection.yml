@@ -1,5 +1,5 @@
 collections:
-  alpha:
+  alpha-plus:
     output: true
     order:
       - Overview.md
