@@ -1,0 +1,6 @@
+collections:
+  students-info:
+    output: true
+    order:
+      - Student iCON.md
+      - SLS.md

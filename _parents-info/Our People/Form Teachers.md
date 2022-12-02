@@ -1,0 +1,127 @@
+---
+title: Form Teachers
+permalink: /Parents-Info/Our-People/form-teachers/
+description: ""
+third_nav_title: Our People
+---
+### Form Teachers
+
+| Class | Designation | Name |
+|:---:|:---:|:---:|
+| **Primary 1** |  |  |
+| P1 INITIATIVE | MDM | HAZLINDA BTE MANSOR |
+|  | MS | NG DAN YING |
+| P1 RESPONSIBILITY | MDM | LIAW LI CHING |
+|  | MDM | SITI NUR RUZANNA BTE RAMLAN |
+| P1 EMPATHY | MDM | LIM PEY TING |
+|  | MDM | NUR AMANINA BTE ZAINI |
+| P1 SINCERITY | MDM | NORASHIQIN BTE MD NOR |
+|  | MDM | NG YEE YUN |
+| P1 PERSEVERANCE | MDM | KOH MAY LING CORINA |
+|  | MDM | SANTHI D/O SEENAEVASAN |
+| P1 ENTHUSIASM | MDM | KOH WOON GHEE AMY |
+|  | MR | SHAMSUDIN BIN RAHMAT |
+| P1 CONFIDENCE | MS | TAN KIAN MUAR |
+|  | MDM | UNI MURNI BTE ISMAIL |
+| P1 TEAMWORK | MDM | ROS LEILA BTE BAHARUDIN |
+|  | MDM | SUGUNA MARY |
+| P1 UNITY | MRS | SUMATHI THIRUNAUKRARASU |
+|  | MS | LEE WAN YI |
+|   |  MS |  NG DAN YING |
+|
+
+| Class | Designation | Name |
+|:---:|:---:|:---:|
+| **Primary 2** |  |  |
+| P2 INITIATIVE | MDM | HARYATI BTE KHAMIN |
+|  | MR | CHAU CHEE SING |
+| P2 RESPONSIBILITY | MDM | TANG WAI HAN |
+|  | MDM | AFIDAH BTE KAMARI |
+| P2 EMPATHY | MDM | KIR SOO KIEN |
+|  | MR | MOHAMMAD HAFIZ BIN MOHD RASHIB |
+|   |  MS |  TRACY QUEK KAI NING |
+| P2 SINCERITY | MR | LIN WEN'AN |
+|  | MDM | TAN PECK IMM |
+| P2 PERSEVERANCE | MS | NUR BATRISYIA |
+|  | MDM | ALETHEIA NG HUI PING |
+| P2 ENTHUSIASM | MDM | TAN LAY HWA |
+|  | MDM | TAY MING YAN |
+| P2 CONFIDENCE | MDM | SURAYA BTE YACOB |
+|  | MR | QIU ZHAO XIANG |
+| P2 TEAMWORK | MDM | NURSHAIHIDAH BTE MD. SHAH |
+|  | MDM | LIM AI FANG |
+|
+
+| Class | Designation | Name |
+|:---:|:---:|:---:|
+| **Primary 3** |  |  |
+| P3 INITIATIVE | MS | HAN LEE WOON JOANN |
+|  | MDM | SYAFIQAH BINTE NOOR ADZAN |
+| P3 RESPONSIBILITY | MS | LIM SHU HUI |
+|  | MDM | NEO SWEE HONG |
+|   | MS | LEE JIA RUI  |
+| P3 EMPATHY | MS | LIN YIWEN YVONNE |
+|  | MS | POON SOOK FUNN |
+| P3 PERSEVERANCE | MDM | KRISTALE KANG HUI MIN |
+|  | MDM | CHONG WEI SEA |
+| P3 CONFIDENCE | MR | FELIX HECTOR GOMEZ |
+|  | MS | ZHONG LIN SHAN |
+| P3 TEAMWORK | MR | LIM JUIN MENG |
+|  | MDM | CHNG MUI NOI |
+|
+
+| Class | Designation | Name |
+|:---:|:---:|:---:|
+| **Primary 4** |  |  |
+| P4 INITIATIVE | MDM | CORNELIUS GRACE LEONORA |
+|  | MS | CHANG KANG FENG CHRISTINA |
+| P4 RESPONSIBILITY | MS | YEO ANQI CLARA |
+|  | MS | HARDYANTI BTE SAPUAN |
+| P4 EMPATHY | MS | NASUHA BT. ABDULLAH |
+|  | MR | LAI HUEI YUH |
+| P4 PERSEVERANCE | MDM | LEE SAU HOI |
+|  | MS | KOH YU XIN |
+|  | DR | ZAINABA BTE OMAR |
+| P4 CONFIDENCE | MR | LING LECK POH |
+|  | MDM | SASIKALA |
+| P4 TEAMWORK | MS | SIM HUI TSE |
+|  | MR | TAN WEE KHIANG |
+|
+
+| Class | Designation | Name |
+|:---:|:---:|:---:|
+| **Primary 5** |  |  |
+| P5 INITIATIVE | MR | CHUA KHENG LEONG ANTHONY |
+|  | MDM | KHEONG ZI JING |
+| P5 RESPONSIBILITY | MDM | OH SHAN CUI [MRS SERENE TEO] |
+|  | MR | MOHAMED ALI MARICAN |
+|   | MDM | SITI NURZIEYANIS BTE SAMAT |
+| P5 EMPATHY | MR | BALAMURUGAN S/O VELAYUTHAM |
+|  | MDM | FIONA KWAN LOK MUN |
+| P5 PERSEVERANCE | MDM | LATHEEFA BEEVI D/O MUBARAK ALI |
+|  | MR  | TAN KIM KEAT  |
+| P5 CONFIDENCE | MDM | WONG SIEOW TSING JOSEPHINE |
+|  | MR | DU GUANG |
+| P5 TEAMWORK | MS | NG GEOK PENG GEORGINA |
+|  | MDM | LIU HUA |
+|
+
+| Class | Designation | Name |
+|:---:|:---:|:---:|
+| **Primary 6** |  |  |
+| P6 INITIATIVE | MR | YAP SHUN YI |
+|  | MS | KHOO SZE EAN |
+| P6 RESPONSIBILITY | MDM | NORA BTE IBRAHIM |
+|  | MS | ER YEN RU |
+| P6 EMPATHY | MS | SUMMER MAY |
+|  | MR | TAN LIN HOW |
+| P6 PERSEVERANCE | MS | JESSIE ONG KIT CHING |
+|  | MDM | LIM KOON PEI CYNTHIA |
+|  | MDM | EWE JUN WEN |
+| P6 CONFIDENCE | MDM | WANG JIEHUI |
+|   | MR | WU XIN |
+| P6 TEAMWORK | MR | TAN KENG WAI |
+|   | MDM | BI YANMEI |
+|
+
+* Parents/guardians may: email to the school’s generic email address [admin_clementi_ps@moe.edu.sg](admin_clementi_ps@moe.edu.sg), stating clearly the staff they wish their message be conveyed to.

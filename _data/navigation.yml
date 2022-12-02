@@ -1,15 +1,57 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/sch logo.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Parents Info
+    url: /Parents-Info/principal-message/
+    sublinks:
+      - title: Principal's Message
+        url: /Parents-Info/principal-message/
+      - title: School Vision,Mission & Values
+        url: /Parents-Info/core-values/school-logo/
+      - title: School Information
+        url: Parents-Info/school-information/school-hours/
+      - title: Our People
+        url: /Parents-Info/Our-People/
+      - title: Parenting Tips
+        url: /Parents-Info/parenting-tips/
+      - title: Notifications
+        url: /Parents-Info/Notification-Letters/
+      - title: Partners
+        url: /Parents-Info/partners/
+      - title: Forms
+        url: /Parents-Info/forms/
+  - title: Journey of a Clementian
+    url: /lower-primary/Primary-1/back-to-school-day/
+    sublinks:
+      - title: Lower Primary
+        url: /lower-primary/Primary-1/back-to-school-day/
+      - title: Middle Primary
+        url: /middle-primary/Primary-3/VIA/
+      - title: Upper Primary
+        url: /upper-primary/Primary-5/learning-journey-science-centre/
+      - title: Character & Citizenship Edu
+        url: /journey-of-a-clementian/Character-and-Citizenship-Edu/cce/
+      - title: Memorable School Events
+        url: /journey-of-a-clementian/Memorable-School-Events/lunar-new-year-celeb/
+  - title: Signature Programmes In CTP
+    url: /signature-programmes-in-ctp/ALP/
+    sublinks:
+      - title: Applied Learning Programme
+        url: /signature-programmes-in-ctp/ALP/
+      - title: Learning For Life Programme
+        url: /signature-programmes-in-ctp/LLP/
+      - title: After School Programmes
+        url: /signature-programmes-in-ctp/After-School-Programmes/Alpha-plus/
+  - title: PAL & CCA
+    url: /pal-and-cca/pal/
+    sublinks:
+      - title: PAL
+        url: /pal-and-cca/pal/
+      - title: CCA
+        url: /pal-and-cca/CCA/
+  - title: Students INFO
+    url: /students-info/student-icon/
+    sublinks:
+      - title: Student iCON
+        url: /students-info/student-icon/
+      - title: SLS
+        url: /students-info/SLS/

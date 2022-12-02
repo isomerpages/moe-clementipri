@@ -1,0 +1,22 @@
+collections:
+  middle-primary:
+    output: true
+    order:
+      - Primary 3/.keep
+      - Primary 3/VIA.md
+      - Primary 3/P3 Swim Safer Programme.md
+      - Primary 3/P3 Buddy Programme.md
+      - Primary 3/P3 CCA Experience.md
+      - Primary 3/Lower Primary Sports Day.md
+      - Primary 3/Learning Journey P3 Musical.md
+      - Primary 3/Cyber Wellness Carnival.md
+      - Primary 3/P3 Music Programme.md
+      - "Primary 3/Learning Journey to the Science Centre : Magnets Lessons.md"
+      - Primary 4/VIA.md
+      - Primary 4/P4 Outdoor Adventure Camp.md
+      - Primary 4/P4 Museum Based Learning.md
+      - Primary 4/Learning Journey.md
+      - Primary 4/Cyber Wellness Carnival.md
+      - "Primary 4/Learning Journey to the Science Centre : Heat Lesson.md"
+      - Primary 4/Annual Sports Carnival.md
+      - Primary 4/.keep
