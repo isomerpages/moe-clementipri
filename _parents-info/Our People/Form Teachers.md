@@ -54,19 +54,18 @@ third_nav_title: Our People
 | Class | Designation | Name |
 |:---:|:---:|:---:|
 | **Primary 3** |  |  |
-| P3 INITIATIVE | MS | HAN LEE WOON JOANN |
-|  | MDM | SYAFIQAH BINTE NOOR ADZAN |
-| P3 RESPONSIBILITY | MS | LIM SHU HUI |
-|  | MDM | NEO SWEE HONG |
-|   | MS | LEE JIA RUI  |
-| P3 EMPATHY | MS | LIN YIWEN YVONNE |
-|  | MS | POON SOOK FUNN |
-| P3 PERSEVERANCE | MDM | KRISTALE KANG HUI MIN |
-|  | MDM | CHONG WEI SEA |
-| P3 CONFIDENCE | MR | FELIX HECTOR GOMEZ |
-|  | MS | ZHONG LIN SHAN |
-| P3 TEAMWORK | MR | LIM JUIN MENG |
-|  | MDM | CHNG MUI NOI |
+| P3 INITIATIVE | MS | ADELINE LEE |
+|  | MR | LAI HUEI YUH |
+| P3 RESPONSIBILITY | MS | RANI |
+|  | MS | KOH YU XIN |
+| P3 EMPATHY | MDM | OH SHAN CUI |
+|  | MDM | NORA BTE IBRAHIM |
+| P3 PERSEVERANCE | MR | LING LECK POH |
+|  | MDM | TAN PECK IMM |
+| P3 CONFIDENCE | MS | LEE JIA RUI |
+|  | MR | TAN KIM KEAT |
+| P3 TEAMWORK | MS | CHRISTY KOH |
+|  | MS | LIM SHU HUI |
 |
 
 | Class | Designation | Name |
