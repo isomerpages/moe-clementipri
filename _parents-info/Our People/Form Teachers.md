@@ -82,7 +82,7 @@ third_nav_title: Our People
 | P4 CONFIDENCE | MR | FELIX HECTOR GOMEZ |
 |  | MDM | ZHONG LINSHAN |
 | P4 TEAMWORK | MS | LIM JUIN MENG |
-|  | MR | TAN WEE KHIANG |
+|  | MR | CHNG MUI NOI |
 |
 
 | Class | Designation | Name |
