@@ -37,12 +37,9 @@ third_nav_title: Our People
 | Dr Zainaba Omar (LT/ML) |
 |
 
-| MALAY LANGUAGE TEACHERS |
+| TAMIL LANGUAGE TEACHERS |
 |---|
-| Mdm Afidah Bte Kamari |
-| Ms Nurul Huda Bte Yazid (YH) |
-| Mdm Siti Nur Ruzanna Bte Ramlan |
-| Mdm Uni Murni Bte Ismail |
-| Dr Zainaba Omar (LT/ML) |
+| Mdm Latheefa Beevi |
+| Mdm Sasikala |
+| Mdm Suguna Mary (SH/ML & TL) |
 |
-
