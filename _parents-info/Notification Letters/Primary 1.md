@@ -6,6 +6,13 @@ third_nav_title: Notification Letters
 ---
 ### Primary 1
 
+#### 2023
+
+1. [CTPS Primary 1 Booklist](/files/2023/P1/CTPS%20Primary%201%20Booklist.pdf)
+2. [Preschool to Primary School Transition](/files/2023/P1/Parent%20Kit%20-%20Preschool%20to%20Primary%20School%20Transition.pdf)
+3. [POSB Smart Buddy_Intro Deck for Parents](/files/2023/P1/POSB%20Smart%20Buddy_Intro%20Deck%20for%20Parents.pdf)
+4. [Smart Buddy Registration](/files/2023/P1/Smart%20Buddy%20Registration%20Letter%20(Primary-Online).pdf)
+
 #### 2022
 1. [Student ICON & SLS Letter to parents](/files/Student%20ICON%20&%20SLS%20Letter%20to%20parents.pdf)
 2. [SLS instructions](/files/SLS%20instructions.pdf)
