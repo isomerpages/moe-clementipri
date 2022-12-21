@@ -35,6 +35,8 @@ Please apply through MOE if the reason of transfer is change of residential addr
 Revised Bus Fare for 2023 and 2024<br>
 A. Daily school bus services **based on Not to Exceed Price** (i.e. for sending students from home to school and vice versa)<br>
 
+B. Bus Services for after school services (i.e. sending students home from after supplementary lessons/enrichment programmes and Co-Curricular Activities)
+
 [Online bus application form 2022](https://forms.gle/rNurWaaHQiZXqvfP7) <br>
 [School bus pricelist 2022](/files/School%20bus%20pricelist%202022.pdf) <br>
 [School bus renewal 2022](/files/School%20bus%20renewal%202022.pdf)
