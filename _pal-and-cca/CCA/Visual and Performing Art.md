@@ -21,7 +21,7 @@ third_nav_title: CCA
 <img src="/images/art%20club.gif" 
      style="width:65%">
 
-#### Bass Band
+#### Brass Band
 <img src="/images/bass%20band.gif" 
      style="width:65%">
 
