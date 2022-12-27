@@ -107,19 +107,20 @@ third_nav_title: Our People
 | Class | Designation | Name |
 |:---:|:---:|:---:|
 | **Primary 6** |  |  |
-| P6 INITIATIVE | MR | YAP SHUN YI |
-|  | MS | KHOO SZE EAN |
-| P6 RESPONSIBILITY | MDM | NORA BTE IBRAHIM |
-|  | MS | ER YEN RU |
-| P6 EMPATHY | MS | SUMMER MAY |
-|  | MR | TAN LIN HOW |
-| P6 PERSEVERANCE | MS | JESSIE ONG KIT CHING |
+| P6 INITIATIVE | MR | CHUA KHENG LEONG ANTHONY |
+|  | MDM | KHEONG ZI JING |
+| P6 RESPONSIBILITY | MR | MOHAMED ALI MARICAN |
+|  | MR | WU XIN |
 |  | MDM | LIM KOON PEI CYNTHIA |
-|  | MDM | EWE JUN WEN |
-| P6 CONFIDENCE | MDM | WANG JIEHUI |
-|   | MR | WU XIN |
-| P6 TEAMWORK | MR | TAN KENG WAI |
-|   | MDM | BI YANMEI |
+| P6 EMPATHY | MR | BALAMURUGAN S/O VELAYUTHAM |
+|  | MDM | FIONA KWAN LOK MUN |
+| P6 PERSEVERANCE | MDM | LATHEEFA BEEVI |
+|  | DR | ZAINABA BTE OMAR |
+|  | MR | TAN WEE KHIANG |
+| P6 CONFIDENCE | MDM | WONG SIEOW TSING JOSEPHINE |
+|   | MR | DU GUANG |
+| P6 TEAMWORK | MS | NG GEOK PENG GEORGINA |
+|   | MDM | LIU HUA |
 |
 
 * Parents/guardians may: email to the school’s generic email address [admin_clementi_ps@moe.edu.sg](admin_clementi_ps@moe.edu.sg), stating clearly the staff they wish their message be conveyed to.
