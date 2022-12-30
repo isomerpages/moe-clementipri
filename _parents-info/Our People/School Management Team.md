@@ -37,7 +37,6 @@ third_nav_title: Our People
 | Mdm Lim Ai Fang | ST/Chinese |   |
 | Mdm Liaw Li Ching | ST/Educational Support |   |
 | Mdm Suraya Yacob | ST/Lower Primary Learners |   |
-| Ms Lim Koon Pei Cynthia  | ST/Special Educational Needs | 
 |
 
 * Parents/guardians may: email to the school’s generic email address [admin_clementi_ps@moe.edu.sg](admin_clementi_ps@moe.edu.sg), stating clearly the staff they wish their message be conveyed to.
