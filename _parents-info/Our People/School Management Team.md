@@ -14,21 +14,25 @@ third_nav_title: Our People
 | Ms Ng Geok Peng Georgina | School Staff Developer (SSD) |   |
 | Ms Ewe Jun Wen | HOD/Mathematics  |   |
 | Ms Er Yen Ru | HOD/Science |   |
+| Mdm Premalatha | HOD/English |   |
 | Ms Poon Sook Funn | HOD/Mother Tongue |   |
 | Mr Tan Wee Khiang | HOD/ICT |   |
-| Mdm Wang Jiehui | HOD/CCE |   |
-| Mr  Mohamed Ali Marican  | LH/Math  |   |
+| Ms Geralin Tan | HOD/PE |   |
+| Mrs Adeline Tan | HOD/Student Management |   |
 | Ms Lim Shu Hui  | LH/Science  |   |
+| Ms Rani  | LH/English  |   |
 | Mdm Suguna Mary | SH/ML & TL |   |
 | Mr Ling Leck Poh Paul | SH/ICT |   |
 | Ms Hardyanti Binte Sapuan | SH/Aesthetics |   |
 | Ms Chang Kang Feng Christina | SH/ CCE  |   |
 | Mr Mohammad Hafiz Bin Mohd Rashib | SH/PAL & CCA |   |
+| Ms Annabelle Pek | SH/Student Well-Being & Management |   |
 | Ms Ow Siew Eng | Upper Primary Year Head |   |
-| Mdm Patricia Lee Xue Fen | Middle Primary Year Head |   |
+| Ms Lily Guan | Middle Primary Year Head |   |
 | Ms Nurul Huda Binte Yazid | Lower Primary Year Head |   |
 | Dr Zainaba Omar | Lead Teacher/ Malay Language  |   |
 | Mr Felix Hector Gomez | Lead Teacher/PE |   |
+| Mrs Cynthia Theseira | ST/English |   |
 | Mdm Nora Ibrahim | ST/Mathematics |   |
 | Mdm Lim Ai Fang | ST/Chinese |   |
 | Mdm Liaw Li Ching | ST/Educational Support |   |
