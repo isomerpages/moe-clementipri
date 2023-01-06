@@ -58,7 +58,7 @@ third_nav_title: Our People
 | **Primary 3** |  |  |
 | P3 INITIATIVE | MS | ADELINE LEE |
 |  | MR | LAI HUEI YUH |
-| P3 RESPONSIBILITY | MS | RANI |
+| P3 RESPONSIBILITY | MS | KRISHNAN |
 |  | MS | KOH YU XIN |
 | P3 EMPATHY | MDM | OH SHAN CUI |
 |  | MDM | NORA BTE IBRAHIM |
