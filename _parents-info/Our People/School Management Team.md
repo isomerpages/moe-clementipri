@@ -14,13 +14,13 @@ third_nav_title: Our People
 | Ms Ng Geok Peng Georgina | School Staff Developer (SSD) |   |
 | Ms Ewe Jun Wen | HOD/Mathematics  |   |
 | Ms Er Yen Ru | HOD/Science |   |
-| Mdm Premalatha | HOD/English |   |
+| Mdm S Premalatha | HOD/English |   |
 | Ms Poon Sook Funn | HOD/Mother Tongue |   |
 | Mr Tan Wee Khiang | HOD/ICT |   |
 | Ms Geralin Tan | HOD/PE |   |
 | Mrs Adeline Tan | HOD/Student Management |   |
 | Ms Lim Shu Hui  | LH/Science  |   |
-| Ms Rani  | LH/English  |   |
+| Ms Krishnan  | LH/English  |   |
 | Mdm Suguna Mary | SH/ML & TL |   |
 | Mr Ling Leck Poh Paul | SH/ICT |   |
 | Ms Hardyanti Binte Sapuan | SH/Aesthetics |   |
