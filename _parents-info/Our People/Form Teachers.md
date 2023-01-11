@@ -83,8 +83,8 @@ third_nav_title: Our People
 |  | MDM | CHONG WEI SEA  |
 | P4 CONFIDENCE | MR | FELIX HECTOR GOMEZ |
 |  | MDM | ZHONG LINSHAN |
-| P4 TEAMWORK | MS | LIM JUIN MENG |
-|  | MR | CHNG MUI NOI |
+| P4 TEAMWORK | MR | LIM JUIN MENG |
+|  | MDM | CHNG MUI NOI |
 |
 
 | Class | Designation | Name |
