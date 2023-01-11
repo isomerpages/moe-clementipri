@@ -8,5 +8,5 @@ third_nav_title: CCA
 
 | CCA | Teachers | Venue |
 |:---:|:---:|:---:|
-| Brownies | Ms Syafiqah <br>Mdm Kheong Zi Jing<br> Mdm Siti Hajjar  | Teaching  Lab |
+| Brownies | Ms Tracy Quek <br>Mdm Kheong Zi Jing<br> Mdm Siti Hajjar  | Teaching  Lab |
 |
