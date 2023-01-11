@@ -3,13 +3,12 @@ title: Alpha Plus
 permalink: /signature-programmes-in-ctp/After-School-Programmes/Alpha-plus/
 description: ""
 ---
-
 ### ALPHA+
 
 **ALPHA+** <br>
 **(Accelerated Learning Programme for the High Ability)**
 
-ALPHA+ is an after-school programme designed to meet the advanced learning needs of Primary 4, 5 and 6 high-achieving learners (HAL). Recognising that advanced learners possess a set of unique learning abilities and characteristics, ALPHA+ aims to challenge and engage them in enriching and challenging educational experiences to foster critical thinking, research and inquiry as well as collaborative skills.
+ALPHA+ is a programme designed to meet the advanced learning needs of Primary 4, 5 and 6 high-achieving learners (HAL). Recognising that advanced learners possess a set of unique learning abilities and characteristics, ALPHA+ aims to challenge and engage them in enriching and challenging educational experiences to foster critical thinking, research and inquiry as well as collaborative skills.
 
 ALPHA+ encompasses three core subjects: English, Math and Science. The programme applies to pupils from P4 onwards and enrolment is by invitation based on recommendations from Gifted Education Branch (GEB) and pupils’ overall results for the year.
 
