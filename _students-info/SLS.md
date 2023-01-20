@@ -7,7 +7,7 @@ description: ""
 
 ##### **Login URL:** [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)  
 
-##### **SLS Instruction Manual for Parents: [USER GUIDE](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#)**
+##### **SLS Instruction Manual for Parents: [USER GUIDE](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html#)**
 As part of its commitment to nurturing future-ready learners, the Ministry of Education announced that all students in Singapore schools will be supported in their learning by the Singapore Student Learning Space (SLS), an online learning platform that contains curriculum-aligned resources and learning tools.
 
 With the SLS, students will be able to learn better through the use of technology. Students will be able to learn anytime, anywhere, and at their own pace, whether independently or with their peers. Teachers will also be able to use the SLS to complement their classroom teaching, further enriching students’ learning experience. We believe such a learning experience is essential to help your child to become an active and confident user of technology.
