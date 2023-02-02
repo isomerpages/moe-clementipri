@@ -34,6 +34,7 @@ third_nav_title: Our People
 | Ms Nurul Huda Bte Yazid (YH) |
 | Mdm Siti Nur Ruzanna Bte Ramlan |
 | Mdm Uni Murni Bte Ismail |
+| Mdm Mdm Syafiqah Binte Noor Adzan |
 | Dr Zainaba Omar (LT/ML) |
 |
 
