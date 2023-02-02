@@ -8,6 +8,8 @@ third_nav_title: Notification Letters
 
 #### 2023
 1. [Formal Assessment for P5](/files/2023/T1/2023%20Formal%20Assessment%20for%20P5%20(Parent%20notification).pdf)
+2. [P5 Foundation Booklist 2023](/files/2023/P5%202023%20BOOKLIST%20(FOUNDATION).pdf)
+3. [P5 Standard Booklist 2023](/files/2023/P5%202023%20BOOKLIST%20(STANDARD).pdf)
 
 #### 2022
 1. [Swimsafer 2022](/files/Swimsafer%202022.pdf)
