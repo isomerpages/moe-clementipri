@@ -8,6 +8,8 @@ third_nav_title: Notification Letters
 
 #### 2023
 1. [Formal Assessment for P6](/files/2023/T1/2023%20Formal%20Assessment%20for%20P6%20(Parent%20notification).pdf)
+2. [P6 Foundation Booklist 2023](/files/2023/P6%202023%20BOOKLIST%20(FOUNDATION).pdf)
+3. [P6 Standard Booklist 2023](/files/2023/P6%202023%20BOOKLIST%20(STANDARD).pdf)
 
 #### 2022
 1. [Preliminary 2022 Assessment schedule](/files/Preliminary%202022%20Assessment%20schedule.pdf)
