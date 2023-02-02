@@ -6,8 +6,8 @@ third_nav_title: Notification Letters
 ---
 ### Primary 2
 
+#### 2023
+1. [P2 Booklist 2023](/files/2023/P2%202023%20BOOKLIST.pdf)
+
 #### 2022
 1. [P2 Booklist 2022](/files/P2%20Booklist%202022.pdf)
-
-#### 2021
-1. [P2 Booklist 2021](/files/P2%20Booklist%202021.pdf)
