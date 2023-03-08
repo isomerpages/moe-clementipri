@@ -8,6 +8,7 @@ third_nav_title: Notification Letters
 
 #### 2023
 1. [P2 Booklist 2023](/files/2023/P2%202023%20BOOKLIST.pdf)
+2. [Start of Year Notification 2023](/files/2023/T1/2023%20Start%20of%20Year%20Notification_FINAL%20v2.pdf)
 
 #### 2022
 1. [P2 Booklist 2022](/files/P2%20Booklist%202022.pdf)

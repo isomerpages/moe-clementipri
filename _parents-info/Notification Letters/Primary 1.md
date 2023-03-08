@@ -16,6 +16,7 @@ third_nav_title: Notification Letters
 6. [Preschool to Primary School Transition](/files/2023/P1/Parent%20Kit%20-%20Preschool%20to%20Primary%20School%20Transition.pdf)
 7. [POSB Smart Buddy_Intro Deck for Parents](/files/2023/P1/POSB%20Smart%20Buddy_Intro%20Deck%20for%20Parents.pdf)
 8. [Smart Buddy Registration](/files/2023/P1/Smart%20Buddy%20Registration%20Letter%20(Primary-Online).pdf)
+9. [Start of Year Notification](/files/2023/T1/2023%20Start%20of%20Year%20Notification_FINAL%20v2.pdf)
 
 #### 2022
 1. [Student ICON & SLS Letter to parents](/files/Student%20ICON%20&%20SLS%20Letter%20to%20parents.pdf)
@@ -30,17 +31,3 @@ third_nav_title: Notification Letters
 10. [POSB Smart Buddy Watch Registration](/files/POSB%20Smart%20Buddy%20Watch%20Registration.pdf)
 11. [P1 Booklist 2022](/files/P1%20Booklist%202022.pdf)
 
-#### 2021
-1. Welcome talk by School Leaders - file exceed 5mb
-2. [SLS (Student Learning Space) and GC (Google Classroom) accounts](/files/SLS%20(Student%20Learning%20Space)%20and%20GC%20(Google%20Classroom)%20accounts.pdf)
-3. [P1 Programme for 4 January](/files/P1%20Programme%20for%204%20January.pdf)
-4. [HPB Letter on School Health & Dental Visits](/files/HPB%20Letter%20on%20School%20Health%20&%20Dental%20Visits.pdf)
-5. [Parents Support Group Notifcation for P1 Parents](/files/Parents%20Support%20Group%20Notifcation%20for%20P1%20Parents.pdf)
-6. [P1 E-Orientation day 2020 (Presentation)](/files/P1%20E-Orientation%20day%202020%20(Presentation).pdf)
-7. [P1 E-Orientation day 2020 (Tour)](files/P1%20E-Orientation%20day%202020%20(Tour).pdf)
-8. [1 Information sheet for parents](/files/P1%20Information%20sheet%20for%20parents.pdf)
-9. [2021 Parent Kit - Preschool to Primary School transition](/files/2021%20Parent%20Kit%20-%20Preschool%20to%20Primary%20School%20transition.pdf)
-10. [POSB Smart Buddy watch registration](/files/POSB%20Smart%20Buddy%20watch%20registration%202021.pdf)
-11. [Registration to Parents Gateway](/files/Registration%20to%20Parents%20Gateway.pdf)
-12. [P1 Booklist 2021](/files/P1%20Booklist%202021.pdf)
-13. [Kids Treehouse Brochure](/files/Kids%20Treehouse%20Brochure.pdf)
