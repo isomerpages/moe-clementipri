@@ -66,10 +66,10 @@ In an environment marked by accelerated technological changes and knowledge beco
 Learning is a social process. We envision Clementians to be learning alongside one anothe, collaborating to solve problems, developing their critical thinking skills and communicating effectively and respectfuly. Within this nurturing and enabling environment, Clementians would strive to be the best version of themselves, meeting and overcoming challenges with a positive attitude. It is crucial that in all their endeavours, Clementians are guided by a sound moral compass and are discerning in judgment. As they strive for personal excellence, we hope they care for others in the community and possess the will to act on improving the lives of others and eventually building a future for our nation.
 
 #### Our Values
-**P  Perseverance** <br>
+**P Perseverance** <br>
 - Take responsibility for their own learning
 - Accepts failures as an opportunity to learn and grow
-**I  Integrity** <br>
+**I Integrity** <br>
 - Honest and guided by a sound moral compass
 - Trustworthy and dependable
 **E Empathy**<br>
