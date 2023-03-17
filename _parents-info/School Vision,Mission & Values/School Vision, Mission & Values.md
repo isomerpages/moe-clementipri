@@ -39,7 +39,7 @@ The school's current Vision of "A Leader. A Keen Learner. A Friend." continues t
 
 <u>Clementians respect and appreciate diversity</u>
 - Value and respect peers who are different
-- Be incusive, working well with peers from diverse backgrounds.
+- Be inclusive, working well with peers from diverse backgrounds.
 - Exercise sensitivity in understanding and respecting differences among peers
 - Actively listen to diverse views and keep an open mind in learning from others
 
@@ -63,7 +63,7 @@ A community of self-directed learners who strive for excellence and are active c
 
 In an environment marked by accelerated technological changes and knowledge becoming obsolete at an ever increasing pace, it is important that we ensure that our students are self-directed and future ready. Clementians would take ownership to assess their learning needs, set S.M.A.R.T goals, identify necessary resources, adopt appropriate strategies and evaluate their learning outcomes.
 
-Learning is a social process. We envision Clementians to be learning alongside one anothe, collaborating to solve problems, developing their critical thinking skills and communicating effectively and respectfuly. Within this nurturing and enabling environment, Clementians would strive to be the best version of themselves, meeting and overcoming challenges with a positive attitude. It is crucial that in all their endeavours, Clementians are guided by a sound moral compass and are discerning in judgment. As they strive for personal excellence, we hope they care for others in the community and possess the will to act on improving the lives of others and eventually building a future for our nation.
+Learning is a social process. We envision Clementians to be learning alongside one another, collaborating to solve problems, developing their critical thinking skills and communicating effectively and respectfully. Within this nurturing and enabling environment, Clementians would strive to be the best version of themselves, meeting and overcoming challenges with a positive attitude. It is crucial that in all their endeavours, Clementians are guided by a sound moral compass and are discerning in judgment. As they strive for personal excellence, we hope they care for others in the community and possess the will to act on improving the lives of others and eventually building a future for our nation.
 
 #### Our Values
 **P Perseverance** <br>
@@ -79,4 +79,4 @@ Learning is a social process. We envision Clementians to be learning alongside o
 - Interact with others in a positive manner
 - Considerate to the needs of others in the community
 
-As Clementians embark on their voyage of life-long learning, Clementi Primary School will be a safe place where they feel supported and cherished. Clementians will acquirethe knowledge, skills and competencies that will prepare them for life, work and active citizenship. Our school values - PIER serve as a moral compass for Clementians as they find their true purpose towards serving the community and doing their best to become the best version of themselves. At the end of their six year journey with us, Clementians will set sail towards the next stage of their pursuit with the right disposition and attitude to overcome the challenges ahead.
+As Clementians embark on their voyage of life-long learning, Clementi Primary School will be a safe place where they feel supported and cherished. Clementians will acquire the knowledge, skills and competencies that will prepare them for life, work and active citizenship. Our school values - PIER serve as a moral compass for Clementians as they find their true purpose towards serving the community and doing their best to become the best version of themselves. At the end of their six year journey with us, Clementians will set sail towards the next stage of their pursuit with the right disposition and attitude to overcome the challenges ahead.
