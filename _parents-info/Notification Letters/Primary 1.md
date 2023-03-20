@@ -16,7 +16,7 @@ third_nav_title: Notification Letters
 6. [Preschool to Primary School Transition](/files/2023/P1/Parent%20Kit%20-%20Preschool%20to%20Primary%20School%20Transition.pdf)
 7. [POSB Smart Buddy_Intro Deck for Parents](/files/2023/P1/POSB%20Smart%20Buddy_Intro%20Deck%20for%20Parents.pdf)
 8. [Smart Buddy Registration](/files/2023/P1/Smart%20Buddy%20Registration%20Letter%20(Primary-Online).pdf)
-9. [Start of Year Notification](/files/2023/T1/2023%20Start%20of%20Year%20Notification_FINAL%20v2.pdf)
+9. [Start of Year Notification 2023](/files/2023/T1/2023%20Start%20of%20Year%20Notification_FINAL%20v2.pdf)
 
 #### 2022
 1. [Student ICON & SLS Letter to parents](/files/Student%20ICON%20&%20SLS%20Letter%20to%20parents.pdf)
@@ -30,4 +30,3 @@ third_nav_title: Notification Letters
 9. [Parent Kit - Preschool to Primary School Transition](/files/Parent%20Kit%20-%20Preschool%20to%20Primary%20School%20Transition.pdf)
 10. [POSB Smart Buddy Watch Registration](/files/POSB%20Smart%20Buddy%20Watch%20Registration.pdf)
 11. [P1 Booklist 2022](/files/P1%20Booklist%202022.pdf)
-
