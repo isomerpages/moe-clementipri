@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - After School Programmes.md
-      - Alpha Plus.md
       - Applied Learning Programme.md
       - Learning For Life Programme.md
