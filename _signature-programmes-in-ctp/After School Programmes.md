@@ -1,10 +1,10 @@
 ---
-title: Alpha Plus
-permalink: /signature-programmes-in-ctp/After-School-Programmes/Alpha-plus/
+title: After School Programmes
+permalink: /signature-programmes-in-ctp/after-school-programmes/
 description: ""
 ---
 
-### ALPHA+
+### After School Programmes
 
 **ALPHA+** <br>
 **(Accelerated Learning Programme for the High Ability)**

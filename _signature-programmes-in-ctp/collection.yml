@@ -2,7 +2,6 @@ collections:
   signature-programmes-in-ctp:
     output: true
     order:
-      - Alpha Plus.md
+      - After School Programmes.md
       - Applied Learning Programme.md
       - Learning For Life Programme.md
-      - After School Programmes/.keep

@@ -25,7 +25,6 @@ Working closely with Ministry of Social and Family Development (MSF), Mr Zahid h
 * 29 July 2016 - ["CONNECTING IN LOVE - APPLYING THE 5 LOVE LANGUAGES "](/files/CONNECTING%20IN%20LOVE%20-%20APPLYING%20THE%205%20LOVE%20LANGUAGES.pdf)
 * 25 Feb 2016 - ["How to Help Your Child Be Successful" ](https://staging.d2kepjbew636xb.amplifyapp.com/images/How%20to%20Help%20Your%20Child%20Be%20Successful.jpg) **Ms Serina Cheong**
 * 25 Feb 2016 - [ "How to Talk so Your Child Will Listen"](https://staging.d2kepjbew636xb.amplifyapp.com/images/How%20to%20Talk%20so%20Your%20Child%20Will%20Listen.jpg) **Mrs Susan Comiskey**
-* 30 Jan 2016 - "Father and Child Prawn Fishing" [(1)](https://staging.d2kepjbew636xb.amplifyapp.com/images/Father%20and%20Child%20Prawn%20Fishing.jpg),(2)(3)(4) **broken link 2-4**
 * 22 Jan 2016 -["Father's Role In Parenting](https://staging.d2kepjbew636xb.amplifyapp.com/images/Father's%20Role%20in%20Parenting.jpg) **Mr David Seah**
 * 22 Jan 2016 - ["The Intentional Parent - Character First"](https://staging.d2kepjbew636xb.amplifyapp.com/images/The%20Intentional%20Parent%20-%20Character%20First.jpeg)
 * 6 Jan 2016 -  ["Maximising your child's learning potential" - Monica Fernando](/files/Maximising%20your%20child's%20learning%20potential.pdf)
@@ -42,14 +41,6 @@ Working closely with Ministry of Social and Family Development (MSF), Mr Zahid h
 1. [Is the highest-ranked school the right one for your child?](/files/Is%20the%20highest-ranked%20school%20the%20right%20one%20for%20your%20child.pdf)
 2. [Tip sheet for helping your child stay safe online 2017](/files/Tip%20sheet%20for%20helping%20your%20child%20stay%20safe%20online%202017.pdf)
 3. [‘Let Passion Take Flight 2017@Clementi](/files/‘Let%20Passion%20Take%20Flight%202017@Clementi.pdf)
-4. Transition to Secondary Education’ Parent Seminar for parents of Primary 5 or Primary 6 students <br>Date/Time : Sat 15 July/9am-12noon<br>Venue : NTUC Auditorium, Level 7, NTUC Centre<br>For more information, please click [here](https://staging.d2kepjbew636xb.amplifyapp.com/images/image001.jpg)<br>To register,click [here](https://docs.google.com/forms/d/e/1FAIpQLSdVKSNPd8e3b-ed6eStN5jXibQu6UOTauGor8e_YpmmZw-3pw/closedform) **broken link**
-5. [Tips and strategies to manage the cyber issue at home ](/files/Tips%20and%20strategies%20to%20manage%20the%20cyber%20issue%20at%20home.pdf)
-6. Cyberwellness -  [Guide for Parents](https://clementipri.moe.edu.sg/qql/slot/u154/2019/Parents%20Info/Partners/Family%20Matters@School/Family%20Matters/CyberWellnessForParents.pdf) **broken link** <br> [Tip Sheet](/files/cyberwellness%20Tip%20sheet.pdf)
-7. [Supporting your child through transitions](/files/Supporting%20your%20child%20through%20transitions.pdf)
-8. [Building the Resilience Muscle](https://www.schoolbag.sg/story/building-the-resilience-muscle) **Privacy error**
-9. [Resources for Parents on Building Resilience in Children ](/files/Resources%20for%20Parents%20on%20Building%20Resilience%20in%20Children.pdf)
-10. [Raising your child for success](https://www.schoolbag.sg/story/raising-your-child-for-success#.VtaGwF_0qnO)**Privacy error**
-11. [Are You a Helicopter Parent?](https://schoolbag.sg/story/are-you-a-helicopter-parent)**broken link**
-12. [When sibling rivalry causes problematic behaviour](https://schoolbag.sg/story/when-sibling-rivalry-causes-problematic-behaviour#.VizMBrcrLIU)**broken link**
-13. [ICT in Schools : To Use or Not to Use?](https://schoolbag.sg/story/ict-in-schools-to-use-or-not-to-use#.VizNFrcrLIU)**broken link**
-14. [Every parent, a supportive partner](https://schoolbag.sg/story/every-parent-a-supportive-partner#.VizLqbcrLIU)**broken link**
+4. [Tips and strategies to manage the cyber issue at home ](/files/Tips%20and%20strategies%20to%20manage%20the%20cyber%20issue%20at%20home.pdf)
+5. [Supporting your child through transitions](/files/Supporting%20your%20child%20through%20transitions.pdf)
+6. [Resources for Parents on Building Resilience in Children ](/files/Resources%20for%20Parents%20on%20Building%20Resilience%20in%20Children.pdf)

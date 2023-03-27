@@ -15,8 +15,6 @@ MOE’s Cyber Wellness Education comprises the following components to reinforce
  <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <Br> <br>
 Please click on the links below on Cyber Wellness resources and tips in helping you to reinforce Cyber Wellness education at home:
 
-* **Parent Kit - Cyber Wellness for your child** <br>
-[Cyberwellness for your child](https://www.moe.gov.sg/docs/default-source/document/parent-kit-on-home-based-learning/parent-kit---cyber-wellness-for-your-child.pdf) **broken link**
 * **A Parent’s Guide to Keeping Children Safe & Smart Online** <br>
 [A Parent’s Guide to Keeping Children Safe & Smart Online](/files/Safe%20and%20Smart%20Online%20Parent%20Guide.pdf)
 * **Helping Your Child Be Discerning About Online Information**<br>
