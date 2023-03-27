@@ -27,5 +27,3 @@ Thank You
 Yours in Service, <br>
 Vimalenthiran Vijayasingam
 
-For Principal's message 2021, please click [here](/files/P%20Message%202021.pdf) <Br>
-For Principal's message 2020, please click [here](/files/P%20message%202020.pdf) <Br>
