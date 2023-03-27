@@ -3,8 +3,7 @@ title: Alpha Plus
 permalink: /signature-programmes-in-ctp/After-School-Programmes/Alpha-plus/
 description: ""
 ---
-
-### ALPHA+
+### After School Programmes
 
 **ALPHA+** <br>
 **(Accelerated Learning Programme for the High Ability)**
