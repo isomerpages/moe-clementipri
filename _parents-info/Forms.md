@@ -34,8 +34,8 @@ A. Daily school bus services **based on Not to Exceed Price** (i.e. for sending 
 B. Bus Services for after school services (i.e. sending students home from after supplementary lessons/enrichment programmes and Co-Curricular Activities)
 
 [Online bus application form 2023](https://forms.gle/rNurWaaHQiZXqvfP7) <br>
-[School bus pricelist 2023](/files/School%20bus%20pricelist%202022.pdf) <br>
-[School bus renewal 2023](/files/School%20bus%20renewal%202022.pdf)
+[School bus pricelist 2023](/files/Forms/revised%20bus%20fare%20for%202023%20(ctps).pdf) <br>
+[School bus renewal 2023](/files/Forms/renewal%20bus%20fare%20for%202023%20(ctps).pdf)
 
 ##### Step-By-Step Redemption Process for Translink Evoucher
 [Guide](/files/Guide.pdf)
