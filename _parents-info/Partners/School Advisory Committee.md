@@ -8,4 +8,4 @@ third_nav_title: Partners
 
 #### SAC Committee
 
-![](/images/SAC%202023%20v3.jpg)
+![](/images/sac%20v4.jpg)
