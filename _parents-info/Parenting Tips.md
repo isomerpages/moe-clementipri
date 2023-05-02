@@ -11,18 +11,18 @@ The school uses the MOE cyber wellness framework to develop Clementians’ insti
 
 MOE’s Cyber Wellness Education comprises the following components to reinforce the importance of Cyber Wellness and its messages.
 
-<img src="/images/MOE%20Cyber%20wellness%20Revised%20Framework.jpg" style="width:55%" align=left>
- <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <Br> <br>
+<img src="/images/MOE%20Cyber%20wellness%20Revised%20Framework.jpg" style="width:55%" align="left">
+ <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
 Please click on the links below on Cyber Wellness resources and tips in helping you to reinforce Cyber Wellness education at home:
 
-* **A Parent’s Guide to Keeping Children Safe & Smart Online** <br>
-[A Parent’s Guide to Keeping Children Safe & Smart Online](/files/Safe%20and%20Smart%20Online%20Parent%20Guide.pdf)
+* **A Parent’s Guide to Keeping Children Safe &amp; Smart Online** <br>
+[A Parent’s Guide to Keeping Children Safe &amp; Smart Online](/files/Safe%20and%20Smart%20Online%20Parent%20Guide.pdf)
 * **Helping Your Child Be Discerning About Online Information**<br>
-Slides- [/files/online%20info%20slides.pdf](/files/online%20info%20slides.pdf)<br>
-Tipsheet- [/files/online%20info%20tipsheet.pdf](/files/online%20info%20tipsheet.pdf)
+Slides-&nbsp;[/files/online%20info%20slides.pdf](/files/online%20info%20slides.pdf)<br>
+Tipsheet-&nbsp;[/files/online%20info%20tipsheet.pdf](/files/online%20info%20tipsheet.pdf)
 * **Helping Your Child With Appropriate Online Expression**<br>
 Slides-[/files/online%20expression%20slides.pdf](/files/online%20expression%20slides.pdf)<br>
-Tipsheet- [/files/online%20expression%20tipsheet.pdf](/files/online%20expression%20tipsheet.pdf)<br>
+Tipsheet-&nbsp;[/files/online%20expression%20tipsheet.pdf](/files/online%20expression%20tipsheet.pdf)<br>
 * **Helping Your Child Protect Their Personal Data Online**
 [/files/personal%20data%20online.pdf](/files/personal%20data%20online.pdf)
 * **Helping Your Child Handle Online Content**
@@ -37,3 +37,7 @@ Tipsheet- [/files/online%20expression%20tipsheet.pdf](/files/online%20expressio
 [/files/manage%20cyber%20bullying.pdf](/files/manage%20cyber%20bullying.pdf)
 * **Helping Your Child Manage Cyber Contacts**
 [/files/manage%20cyber%20contacts.pdf](/files/manage%20cyber%20contacts.pdf)
+
+### Stress Management and Well-Being
+
+[/files/Forms/stress%20mgt%20and%20well%20being.pdf](/files/Forms/stress%20mgt%20and%20well%20being.pdf)
