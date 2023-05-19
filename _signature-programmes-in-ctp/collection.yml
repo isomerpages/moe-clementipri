@@ -2,8 +2,8 @@ collections:
   signature-programmes-in-ctp:
     output: true
     order:
-      - Learning for Life Programme/Aesthetics Week.md
-      - Learning for Life Programme/Learning For Life Programme.md
       - Learning for Life Programme/.keep
+      - Learning for Life Programme/Learning For Life Programme.md
+      - Learning for Life Programme/Aesthetics Week.md
       - After School Programmes.md
       - Applied Learning Programme.md
