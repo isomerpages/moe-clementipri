@@ -31,3 +31,6 @@ At Primary 5, Clementians will be learning about food security and experience th
 At Primary 6, Clementians will use DT as tools to apply to post-examination project work, such as in Values-in-action project or Entrepreneur programme.
 
 To enriched and deepen Clementians’ application of these skills, the Tier 2 programmes focused on 10 weeks DT applications in English, Mathematics and Science for some selected Clementians. These Clementians are challenged to come up with their own project that they would like to develop following the DT framework focusing the key phase “Empathize”. The process is firmly based on how Clementians can generate a holistic and empathic understanding of problems people face. Hence, they are tasked to observe and look at problems or issues they would like to develop to help their family, friends, and others to solve.
+![](/images/alplp1.JPG)
+![](/images/alpmp-1.JPG)
+![](/images/alpmp-2.JPG)
