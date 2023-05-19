@@ -18,6 +18,14 @@ third_nav_title: CCA
 |
 
 #### Art Club
+The school's art club is a group of talented and creative students who have a passion for art. They are a diverse group of individuals who come together to share their love for artistic expression and creativity.
+
+The members of the art club have a wide range of artistic skills and talents. Some are painters, while others are sculptors or potters. They are always eager to learn new techniques and try out different mediums.
+
+Through the art club, students can showcase their artwork and participate in various art-related events. They also collaborate with other clubs and organizations in the school to create unique projects that showcase their talents.
+Beyond their artistic pursuits, the art club students are also known for their strong work ethic and dedication. They work tirelessly to perfect their craft and bring their creative visions to life. They inspire each other to push the boundaries of their artistic abilities and encourage one another to pursue their dreams.
+
+Overall, the school's art club is a vibrant and dynamic community of students who are passionate about art and committed to honing their skills. Their talent and creativity are truly inspiring and a testament to the power of artistic expression.
 <img src="/images/art%20club.gif" style="width:65%">
 
 #### Brass Band
