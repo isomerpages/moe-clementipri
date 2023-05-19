@@ -14,7 +14,4 @@ CCA in Clementi Primary School is conducted during curriculum time every Tuesday
 | P3 Athletics Enrichment | Ms Neo Swee Hong Mdm Tan Seok Hymn Mimy | Clementi Stadium and Clementi Sports Hall |
 |
 
-<img src="/images/cca%20enrichment.gif" 
-     style="width:85%">
-		 
-		 
+<img src="/images/cca%20enrichment.gif" style="width:85%">

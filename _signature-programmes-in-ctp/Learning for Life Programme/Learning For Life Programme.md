@@ -2,6 +2,7 @@
 title: Learning For Life Programme
 permalink: /signature-programmes-in-ctp/LLP/
 description: ""
+third_nav_title: Learning for Life Programme
 ---
 ### Learning For Life Programme
 **Instilling Learning for Life through Visual Arts in Clementi Primary School**
@@ -22,14 +23,14 @@ Clementians with the potential and passion in visual arts will be identified by 
 
 <br><br>
 
-| Levels/Programmes | P1 & P2 | | P3 | P4 | P5 | P6 |
+| Levels/Programmes | P1 &amp; P2 | | P3 | P4 | P5 | P6 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Visual Arts Curriculum Modules | · Watercolour Painting <br>· Collage <br>· Hand building (Plasticine) |  | · Acrylic Painting <br> · Collage<br> · Hand building (Coiling) | · Acrylic Painting · Collage · Hand building (Pinching) | · Printmaking · Digital Art (Poster Design) · Hand building (Slab) | · Batik Painting · Digital Art (Animation)   |
 |
 
 ##### Drawing
 
-| Levels/Programmes | P1 & P2 | | P3 | P4 | P5 & P6 ||
+| Levels/Programmes | P1 &amp; P2 | | P3 | P4 | P5 &amp; P6 ||
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Learning Experiences | · Museum Based Learning <br>· (School Art Gallery) |  | · CCA Experience <br>· (Art Club) |  · Museum Based Learning<br> · (Art and <br>· Social Studies) |  · Outreach Projects <br>· (Art Club) ||
 |
@@ -38,7 +39,7 @@ Clementians with the potential and passion in visual arts will be identified by 
 
 |  | SPARK | GLOW | BLAZE |
 |---|:---:|:---:|:---:|
-| Talent <br>Enrichment <Br> Programme | · Drawing<br>· Painting<br>· Crafts |· Painting<br>· Sculpture | · Illustration |
+| Talent <br>Enrichment <br> Programme | · Drawing<br>· Painting<br>· Crafts |· Painting<br>· Sculpture | · Illustration |
 
 | School Programmes | Competitions | Exhibitions | W1 Cluster Programmes |
 |---|---|---|---|
