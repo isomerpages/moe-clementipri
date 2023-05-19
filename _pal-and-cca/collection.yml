@@ -2,7 +2,6 @@ collections:
   pal-and-cca:
     output: true
     order:
-      - CCA/.keep
       - PAL.md
       - CCA1/Overview.md
       - CCA1/Physical Sports.md
