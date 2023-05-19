@@ -4,7 +4,7 @@ permalink: /signature-programmes-in-ctp/learning-for-life-programme/artforcause/
 description: ""
 third_nav_title: Learning for Life Programme
 ---
-**Art for Cause (Artist in School Scheme) **
+# Art for Cause (Artist in School Scheme) 
 
 Local artist and ceramicist, Mr Chua Soo Kim, collaborates with a group of art club students to create a collection of unique pottery pieces for an auction. The project is part of a community initiative aimed at raising funds for the local community.
 
@@ -15,3 +15,4 @@ Over the course of several weeks, our students and Mr Chua work together to crea
 The pottery collection are auctioned off at a charity event, with all proceeds going towards supporting the local community. Mr Chua hopes that the project will not only raise funds for the charity but also inspires a new generation of artists to pursue their passion for pottery.
 
 In addition to the charitable aspect of the project, the collaboration between Mr Chua and our students provides an opportunity for mentorship and artistic expression. Our students can learn from a professional artist and develop their own creativity, while Mr Chua shares her knowledge and passion for pottery with a new generation.
+![](/images/afc000.jpg)
