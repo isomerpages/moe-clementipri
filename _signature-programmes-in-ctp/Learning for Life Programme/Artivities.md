@@ -16,4 +16,7 @@ We believe that ARTivities not only help students develop their artistic skills 
 
 We are thrilled to have the ARTivities program as part of our school's cultural and creative offerings, and we look forward to seeing what our students can create together!
 
-
+![](/images/artivities1.jpg)
+*Collaborative zentangle*
+![](/images/artivities2.jpg)
+*Collaborative zentangle*
