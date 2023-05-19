@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - PAL.md
-      - CCA/Overview.md
-      - CCA/Physical Sports.md
-      - CCA/Clubs and Societies.md
-      - CCA/Visual and Performing Art.md
-      - CCA/Uniformed Group.md
-      - CCA/.keep
+      - CCA1/Overview.md
+      - CCA1/Physical Sports.md
+      - CCA1/Clubs and Societies.md
+      - CCA1/Visual and Performing Art.md
+      - CCA1/Uniformed Group.md
+      - CCA1/.keep
