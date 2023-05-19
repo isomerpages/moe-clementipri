@@ -2,6 +2,7 @@ collections:
   signature-programmes-in-ctp:
     output: true
     order:
+      - Learning for Life Programme/Art For Cause.md
       - Learning for Life Programme/Annual W1 Schools Art Exhibition.md
       - Learning for Life Programme/.keep
       - Learning for Life Programme/Learning For Life Programme.md
