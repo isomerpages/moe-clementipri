@@ -14,3 +14,9 @@ From 2018, all primary school pupils will get to visit a museum as part of a ref
 A recommended list of 32 artworks by local and international artists has also been included in the new art syllabus so that pupils can develop an awareness of Singaporean art. The National Gallery Singapore (NGS) is one of the museums nominated by The Ministry of Education (MOE) for the museum-based learning (MBL) programme.
 
 Our P4 Clementians will have at least one authentic experience in their 6 years of primary school education to look at paintings that depict different themes such as landscapes, portraits, and history in a museum setting. The aim of the MBL programme is to sharpen Clementians’ visual inquiry skills such as observation and interpretation through the activities and discussions facilitated by the museum’s education facilitators.
+
+![Our P4 students having a discussion while looking at a painting reference. ](/images/museum1.jpg)
+*Our P4 students having a discussion while looking at a painting reference.*
+
+![Our P4 students using a viewfinder to guide them observe specific parts of a painting.](/images/museum2.jpg)
+*Our P4 students using a viewfinder to guide them observe specific parts of a painting*
