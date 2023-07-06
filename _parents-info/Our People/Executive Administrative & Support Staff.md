@@ -10,12 +10,12 @@ third_nav_title: Our People
 |---|---|
 | Ms Quek Lih Chyn Joyce | Administration Manager |
 | Mr Song Kok Liang Patrick | Operations Manager  |
-| Mr Fadzly Bin Samsudin | IT Manager |
+| Mr Fadzly Bin Samsudin | ICT Manager |
 | Ms Chua Seow Hong | Admin Executive |
-| Ms Nurul ‘Ain Teo  | Admin Executive |
-| Mdm Sophia Wong |CSO |
+| Ms Nurul ‘Ain Teo | Admin Executive |
 | Ms Zalina Bte Mohammadin |CSO |
-| Ms Erica Tay | Adjunct CSO |
+| Ms Tay Bee Geok Erica  |CSO |
+| Ms Wong Poh Chee Sophia | Adjunct CSO |
 | Mr Ho Chwee Koon | OSO |
 | Mdm Rameswari | OSO |
 | Mdm Yong Heong Cheong |OSO |
