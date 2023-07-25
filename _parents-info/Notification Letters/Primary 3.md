@@ -7,9 +7,10 @@ third_nav_title: Notification Letters
 ### Primary 3
 
 #### 2023
-1. [Formal Assessment for P3](/files/2023/T1/2023%20Formal%20Assessment%20for%20P3%20(Parent%20notification)%20.pdf)
-2. [P3 Booklist 2023](/files/2023/P3%202023%20BOOKLIST.pdf)
-3. [Start of Year Notification 2023](/files/2023/T1/2023%20Start%20of%20Year%20Notification_FINAL%20v2.pdf)
+1. [P3 Year End assessment schedule 2023](/files/2023/T3/primary%20three%20year-end%20assessment%20schedule%202023.pdf)
+2. [Formal Assessment for P3](/files/2023/T1/2023%20Formal%20Assessment%20for%20P3%20(Parent%20notification)%20.pdf)
+3. [P3 Booklist 2023](/files/2023/P3%202023%20BOOKLIST.pdf)
+4. [Start of Year Notification 2023](/files/2023/T1/2023%20Start%20of%20Year%20Notification_FINAL%20v2.pdf)
 
 #### 2022
 1. [P3 CCA Selection 2022](/files/P3%20CCA%20Selection%202022.pdf)
