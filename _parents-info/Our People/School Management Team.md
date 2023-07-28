@@ -21,7 +21,6 @@ third_nav_title: Our People
 | Mrs Adeline Tan | HOD/Student Management |   |
 | Ms Lim Shu Hui  | LH/Science  |   |
 | Ms Krishnan  | LH/English  |   |
-| Mdm Suguna Mary | SH/ML & TL |   |
 | Mr Ling Leck Poh Paul | SH/ICT |   |
 | Ms Hardyanti Binte Sapuan | SH/Aesthetics |   |
 | Ms Chang Kang Feng Christina | SH/ CCE  |   |
@@ -32,9 +31,7 @@ third_nav_title: Our People
 | Ms Nurul Huda Binte Yazid | Lower Primary Year Head |   |
 | Dr Zainaba Omar | Lead Teacher/ Malay Language  |   |
 | Mr Felix Hector Gomez | Lead Teacher/PE |   |
-| Mrs Cynthia Theseira | ST/English |   |
 | Mdm Nora Ibrahim | ST/Mathematics |   |
-| Mdm Lim Ai Fang | ST/Chinese |   |
 | Mdm Liaw Li Ching | ST/Educational Support |   |
 | Mdm Suraya Yacob | ST/Lower Primary Learners |   |
 |
