@@ -8,10 +8,11 @@ third_nav_title: Our People
 
 | Name | Designation |
 |---|---|
+| Mdm Clara How | School Counsellor |
 | Mr Lim Kam Yuen | Adjunct Counsellor |
 | Ms Serita Rai | SEN Officer |
 | Mdm Nadiah Abdul Rahim | SEN Officer |
-| Ms Suriyani Mohd Nasir | UT SEN Officer |
+| Mdm Nurezma Farah Binte Johan | UT SEN Officer |
 | Mdm Mimy Tan | AED/T & L |
 |
 
