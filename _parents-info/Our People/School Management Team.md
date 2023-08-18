@@ -29,7 +29,6 @@ third_nav_title: Our People
 | Ms Ow Siew Eng | Upper Primary Year Head |   |
 | Ms Lily Guan | Middle Primary Year Head |   |
 | Ms Nurul Huda Binte Yazid | Lower Primary Year Head |   |
-| Ms Summer May | Asst Year Head |   |
 | Dr Zainaba Omar | Lead Teacher/ Malay Language  |   |
 | Mr Felix Hector Gomez | Lead Teacher/PE |   |
 | Mdm Nora Ibrahim | ST/Mathematics |   |
