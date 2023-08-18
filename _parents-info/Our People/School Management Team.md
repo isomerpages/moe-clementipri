@@ -19,12 +19,11 @@ third_nav_title: Our People
 | Mr Tan Wee Khiang | HOD/ICT |   |
 | Ms Geralin Tan | HOD/PE, Aesthetics & CCA |   |
 | Mrs Adeline Tan | HOD/Student Management |   |
-| Ms Christina Chang | HOD/CCE |   |
 | Ms Lim Shu Hui  | LH/Science  |   |
 | Ms Krishnan  | LH/English  |   |
 | Mr Ling Leck Poh Paul | SH/ICT |   |
 | Ms Hardyanti Binte Sapuan | SH/Art |   |
-| Mdm Ros Leila | SH/ CCE  |   |
+| Ms Christina Chang | SH/CCE |   |
 | Mr Mohammad Hafiz Bin Mohd Rashib | PE & CCA |   |
 | Ms Annabelle Pek | SH/Student Well-Being & Management |   |
 | Ms Ow Siew Eng | Upper Primary Year Head |   |
