@@ -99,7 +99,7 @@ third_nav_title: Our People
 |  | MR | TAN KENG WAI |
 | P5 PERSEVERANCE | MS | NASUHA BT ABDULLAH |
 |  | MDM  | EWE JUN WEN  |
-|  | MRS  | CYNTHIA THESEIRA  |
+|  | MS  | SOFINA NG  |
 | P5 CONFIDENCE | MS | CLARA YEO |
 |  | MS | ER YEN RU |
 | P5 TEAMWORK | MR | TAN LIN HOW |
