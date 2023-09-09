@@ -96,10 +96,10 @@ third_nav_title: Our People
 |  | MDM | AFIDAH BTE KAMARI |
 |   | MR | YAP SHUN YI |
 | P5 EMPATHY | MS | KHOO SZE EAN (MS GRACE KHOO) |
-|  | MR | TAN KENG WAI |
+|  | MR | TAN KENG WAI (MR CHRIS TAN) |
 | P5 PERSEVERANCE | MS | NASUHA BT ABDULLAH |
-|  | MDM  | EWE JUN WEN  |
-|  | MS  | SOFINA NG  |
+|  | MDM  | EWE JUN WEN (MRS LEE)  |
+|  | MS  | SOFINA NG CHU QUAN  |
 | P5 CONFIDENCE | MS | CLARA YEO |
 |  | MS | ER YEN RU |
 | P5 TEAMWORK | MR | TAN LIN HOW |
