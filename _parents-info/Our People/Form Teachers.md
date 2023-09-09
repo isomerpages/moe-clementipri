@@ -56,9 +56,9 @@ third_nav_title: Our People
 | Class | Designation | Name |
 |:---:|:---:|:---:|
 | **Primary 3** |  |  |
-| P3 INITIATIVE | MS | ADELINE LEE MUI HOON (MRS TAN) |
+| P3 INITIATIVE | MDM | ADELINE LEE MUI HOON (MRS TAN) |
 |  | MR | LAI HUEI YUH |
-| P3 RESPONSIBILITY | MS | KRISHNAN |
+| P3 RESPONSIBILITY | MS | RANI D/O RATHA KRISHNAN (MS KRISHNAN) |
 |  | MS | KOH YU XIN |
 | P3 EMPATHY | MDM | JO TANG |
 |  | MDM | NORA BTE IBRAHIM |
