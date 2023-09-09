@@ -73,7 +73,7 @@ third_nav_title: Our People
 | Class | Designation | Name |
 |:---:|:---:|:---:|
 | **Primary 4** |  |  |
-| P4 INITIATIVE | MDM | HAN LEE WOON JOANN |
+| P4 INITIATIVE | MS | HAN LEE WOON JOANN |
 |  | MDM | SYAFIQAH BINTE NOOR ADZAN |
 | P4 RESPONSIBILITY | MDM | KOH SIOK HUI |
 |  | MDM | NEO SWEE HONG |
