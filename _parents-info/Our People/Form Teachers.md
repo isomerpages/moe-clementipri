@@ -35,7 +35,7 @@ third_nav_title: Our People
 | **Primary 2** |  |  |
 | P2 INITIATIVE | MDM | HAZLINDA BTE MANSOR |
 |  | MDM | BI YAN MEI |
-| P2 RESPONSIBILITY | MDM | LIAW LI CHING |
+| P2 RESPONSIBILITY | MRS | SEDRYLN SI |
 |  | MDM | SITI NUR RUZANNA BTE RAMLAN |
 | P2 EMPATHY | MDM | LIM PEY TING |
 |  | MDM | NUR AMANINA BTE ZAINI |
@@ -99,7 +99,7 @@ third_nav_title: Our People
 |  | MR | TAN KENG WAI |
 | P5 PERSEVERANCE | MS | NASUHA BT ABDULLAH |
 |  | MDM  | EWE JUN WEN  |
-|  | MRS  | CYNTHIA THESEIRA  |
+|  | MS  | SOFINA NG  |
 | P5 CONFIDENCE | MS | CLARA YEO |
 |  | MS | ER YEN RU |
 | P5 TEAMWORK | MR | TAN LIN HOW |
@@ -123,6 +123,25 @@ third_nav_title: Our People
 |   | MR | DU GUANG |
 | P6 TEAMWORK | MS | NG GEOK PENG GEORGINA |
 |   | MDM | LIU HUA |
+|
+
+|  | Designation | Name |
+|:---:|:---:|:---:|
+| **Other Teaching Staff** |  |  |
+| CONTRACT ADJUNCT | MDM | NORASHIQIN BTE MD NOR |
+| FLEXI ADJUNCT | MDM | ZURAIDAH BTE SAMSUDIN |
+| FLEXI ADJUNCT | MDM | NIRMALA BTE MOHAMED ISMAIL |
+| FLEXI ADJUNCT | MDM | TAN LAY HWA |
+| FLEXI ADJUNCT | MS | TAN SWEE CHEE |
+| FLEXI ADJUNCT | MDM | LIONG WAI PING |
+| FLEXI ADJUNCT | MDM | JOSEPHINE CHAN |
+| FLEXI ADJUNCT | MR | THOMAS WONG |
+| FLEXI ADJUNCT | MDM | PEK MEOW SIEN |
+| FLEXI ADJUNCT | MRS | LIM BOON WAH |
+| FLEXI ADJUNCT | MDM | JEAN HENG |
+| FLEXI ADJUNCT | MDM | ASAN BIVE BTE YUSOFF |
+| FLEXI ADJUNCT | MRS | PATRICIA LEE |
+| FLEXI ADJUNCT | MDM | GILLIAN SNG |
 |
 
 * Parents/guardians may: email to the school’s generic email address [admin_clementi_ps@moe.edu.sg](admin_clementi_ps@moe.edu.sg), stating clearly the staff they wish their message be conveyed to.

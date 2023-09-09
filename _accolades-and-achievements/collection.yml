@@ -1,0 +1,5 @@
+collections:
+  accolades-and-achievements:
+    output: true
+    order:
+      - Accolades and Achievements.md
