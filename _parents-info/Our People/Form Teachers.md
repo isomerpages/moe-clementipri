@@ -91,7 +91,7 @@ third_nav_title: Our People
 |:---:|:---:|:---:|
 | **Primary 5** |  |  |
 | P5 INITIATIVE | MS | GERALIN TAN SZE YAN |
-|  | MS | SUMMER MAY |
+|  | MS | SUMMER MAY THU MAUNG|
 | P5 RESPONSIBILITY | MS | JESSIE ONG KIT CHING |
 |  | MDM | AFIDAH BTE KAMARI |
 |   | MR | YAP SHUN YI |
