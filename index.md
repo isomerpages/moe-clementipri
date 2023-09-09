@@ -28,7 +28,7 @@ sections:
   - infobar:
       title: Affirmation/Feedback
       subtitle: we want to hear you
-      description: we'd love to hear your feedback
+      description: We'd love to hear your feedback
       button: click here
       url: https://form.gov.sg/#!/5f68400ec81ca700112d550b
 ---
