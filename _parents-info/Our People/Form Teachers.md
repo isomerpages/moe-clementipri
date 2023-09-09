@@ -66,8 +66,8 @@ third_nav_title: Our People
 |  | MDM | TAN PECK IMM (MRS ADELINE YEONG) |
 | P3 CONFIDENCE | MS | LEE JIA RUI |
 |  | MR | TAN KIM KEAT |
-| P3 TEAMWORK | MS | CHRISTY KOH |
-|  | MS | LIM SHU HUI |
+| P3 TEAMWORK | MDM | CHRISTY KOH WEI CHI |
+|  | MS | LIM SHU HUI (MS IRENE LIM) |
 |
 
 | Class | Designation | Name |
