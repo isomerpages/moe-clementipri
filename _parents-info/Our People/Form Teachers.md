@@ -56,7 +56,7 @@ third_nav_title: Our People
 | Class | Designation | Name |
 |:---:|:---:|:---:|
 | **Primary 3** |  |  |
-| P3 INITIATIVE | MS | ADELINE LEE (MRS TAN) |
+| P3 INITIATIVE | MS | ADELINE LEE MUI HOON (MRS TAN) |
 |  | MR | LAI HUEI YUH |
 | P3 RESPONSIBILITY | MS | KRISHNAN |
 |  | MS | KOH YU XIN |
