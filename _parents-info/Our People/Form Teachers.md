@@ -98,12 +98,12 @@ third_nav_title: Our People
 | P5 EMPATHY | MS | KHOO SZE EAN (MS GRACE KHOO) |
 |  | MR | TAN KENG WAI (MR CHRIS TAN) |
 | P5 PERSEVERANCE | MS | NASUHA BT ABDULLAH |
-|  | MDM  | EWE JUN WEN (MRS LEE)  |
+|  | MDM  | EWE JUN WEN (MRS LEE) |
 |  | MS  | SOFINA NG CHU QUAN  |
-| P5 CONFIDENCE | MS | CLARA YEO |
+| P5 CONFIDENCE | MS | YEO ANQI CLARA |
 |  | MS | ER YEN RU |
 | P5 TEAMWORK | MR | TAN LIN HOW |
-|  | MDM | S PREMALATHA |
+|  | MDM | S PREMALATHA (MDM PREMA) |
 |
 
 | Class | Designation | Name |
