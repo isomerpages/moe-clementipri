@@ -110,7 +110,7 @@ third_nav_title: Our People
 |:---:|:---:|:---:|
 | **Primary 6** |  |  |
 | P6 INITIATIVE | MR | CHUA KHENG LEONG ANTHONY |
-|  | MDM | KHEONG ZI JING |
+|  | MS | KHEONG ZI JING |
 | P6 RESPONSIBILITY | MR | MOHAMED ALI MARICAN |
 |  | MR | WU XIN |
 |  | MDM | LIM KOON PEI CYNTHIA |
