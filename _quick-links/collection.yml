@@ -2,5 +2,4 @@ collections:
   quick-links:
     output: true
     order:
-      - Human Resource Online/.keep
       - For Staff.md
