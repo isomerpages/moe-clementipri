@@ -19,9 +19,9 @@ sections:
         - title: Announcement
           description: ""
           url: /announcement/
-        - title: SLS Login
+        - title: Subscribe to our YouTube channel
           description: ""
-          url: https://vle.learning.moe.edu.sg/login
+          url: https://www.youtube.com/@clementiprimaryschool2160
         - title: Follow us on Facebook!
           description: ""
           url: https://www.facebook.com/profile.php?id=100063595747479
