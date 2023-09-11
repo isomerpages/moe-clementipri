@@ -9,3 +9,6 @@ description: ""
 
 [**MOE Intranet**](https://intranet.moe.gov.sg/Pages/Home.aspx)
 
+[**MOE OPAL 2.0**](https://opal2.moe.edu.sg/)
+
+[**School Cockpit Mobile**](https://scmobile.moe.edu.sg/)
