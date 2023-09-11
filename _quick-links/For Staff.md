@@ -14,3 +14,5 @@ description: ""
 [**Parents Gateway**](https://pg.moe.edu.sg/)
 
 [**School Cockpit Mobile**](https://scmobile.moe.edu.sg/)
+
+[**School Cockpit Plus**](https://schoolcockpit.moe.gov.sg/)
