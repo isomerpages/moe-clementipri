@@ -24,7 +24,7 @@ sections:
           url: https://vle.learning.moe.edu.sg/login
         - title: Follow us on Facebook!
           description: ""
-          url: https://www.facebook.com/Clementi-Primary-School-Official-779445572142790/info/?tab=overview
+          url: https://www.facebook.com/profile.php?id=100063595747479
   - infobar:
       title: Affirmation/Feedback
       subtitle: we want to hear you
