@@ -49,13 +49,13 @@ links:
   - title: Quick Links
     url: /students-info/student-icon/
     sublinks:
+      - title: For Staff
+        url: /permalink
+      - title: For Students
+        url: /permalink
       - title: Student iCON
         url: /students-info/student-icon/
       - title: SLS
         url: /students-info/SLS/
-      - title: For Students
-        url: /permalink
-      - title: For Staff
-        url: /permalink
   - title: Accolades & Achievements
     collection: accolades-and-achievements
