@@ -20,3 +20,5 @@ description: ""
 [**School Cockpit Mobile**](https://scmobile.moe.edu.sg/)
 
 [**School Cockpit Plus**](https://schoolcockpit.moe.gov.sg/)
+
+[**Student Learning Space (SLS)**](https://vle.learning.moe.edu.sg/login)
