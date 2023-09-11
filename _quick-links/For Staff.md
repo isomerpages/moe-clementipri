@@ -7,6 +7,8 @@ description: ""
 
 [**iCON Email**](https://icon.moe.edu.sg/)
 
+[**iEXAMS2**](https://iexams.seab.gov.sg/login)
+
 [**MOE Human Resource Online**](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
 
 [**MOE Intranet**](https://intranet.moe.gov.sg/Pages/Home.aspx)
