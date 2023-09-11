@@ -7,3 +7,4 @@ description: ""
 
 [MOE Intranet](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
 
+[Human Resource Online](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
