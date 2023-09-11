@@ -2,5 +2,6 @@ collections:
   quick-links-for-staff:
     output: true
     order:
+      - MOE Intranet.md
       - Human Resource Portal (HRP).md
       - MOE HR Portal.md
