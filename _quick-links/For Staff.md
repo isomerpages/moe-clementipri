@@ -3,6 +3,10 @@ title: For Staff
 permalink: /quick-links/for-staff/
 description: ""
 ---
+
+
+[**All Ears Form Builder**](https://forms.moe.edu.sg/)
+
 [**Human Resource Portal**](https://www.hrp.gov.sg/hrp/#/)
 
 [**iCON Email**](https://icon.moe.edu.sg/)
