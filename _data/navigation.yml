@@ -46,9 +46,13 @@ links:
         url: /pal-and-cca/pal/
       - title: CCA
         url: /pal-and-cca/CCA/
-  - title: Students INFO
-    url: /students-info/student-icon/
+  - title: Quick Links
+    url: /for-staff
     sublinks:
+      - title: For Staff
+        url: /quick-links/for-staff
+      - title: For Students
+        url: /quick-links/for-students
       - title: Student iCON
         url: /students-info/student-icon/
       - title: SLS
