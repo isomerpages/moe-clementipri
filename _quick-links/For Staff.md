@@ -11,4 +11,6 @@ description: ""
 
 [**MOE OPAL 2.0**](https://opal2.moe.edu.sg/)
 
+[**Parents Gateway**](https://pg.moe.edu.sg/)
+
 [**School Cockpit Mobile**](https://scmobile.moe.edu.sg/)
