@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - For Staff.md
-      - MOE HR Portal.md
       - MOE Intranet.md
