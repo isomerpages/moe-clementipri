@@ -3,4 +3,7 @@ title: For Staff
 permalink: /quick-links-for-staff/permalink/
 description: ""
 ---
-[Employees and Pensioners Portal (hrp.gov.sg)](https://www.hrp.gov.sg/hrp/#/)
+[Human Resource Portal](https://www.hrp.gov.sg/hrp/#/)
+
+[MOE Intranet](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
+
