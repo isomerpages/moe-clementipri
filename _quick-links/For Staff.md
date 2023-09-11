@@ -3,8 +3,6 @@ title: For Staff
 permalink: /quick-links/for-staff/
 description: ""
 ---
-
-
 [**All Ears Form Builder**](https://forms.moe.edu.sg/)
 
 [**Human Resource Portal**](https://www.hrp.gov.sg/hrp/#/)
@@ -20,6 +18,8 @@ description: ""
 [**MOE Intranet**](https://intranet.moe.gov.sg/Pages/Home.aspx)
 
 [**MOE OPAL 2.0**](https://opal2.moe.edu.sg/)
+
+[**MOE Sports & Recreation Club**](https://www.mesrc.net/)
 
 [**Parents Gateway**](https://pg.moe.edu.sg/)
 
