@@ -1,5 +1,5 @@
 collections:
-  quick-links-for-staff:
+  quick-links:
     output: true
     order:
       - For Staff.md
