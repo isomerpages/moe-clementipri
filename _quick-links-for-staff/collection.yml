@@ -1,4 +1,5 @@
 collections:
   quick-links-for-staff:
     output: true
-    order: []
+    order:
+      - Human Resource Portal (HRP).md
