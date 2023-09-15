@@ -125,23 +125,21 @@ third_nav_title: Our People
 |   | MDM | LIU HUA |
 |
 
-|  | Designation | Name |
+|  | ||
 |:---:|:---:|:---:|
-| **Other Teaching Staff** |  |  |
-| CONTRACT ADJUNCT | MDM | NORASHIQIN BTE MD NOR |
-| FLEXI ADJUNCT | MDM | ZURAIDAH BTE SAMSUDIN |
-| FLEXI ADJUNCT | MDM | NIRMALA BTE MOHAMED ISMAIL (MRS FIAH) |
-| FLEXI ADJUNCT | MDM | TAN LAY HWA |
-| FLEXI ADJUNCT | MS | TAN SWEE CHEE |
-| FLEXI ADJUNCT | MDM | LIONG WAI PING |
-| FLEXI ADJUNCT | MDM | JOSEPHINE CHAN |
-| FLEXI ADJUNCT | MR | THOMAS WONG |
-| FLEXI ADJUNCT | MDM | PEK MEOW SIEN |
-| FLEXI ADJUNCT | MRS | LIM BOON WAH |
-| FLEXI ADJUNCT | MDM | JEAN HENG |
-| FLEXI ADJUNCT | MDM | ASAN BIVE BTE YUSOFF |
-| FLEXI ADJUNCT | MRS | PATRICIA LEE |
-| FLEXI ADJUNCT | MDM | GILLIAN SNG |
-|
+| **Other Teaching Staff** | **Name** |  |
+| MDM | NORASHIQIN BTE MD NOR |
+| MDM | ZURAIDAH BTE SAMSUDIN |
+| MDM | NIRMALA BTE MOHAMED ISMAIL |
+| MDM | TAN LAY HWA |
+| MS | TAN SWEE CHEE |
+| MDM | LIONG WAI PING |
+| MDM | JOSEPHINE CHAN |
+| MDM | PEK MEOW SIEN |
+| MRS | LIM BOON WAH |
+| MDM | JEAN HENG |
+| MDM | ASAN BIVE BTE YUSOFF |
+| MRS | PATRICIA LEE |
+| MDM | GILLIAN SNG |
 
 * Parents/guardians may: email to the school’s generic email address [admin_clementi_ps@moe.edu.sg](admin_clementi_ps@moe.edu.sg), stating clearly the staff they wish their message be conveyed to.
