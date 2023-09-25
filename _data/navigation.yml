@@ -54,9 +54,9 @@ links:
       - title: For Students
         url: /quick-links/for-students
       - title: Student iCON
-        url: /students-info/student-icon/
+        url: /student-icon
       - title: SLS
-        url: /students-info/SLS/
+        url: /SLS
   - title: Staff Recognition
     url: /accolades-and-achievements
     sublinks:
