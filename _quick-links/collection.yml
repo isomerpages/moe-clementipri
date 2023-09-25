@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - Student Learning Space/For Students.md
       - Student Learning Space/.keep
       - For Staff.md
       - For Students/.keep
