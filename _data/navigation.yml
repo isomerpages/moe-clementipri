@@ -59,3 +59,6 @@ links:
         url: /students-info/SLS/
   - title: Staff Recognition
     collection: accolades-and-achievements
+  - title: Staff Recognition
+    url: /permalink
+    sublinks: []
