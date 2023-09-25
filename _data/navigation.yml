@@ -46,15 +46,6 @@ links:
         url: /pal-and-cca/pal/
       - title: CCA
         url: /pal-and-cca/CCA/
-  - title: Quick Links
-    url: /for-staff
-    sublinks:
-      - title: For Students
-        url: /quick-links/for-students
-      - title: For staff
-        url: /quick-links/for-staff
-      - title: New submenu
-        url: /permalink
   - title: Staff Recognition
     url: /accolades-and-achievements
     sublinks:
@@ -62,3 +53,6 @@ links:
         url: /accolades-and-achievements
       - title: Caring Teacher Awards 2024
         url: /accolades-and-achievements/caringteacherawards2024/
+  - title: Quick Links
+    url: /permalink
+    sublinks: []
