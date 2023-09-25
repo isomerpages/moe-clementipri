@@ -2,8 +2,6 @@ collections:
   students-info:
     output: true
     order:
-      - Student iCON/Student iCON.md
-      - Student iCON/.keep
       - Student Survey 2023/Link to student survey.md
       - Student Survey 2023/.keep
       - Student iCON.md
