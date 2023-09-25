@@ -52,11 +52,9 @@ links:
       - title: For Staff
         url: /quick-links/for-staff
       - title: For Students
-        url: /quick-links/for-students
-      - title: Student iCON
-        url: /quick-links/for-students
-      - title: SLS
-        url: /quick-links/for-students
+        url: /permalink
+      - title: New submenu
+        url: /permalink
   - title: Staff Recognition
     url: /accolades-and-achievements
     sublinks:
