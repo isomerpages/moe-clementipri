@@ -2,8 +2,6 @@ collections:
   students-info:
     output: true
     order:
-      - SLS/Student Learning Space (SLS).md
-      - SLS/.keep
       - Student iCON/Student iCON.md
       - Student iCON/.keep
       - Student Survey 2023/Link to student survey.md
