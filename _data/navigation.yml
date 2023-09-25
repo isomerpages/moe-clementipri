@@ -58,4 +58,9 @@ links:
       - title: SLS
         url: /students-info/SLS/
   - title: Staff Recognition
-    collection: accolades-and-achievements
+    url: /accolades-and-achievements
+    sublinks:
+      - title: Accolades and Achievements
+        url: /accolades-and-achievements
+      - title: Caring Teacher Awards 2024
+        url: /accolades-and-achievements/caringteacherawards2024/

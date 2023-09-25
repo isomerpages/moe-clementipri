@@ -1,6 +1,6 @@
 ---
 title: Caring Teacher Awards 2024
-permalink: /accolades-and-achievements/permalink/
+permalink: /accolades-and-achievements/caringteacherawards2024/
 description: ""
 ---
 **Caring Teacher Awards 2024**
