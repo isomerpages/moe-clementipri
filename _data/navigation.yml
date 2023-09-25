@@ -47,10 +47,12 @@ links:
       - title: CCA
         url: /pal-and-cca/CCA/
   - title: Quick Links
-    url: /for-staff
+    url: /quick-links
     sublinks:
       - title: For Students
         url: /quick-links/for-students
+      - title: For staff
+        url: /quick-links/for-staff
       - title: New submenu
         url: /permalink
   - title: Staff Recognition
