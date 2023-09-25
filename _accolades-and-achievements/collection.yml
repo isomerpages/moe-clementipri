@@ -2,4 +2,5 @@ collections:
   accolades-and-achievements:
     output: true
     order:
+      - Caring Teacher Awards 2024.md
       - Accolades and Achievements.md
