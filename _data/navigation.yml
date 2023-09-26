@@ -47,20 +47,16 @@ links:
       - title: CCA
         url: /pal-and-cca/CCA/
   - title: Quick Links
-    url: /for-staff
+    url: /quick-links/for-students/student-learning-space/
     sublinks:
       - title: For Staff
-        url: /quick-links/for-staff
+        url: /quick-links/for-staff/
       - title: For Students
-        url: /quick-links/for-students
-      - title: Student iCON
-        url: /students-info/student-icon/
-      - title: SLS
-        url: /students-info/SLS/
+        url: /quick-links/for-students/student-learning-space/
   - title: Staff Recognition
-    url: /accolades-and-achievements
+    url: /accolades-and-achievements/permalink/
     sublinks:
       - title: Accolades and Achievements
-        url: /accolades-and-achievements
+        url: /accolades-and-achievements/permalink/
       - title: Caring Teacher Awards 2024
         url: /accolades-and-achievements/caringteacherawards2024/
