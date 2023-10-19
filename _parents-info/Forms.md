@@ -18,7 +18,9 @@ Please apply through MOE if the reason of transfer is change of residential addr
 [Tamil](/files/Edusave%20Tamil.pdf)
 
 ##### Financial Assistance Scheme
-[2023 MOE FAS Application Form](/files/Forms/MOE%20FAS%20Application%20Form%202023%20v1.pdf)<br>
+[Online Application](https://go.gov.sg/moe-efas) <br>
+[2024 MOE FAS Application Form](/files/2024/2024%20moe%20fas%20application%20form.pdf)<br>
+[MOE FAS Pamphlet](/files/2024/moe%20fas%20pamphlets.pdf) <br>
 [Income Family Micro Insurance and Savings Scheme](/files/Income%20Family%20Micro%20Insurance%20and%20Savings%20Scheme.pdf)
 
 ##### Leave of Absence
