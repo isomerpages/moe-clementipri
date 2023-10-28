@@ -2,6 +2,6 @@ collections:
   accolades-and-achievements:
     output: true
     order:
-      - President's Award for Teachers 2024.md
       - Accolades and Achievements.md
       - Caring Teacher Awards 2024.md
+      - President's Award for Teachers 2024.md
