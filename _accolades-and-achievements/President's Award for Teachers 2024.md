@@ -3,7 +3,8 @@ title: President's Award for Teachers 2024
 permalink: /accolades-and-achievements/permalink/
 description: ""
 ---
-To find out more information about the award, please visit: [https://go.gov.sg/presidentawardforteachers](https://go.gov.sg/presidentawardforteachers)
+
+![](/images/pat2024.png)To find out more information about the award, please visit: [https://go.gov.sg/presidentawardforteachers](https://go.gov.sg/presidentawardforteachers)
 
    
 
