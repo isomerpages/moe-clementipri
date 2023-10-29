@@ -10,3 +10,11 @@ Clementi Primary School (CTPS) has created this platform for you to pen down you
 Please click on the link to pen down your words of appreciation:
 
 [https://go.gov.sg/ctps-wordsofappreciation](https://go.gov.sg/ctps-wordsofappreciation)
+
+![](/images/picture3.png)
+
+Show your appreciation by nominating your teachers  
+for the following awards:  
+Caring Teacher Award  
+President’s Award for Teachers  
+Outstanding Youth in Education Award
