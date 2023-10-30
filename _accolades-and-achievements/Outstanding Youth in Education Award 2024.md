@@ -1,6 +1,6 @@
 ---
 title: Outstanding Youth in Education Award 2024
-permalink: /accolades-and-achievements/permalink/
+permalink: /accolades-and-achievements/oyea2024/
 description: ""
 ---
 ![](/images/oyea2024.png)

@@ -1,6 +1,6 @@
 ---
 title: MOE Service Excellence Award 2023
-permalink: /accolades-and-achievements/permalink/
+permalink: /accolades-and-achievements/msea2023/
 description: ""
 ---
 ![](/images/slide13.JPG)
