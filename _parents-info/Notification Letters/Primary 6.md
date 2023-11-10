@@ -3,8 +3,13 @@ title: Primary 6
 permalink: /Parents-Info/Notification-Letters/pri-6/
 description: ""
 third_nav_title: Notification Letters
+variant: markdown
 ---
 ### Primary 6
+
+#### 2024
+1. [CTPS Primary 6 Foundation Booklist](/files/2024/P6FDN_booklist_2024.pdf)
+2. [CTPS Primary 6 Booklist](/files/2024/P6_booklist_2024.pdf)
 
 #### 2023
 1. [Schedule for P6 Prelims and PSLE Examinations 2023](/files/2023/T3/schedules%20for%20primary%20six%20preliminary%20and%20primary%20school%20leaving%20examinations%202023.pdf)
