@@ -3,8 +3,12 @@ title: Primary 4
 permalink: /Parents-Info/Notification-Letters/pri-4/
 description: ""
 third_nav_title: Notification Letters
+variant: markdown
 ---
 ### Primary 4
+
+#### 2024
+1. [CTPS Primary 4 Booklist](/files/2024/P4_booklist_2024.pdf)
 
 #### 2023
 1. [P4 Year End assessment schedule 2023](/files/2023/T3/primary%20four%20year-end%20assessment%20schedule%202023.pdf)
