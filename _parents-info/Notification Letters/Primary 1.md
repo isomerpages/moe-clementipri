@@ -9,10 +9,11 @@ variant: markdown
 
 #### 2024
 
-1. [P1 Orientation Information Sheet for Parents](/files/2024/P1_Orientation_Information_Sheet_for_Parents_2024.pdf)
-2. [Smart Buddy Registration](/files/2024/Smart_Buddy_Registration_Letter.pdf)
-3. [Welcome to CTPS (P1 Orientation Day)](https://drive.google.com/file/d/11ycfRJ0oKPz8Sf7wMpVml2oN6h2CNfFG/view?usp=sharing)
-4. [CTPS Primary 1 Booklist](/files/2024/P1_booklist_2024.pdf)
+1. [Important Notice to Year 2024 Primary One](/files/2024/Important_Notice_to_Year_2024_Primary_One_as_at_27_Oct_2023.pdf)
+2. [P1 Orientation Information Sheet for Parents](/files/2024/P1_Orientation_Information_Sheet_for_Parents_2024.pdf)
+3. [Smart Buddy Registration](/files/2024/Smart_Buddy_Registration_Letter.pdf)
+4. [Welcome to CTPS (P1 Orientation Day)](https://drive.google.com/file/d/11ycfRJ0oKPz8Sf7wMpVml2oN6h2CNfFG/view?usp=sharing)
+5. [CTPS Primary 1 Booklist](/files/2024/P1_booklist_2024.pdf)
 
 
 #### 2023
