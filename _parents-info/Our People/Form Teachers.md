@@ -51,8 +51,6 @@ variant: markdown
 |  | MDM | SASIKALA |
 | P2 TEAMWORK | MDM | HARYATI KHAMIN |
 |  | MS | ZHONG LINSHAN |
-| P2 UNITY | MRS | SUMATHI THIRUNAUKRARASU (MRS THIRU) |
-|  | MS | NG DAN YING |
 |
 
 | Class | Designation | Name |
