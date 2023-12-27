@@ -3,6 +3,7 @@ title: Non Teaching Staff
 permalink: /parents-info/our-people/nonteachingstaff/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 | Name | Designation |
 |---|---|
@@ -21,4 +22,4 @@ third_nav_title: Our People
 | Mr Muhammad Faizal Bin Othman | Canteen Stall 7 |
 | Mdm Nurzilah Bte Abdullah | Canteen Stall 7 |
 | Mdm Ang Bee Hong | Canteen Stall 8 |
-| 
+|
