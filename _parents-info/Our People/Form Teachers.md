@@ -3,20 +3,21 @@ title: Form Teachers
 permalink: /Parents-Info/Our-People/form-teachers/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### Form Teachers
 
 | Class | Designation | Name |
 |:---:|:---:|:---:|
 | **Primary 1** |  |  |
-| P1 INITIATIVE | MDM | SITI HAJJAR |
-|  | MS | ALETHEIA NG HUI PING  |
-| P1 RESPONSIBILITY | MR | LIN WEN'AN (MR GARY LIN) |
-|  | MS | HARDYANTI BTE SAPUAN |
-| P1 EMPATHY | MDM | SURAYA BTE YACOB |
-|  | MR | CHAU CHEE SING |
-| P1 SINCERITY | MDM | LEE SAU HOI |
-|  | MR | MOHAMMAD HAFIZ BIN MOHD RASHIB |
+| P1 EMPATHY | MDM | PHUA SIEW HOON |
+|  | MDM | NG YEE YUN  |
+| P1 RESPONSIBILITY | MDM | UNI MURNI ISMAIL |
+|  | MS | KOH MAY LING CORINA |
+| P1 INITIATIVE | MDM | NORASHIQIN MD NOR |
+|  | MS | MS NG DAN YING |
+| P1 INTEGRITY | MDM | SANTHI SEENAEVASAN |
+|  | MS | KHEONG ZI JING |
 | P1 PERSEVERANCE | MS | NUR BATRISYIA |
 |  | MDM | LIM AI FANG |
 | P1 ENTHUSIASM | MDM | ANNABELLE PEK (MS PEK) |
