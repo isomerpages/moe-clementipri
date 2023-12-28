@@ -3,6 +3,7 @@ title: Executive Administrative & Support Staff
 permalink: /Parents-Info/Our-People/admin-and-support/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### Executive Administrative & Support Staff
 
@@ -10,11 +11,12 @@ third_nav_title: Our People
 |---|---|
 | Ms Quek Lih Chyn Joyce | Administration Manager |
 | Mr Song Kok Liang Patrick | Operations Manager  |
+| Mr Wee Hing | Adjunct Operations Manager  |
 | Mr Fadzly Bin Samsudin | ICT Manager |
 | Ms Chua Seow Hong | Admin Executive |
 | Ms Nurul ‘Ain Teo | Admin Executive |
 | Ms Zalina Bte Mohammadin |CSO |
-| Ms Tay Bee Geok Erica  |CSO |
+| Ms Tay Bee Geok Erica  |Adjunct CSO |
 | Ms Wong Poh Chee Sophia | Adjunct CSO |
 | Mr Ho Chwee Koon | OSO |
 | Mdm Rameswari | OSO |
