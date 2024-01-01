@@ -22,7 +22,6 @@ variant: markdown
 | Mdm Rameswari | OSO |
 | Mdm Yong Heong Cheong |OSO |
 | Mr Lim Hock Huat | OSO |
-| Mr Tham Kuan Koong | Adjunct OSO |
 | 
 
 *   Parents/guardians may: email to the school’s generic email address [admin_clementi_ps@moe.edu.sg](admin_clementi_ps@moe.edu.sg), stating clearly the staff they wish their message be conveyed to.
