@@ -5,6 +5,13 @@ description: ""
 third_nav_title: For Students
 variant: markdown
 ---
-Sociogram: All Ears Form:
+The 2 surveys are meant for P3 to P6 students in 2024 only. 
 
-https://allears.estl.edu.sg/home
+Getting to know you survey (P3 to P6 students)
+Link: https://forms.moe.edu.sg/forms/vwBVre
+
+Term 1 Check in survey (P3 to P4 students)
+Link: https://forms.moe.edu.sg/forms/vRp1xo
+
+Term 1 Check in survey (P5 to P6 students)
+Link: https://forms.moe.edu.sg/forms/vw4VnJ
