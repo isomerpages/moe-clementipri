@@ -1,0 +1,15 @@
+collections:
+  lower-primary:
+    output: true
+    order:
+      - Primary 1/Back to School Day.md
+      - Primary 1/Kindergarten Visit.md
+      - Primary 1/Learning Journey.md
+      - Primary 1/Lower Primary School Sports Day.md
+      - Primary 1/Cyber Wellness Carnival.md
+      - Primary 1/.keep
+      - Primary 2/Lower Primary Sports Day.md
+      - Primary 2/Learning Journey.md
+      - Primary 2/Kindergarten Visit.md
+      - Primary 2/Cyber Wellness Carnival.md
+      - Primary 2/.keep

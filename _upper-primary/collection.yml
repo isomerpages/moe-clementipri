@@ -1,0 +1,21 @@
+collections:
+  upper-primary:
+    output: true
+    order:
+      - Primary 5/.keep
+      - "Primary 5/Learning Journey to the Science Centre : Diversity of Cells
+        Lesson.md"
+      - Primary 5/Overseas Immersion Program.md
+      - Primary 5/NE Show 2019.md
+      - Primary 5/KidZania GO! to school.md
+      - Primary 5/I Love Me! Roving Carnival by Health Promotion Board.md
+      - Primary 5/Cyber Wellness Activities.md
+      - Primary 5/Annual Sports Carnival.md
+      - "Primary 6/Learning Journey to the Science Centre : Aquatic Pond Life
+        Lesson.md"
+      - Primary 6/Prefect Investiture.md
+      - Primary 6/Cyber Wellness Activities.md
+      - Primary 6/Post PSLE Programme.md
+      - Primary 6/Study Skills and Self Management Workshop.md
+      - Primary 6/Annual Sports Carnival.md
+      - Primary 6/.keep
