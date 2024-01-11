@@ -10,11 +10,11 @@ variant: markdown
 | **CCA** | **Teachers** | **Venue** |
 |:---:|:---:|:---:|
 | **Badminton** <br>(Level 1 Classroom) | Mdm Chong Wei Sea<br> Mdm Neo Swee Hong <br>Mdm Lee Wan Yi<br>Mdm Liu Hua <br>Mr Tan Lin How | Clementi Sports Complex &amp; CTSS ISH |
-| **Basketball**<br> (Level 1 Classroom) | Mdm Jo Tang Wai Han <br> Mr Lai Huei Yuh <br>Mdm Ng Yee Yun<br> Mr Matthew Lim<br> Ms Ng Dan Ying <br>Mdm Jo Tang <br>Mdm Tay Ming Yan | Courtyard, CTPS ISHH |
-| **Floorball** |Mdm Hazlinda Bte Mansor<br> Ms Lee Jia Rui<br> Mr Tan Lin How <br>Mrs Kristale Teo<br>  Ms Summer May | School Hall |
-| **Football**<br> (Courtyard) | Mr Md. Hafiz (SH/PAL &amp; CCA) <br>Mr Shamsudin Bin Rahmat <br>Ms Siti Nur Ruzanna<br> Mr Gary Lin Wen'An<br>  Mr Tan Kim Keat | CTSS Field |
-| **Rope Skipping** |Mdm Suraya Bt Yacob (ST/Lower Pri) <br> Ms Clara Yeo  <br>Mdm Nurshahidah Bte Md.Shah  <br>Mdm Cynthia Lim (ST/SEN)<br>  Mdm Neo Swee Hong | School Hall |
-| **Taekwondo** | Mdm Lim Ai Fang (ST/CH)<br> Mrs Serene Teo <br>Mdm Nora  | The Quad |
+| **Basketball**<br> (Level 1 Classroom) | Mr Wu Xin <br> Ms Ng Dan Ying<br>Ms Summer May | Courtyard, CTPS ISHH |
+| **Floorball** |Mr Shamsudin Bin Rahmat<br> Mdm Siti Ruzanna<br> Mr Bala <br>Mdm Bi Yanmei | School Hall |
+| **Football**<br> (Courtyard) | Ms See Shen Leng <br>Ms Lee Jia Rui<br>Mdm Kristale Kang | CTSS Field |
+| **Rope Skipping** |Mrs Jesse Wan-Koh An An <br> Ms Clara Yeo  <br>Mdm Nurshahidah Bte Md.Shah | School Hall |
+| **Taekwondo** | Mdm Lim Ai Fang<br> Mdm Wong Sieow Tsing Josephine <br>Mdm Cynthia Lim  | The Quad |
 |
 
 #### Badminton
