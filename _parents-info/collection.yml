@@ -2,12 +2,12 @@ collections:
   parents-info:
     output: true
     order:
-      - Onboarding Parents Gateway (PG).md
       - Principal's Message.md
+      - School Vision,Mission & Values/.keep
       - School Vision,Mission & Values/School Logo.md
       - School Vision,Mission & Values/School Song.md
       - School Vision,Mission & Values/School Vision, Mission & Values.md
-      - School Vision,Mission & Values/.keep
+      - School Information/.keep
       - School Information/School Hours.md
       - School Information/School Rules.md
       - School Information/Visiting to the School.md
@@ -21,7 +21,6 @@ collections:
       - School Information/Edusave Awards For Primary School.md
       - School Information/Service Providers.md
       - School Information/Helplines for Pupils.md
-      - School Information/.keep
       - Our People/.keep
       - Our People/School Management Team.md
       - Our People/Form Teachers.md
@@ -37,8 +36,9 @@ collections:
       - Notification Letters/Primary 4.md
       - Notification Letters/Primary 5.md
       - Notification Letters/Primary 6.md
+      - Partners/.keep
       - Partners/Parent Support Group.md
       - Partners/School Advisory Committee.md
       - Partners/Family Matters @ School.md
-      - Partners/.keep
       - Forms.md
+      - Onboarding Parents Gateway (PG).md
