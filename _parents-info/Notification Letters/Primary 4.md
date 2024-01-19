@@ -8,7 +8,8 @@ variant: markdown
 ### Primary 4
 
 #### 2024
-1. [CTPS Primary 4 Booklist](/files/2024/P4_booklist_2024.pdf)
+1. [2024 P4 Weighted Assessment](/files/2024/2024_Formal_Assessment_for_Primary_4__Parent_s_Notification__1.pdf)
+2. [CTPS Primary 4 Booklist](/files/2024/P4_booklist_2024.pdf)
 
 #### 2023
 1. [P4 Year End assessment schedule 2023](/files/2023/T3/primary%20four%20year-end%20assessment%20schedule%202023.pdf)
