@@ -40,7 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Basketball</strong>
+<p><strong>Basketball</strong> 
 <br>(Level 1 Classroom)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -71,7 +71,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Floorball</strong>
+<p><strong>Floorball</strong> 
 <br>
 </p>
 </td>
