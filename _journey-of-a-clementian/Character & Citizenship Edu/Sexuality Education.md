@@ -3,6 +3,7 @@ title: Sexuality Education
 permalink: /journey-of-a-clementian/Character-and-Citizenship-Edu/sex-edu/
 description: ""
 third_nav_title: Character & Citizenship Edu
+variant: markdown
 ---
 ### SEXUALITY EDUCATION
 
@@ -36,7 +37,7 @@ third_nav_title: Character & Citizenship Edu
 
 * Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
-##### At Clementi Primary School, the following Sexuality Education lessons will be taught in 2023:
+##### At Clementi Primary School, the following Sexuality Education lessons will be taught in 2024:
 
 |  |  | **Primary 5** |  |
 |---|---|---|---|
@@ -55,7 +56,7 @@ third_nav_title: Character & Citizenship Edu
 |  | Did You Know? * <br>(60 min)|  This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.| Term 4 Week 2 |
 
 Please Note:
-*For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort. 
+*For 2024, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort. 
 
 
 #### Information for Parents
