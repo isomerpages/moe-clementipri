@@ -19,12 +19,12 @@ variant: markdown
 | Mdm S Premalatha | HOD/English |   |
 | Ms Geralin Tan | HOD/PE, Aesthetics & CCA |   |
 | Mrs Adeline Tan | HOD/Student Management |   |
+| Ms Christina Chang | HOD/CCE |   |
 | Ms Irene Lim Shu Hui  | LH/Science  |   |
 | Ms Krishnan  | LH/English  |   |
 | Ms Yang Shu  | SH/CL  |   |
 | Mr Ling Leck Poh Paul | SH/ICT |   |
 | Ms Hardyanti Binte Sapuan | SH/Art |   |
-| Ms Christina Chang | SH/CCE |   |
 | Mr Mohammad Hafiz Bin Mohd Rashib | PE & CCA |   |
 | Ms Annabelle Pek | SH/Student Well-Being & Management |   |
 | Ms Ow Siew Eng | Upper Primary Year Head |   |
