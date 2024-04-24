@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - For Students/.keep
-      - For Students/Link for Term 1 Check in survey, Getting to know you
-        better.md
       - For Students/Student Learning Space.md
       - For Students/Student iCON.md
       - For Students/Skillsfuture.md
