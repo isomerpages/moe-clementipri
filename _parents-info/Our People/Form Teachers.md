@@ -94,7 +94,7 @@ variant: tiptap
 <p>MS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS NG DAN YING</p>
+<p>NG DAN YING</p>
 </td>
 </tr>
 <tr>
