@@ -1171,10 +1171,10 @@ variant: tiptap
 <p>P6 HARMONY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR</p>
+<p>MRS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YAP SHUN YI</p>
+<p>PATRICIA NG</p>
 </td>
 </tr>
 <tr>
@@ -1226,10 +1226,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MRS</p>
+<p>MR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PATRICIA NG</p>
+<p>YAP SHUN YI</p>
 </td>
 </tr>
 <tr>
