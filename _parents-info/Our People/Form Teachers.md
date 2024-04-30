@@ -157,10 +157,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM</p>
+<p>MS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LATHEEFA BEEVI</p>
+<p>NOR AISYAH BTE SAMAT</p>
 </td>
 </tr>
 <tr>
@@ -194,6 +194,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>TAN LAY HWA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JEANN OH</p>
 </td>
 </tr>
 <tr>
