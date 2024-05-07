@@ -8,7 +8,7 @@ third_nav_title: School Information
 <p>All students are covered by insurance with MINIMUM accident coverage up
 till December 2026. The policy provides accident coverage related to all
 school activities and/or CCAs both in and out of school (please refer to
-the <a href="https://www.clementitownsec.moe.edu.sg/files/Insurance_Product_Fact_Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Product Factsheet</u></a>).</p>
+the <a href="/files/2024/Product_Fact_Sheet_Year_2024___Income_Insurance.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Factsheet</a>).</p>
 <p>For details regarding the coverage, please refer to the insurance company:</p>
 <p><strong>NTUC Income Insurance Co-operative Limited,</strong>
 </p>
