@@ -219,10 +219,10 @@ our students.</p>
 <br>&nbsp;·&nbsp;Password must not match or contain user ID.</p>
 <h5>Q6.<strong>I have encountered one of the following problems:</strong><br></h5>
 <p>1.<strong>Error AADSTS900561 given by the Google website.</strong> 
-<br>2.<strong>Website does not load.</strong>
-<br>3.<strong>Website keeps refreshing between two sites without loading any page.</strong>
-<br>4.<strong>Website keeps refreshing itself without loading the page.</strong>
-<br>5.<strong>Error 400. Server cannot process the request because it is malformed.</strong>
+<br>2.<strong>Website does not load.</strong> 
+<br>3.<strong>Website keeps refreshing between two sites without loading any page.</strong> 
+<br>4.<strong>Website keeps refreshing itself without loading the page.</strong> 
+<br>5.<strong>Error 400. Server cannot process the request because it is malformed.</strong> 
 <br>6.<strong>I get a prompt for me to enter a mobile number verification.</strong>
 </p>
 <p><strong>What should I do?</strong>
