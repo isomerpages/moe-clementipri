@@ -8,6 +8,11 @@ variant: tiptap
 <h3>Student iCON</h3>
 <p><strong>Login URL: <a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a></strong>
 </p>
+<p><strong>Forgot MIMS/Student iCON password? Click here to access the guide for Self-Service Password Reset service (SSPR) </strong>
+<a href="/files/MIMS_Self_Service_Password_Reset_SSPR.pdf" rel="noopener noreferrer nofollow" target="_blank">Self Service Reset Password</a>
+</p>
+<p>URL to reset MIMS/Student iCON Password: <a href="https://mims.moe.gov.sg/sspr" rel="noopener noreferrer nofollow" target="_blank">https://mims.moe.gov.sg/sspr</a>
+</p>
 <h4><a href="/files/Student%20iCON%20Onboarding%20Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Student iCON Onboarding Guide</a></h4>
 <h4>Frequently Asked Questions</h4>
 <h5>Q1.<strong>What is the naming convention for Student iCON email address?</strong> <br></h5>
