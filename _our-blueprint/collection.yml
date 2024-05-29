@@ -2,4 +2,5 @@ collections:
   our-blueprint:
     output: true
     order:
+      - Principals' Milestones.md
       - Beginnings (Our History).md
