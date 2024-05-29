@@ -1,4 +1,5 @@
 collections:
   our-blueprint:
     output: true
-    order: []
+    order:
+      - Beginnings (Our History).md
