@@ -2,6 +2,7 @@ collections:
   our-blueprint:
     output: true
     order:
+      - School Song.md
       - School Values.md
       - School Vision & Mission.md
       - School Crest.md
