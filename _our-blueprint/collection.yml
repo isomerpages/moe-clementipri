@@ -1,0 +1,4 @@
+collections:
+  our-blueprint:
+    output: true
+    order: []
