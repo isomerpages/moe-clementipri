@@ -2,5 +2,6 @@ collections:
   our-blueprint:
     output: true
     order:
+      - School Crest.md
       - Principals' Milestones.md
       - Beginnings (Our History).md
