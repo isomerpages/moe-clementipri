@@ -933,10 +933,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM</p>
+<p>MS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SITI RUZANNA BTE RAMLAN (MDM RUZANNA)</p>
+<p>NG BEE KHIM</p>
 </td>
 </tr>
 <tr>
@@ -959,17 +959,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>CHRISTY KOH WEI CHI</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHEONG TSUI YING HANA</p>
 </td>
 </tr>
 <tr>
