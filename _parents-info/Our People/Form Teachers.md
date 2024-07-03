@@ -176,29 +176,7 @@ variant: tiptap
 <p>MDM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ROS LEILA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MDM</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>LIM PEY TING</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MDM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TAN LAY HWA</p>
 </td>
 </tr>
 <tr>
