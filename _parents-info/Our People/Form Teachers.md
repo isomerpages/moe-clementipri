@@ -307,17 +307,6 @@ variant: tiptap
 <p>MDM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LEE WAN YI</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MDM</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>GILLIAN SNG</p>
 </td>
 </tr>
@@ -381,10 +370,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM</p>
+<p>MS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LIM AI FANG</p>
+<p>LIM HWEE CHEN</p>
 </td>
 </tr>
 <tr>
