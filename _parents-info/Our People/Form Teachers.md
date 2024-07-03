@@ -6,7 +6,12 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h3>Form Teachers</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -253,7 +258,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -500,7 +510,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -566,17 +581,6 @@ variant: tiptap
 <p>MDM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HAZLINDA BTE MANSOR</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MDM</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>CHNG MUI NOI CONNIE</p>
 </td>
 </tr>
@@ -629,10 +633,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS</p>
+<p>MDM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LIM HWEE CHEN</p>
+<p>ROS LEILA BTE BAHARUDIN</p>
 </td>
 </tr>
 <tr>
@@ -728,6 +732,17 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>MDM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HAZLINDA BTE MANSOR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -776,10 +791,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS</p>
+<p>DR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SIM HUI TSE JUDITH</p>
+<p>ZAINABA OMAR</p>
 </td>
 </tr>
 <tr>
@@ -850,17 +865,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>DR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ZAINABA OMAR</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>P4 RESPECT</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -916,7 +920,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1119,7 +1128,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1311,7 +1325,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
