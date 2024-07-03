@@ -1,0 +1,10 @@
+collections:
+  our-blueprint:
+    output: true
+    order:
+      - Beginnings (Our History).md
+      - Principals' Milestones.md
+      - School Crest.md
+      - School Vision & Mission.md
+      - School Values.md
+      - School Song.md
