@@ -2,4 +2,5 @@ collections:
   our-resources:
     output: true
     order:
+      - For Pupils.md
       - For Parents.md
