@@ -1,5 +1,7 @@
 logo: /images/sch logo.jpg
 links:
+  - title: OUR BLUEPRINT
+    collection: our-blueprint
   - title: Parents Info
     url: /Parents-Info/principal-message/
     sublinks:
@@ -60,5 +62,3 @@ links:
         url: /accolades-and-achievements/permalink/
       - title: MSEA 2023
         url: /accolades-and-achievements/msea2023
-  - title: OUR BLUEPRINT
-    collection: our-blueprint
