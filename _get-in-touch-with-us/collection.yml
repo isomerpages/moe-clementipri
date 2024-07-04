@@ -1,0 +1,4 @@
+collections:
+  get-in-touch-with-us:
+    output: true
+    order: []
