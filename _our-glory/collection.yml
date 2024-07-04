@@ -2,5 +2,4 @@ collections:
   our-glory:
     output: true
     order:
-      - Clementian Corner.md
       - Kids Studio.md
