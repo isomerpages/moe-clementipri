@@ -2,7 +2,11 @@ logo: /images/sch logo.jpg
 links:
   - title: OUR BLUEPRINT
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Our History
+        url: /permalink
+      - title: New submenu
+        url: /permalink
   - title: Parents Info
     url: /Parents-Info/principal-message/
     sublinks:
