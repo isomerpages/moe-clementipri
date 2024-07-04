@@ -2,6 +2,7 @@ collections:
   our-glory:
     output: true
     order:
+      - Learning For Life Programme.md
       - Applied Learning Programme.md
       - Broadcast Room.md
       - Clementian Care Corner.md
