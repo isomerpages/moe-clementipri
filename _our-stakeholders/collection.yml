@@ -2,5 +2,6 @@ collections:
   our-stakeholders:
     output: true
     order:
+      - Parent Support Group.md
       - School and Administrative Staff.md
       - School Advisory Committee.md
