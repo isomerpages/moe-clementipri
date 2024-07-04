@@ -1,8 +1,0 @@
----
-title: Clubs and Societies
-permalink: /pal-and-cca/CCA/clubs-and-societies/
-description: ""
-third_nav_title: CCA
-variant: tiptap
----
-<h3>Clubs and Societies</h3><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>CCA</strong></p></th><th rowspan="1" colspan="1"><p><strong>Teachers</strong></p></th><th rowspan="1" colspan="1"><p><strong>Venue</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>International Chess</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Sasikala <br>Mr Kenny Chau</p></td><td rowspan="1" colspan="1"><p>A5-05, A5-07</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Media &amp; Publicity Club</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Phua Siew Hoon<br>Ms Rani Krishnan<br>Mdm Chng Mui Noi Connie</p><p>Mrs Goh Pey Ting</p></td><td rowspan="1" colspan="1"><p>Com Lab 1</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Robotics Club</strong></p></td><td rowspan="1" colspan="1"><p>Mr Mohamed Ali Marican <br>Ms Zhong Linshan <br>Mr Paul Ling</p></td><td rowspan="1" colspan="1"><p>Level 4 IT Resource Room &amp; Comp Lab 2</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Science and Environmental Club</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Jessie Ong <br>Mr Tan Kian Beng<br>Ms Lim Shu Hui Irene</p></td><td rowspan="1" colspan="1"><p>Newton &amp; Einstein lab</p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width:65%" height="auto" width="100%" src="/images/sci%20and%20environmental%20club.gif"></div><p></p>
