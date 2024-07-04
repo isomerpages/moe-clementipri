@@ -92,7 +92,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Website/Principals/albert_chia.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/albert.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,7 +129,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Website/Principals/vimalenthiran.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vimal.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
