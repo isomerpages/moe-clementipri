@@ -4,4 +4,4 @@ permalink: /ness/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>NESS National Education and Social Studies</p>
