@@ -1,4 +1,5 @@
 collections:
   our-glory:
     output: true
-    order: []
+    order:
+      - Kids Studio.md
