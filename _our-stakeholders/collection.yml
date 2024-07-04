@@ -2,6 +2,7 @@ collections:
   our-stakeholders:
     output: true
     order:
+      - Educators.md
       - Senior Management Committee.md
       - Family Matters@School.md
       - Parent Support Group.md
