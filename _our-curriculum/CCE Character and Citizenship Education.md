@@ -11,6 +11,37 @@ description: ""
 <p>5) Sexuality Education</p>
 <p>6) Student Leadership</p>
 <p></p>
+<p>2) National Education and Social Studies(NESS)</p>
+<p>Learning Outcomes</p>
+<p>To develop students as Informed, Concerned and Participative Citizens</p>
+<p>Curriculum Approach</p>
+<p>Children are naturally inquisitive and the inquiry approach aims to harness
+this innate motivation in our students to inquire into things that catch
+their attention. Inquiry helps our students learn to judge whether the
+conclusions drawn by their peers are supported by sound information or
+based on opinions. Through the inquiry process, students are also empowered
+to be responsible for their own learning.</p>
+<p>Syllabus</p>
+<p>The syllabus is framed by knowledge, skills and values outcomes that pupils
+will acquire in order to be informed, concerned and participative citizens
+with a global outlook.</p>
+<p>It is organised in three clusters:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cluster 1 (Primary 1 &amp; 2): Discovering Self and Immediate Environment</p>
+</li>
+<li>
+<p>Cluster 2 (Primary 3 &amp; 4): Understanding Singapore in the Past and
+Present</p>
+</li>
+<li>
+<p>Cluster 3 (Primary 5 &amp; 6): Appreciating the World and Region We Live</p>
+</li>
+</ul>
+<p>Signature Programmes:</p>
+<p>Neighbourhood walks</p>
+<p>&nbsp;</p>
+<p></p>
 <p><strong>5) Sexuality Education</strong>
 </p>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
