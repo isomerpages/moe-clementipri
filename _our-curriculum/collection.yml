@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Science.md
       - CCE Character and Citizenship Education.md
       - PAM Physical Education Art Music.md
       - Mother Tongue.md
