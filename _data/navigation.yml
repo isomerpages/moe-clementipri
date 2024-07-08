@@ -1,5 +1,12 @@
 logo: /images/sch logo.jpg
 links:
+  - title: OUR BLUEPRINT
+    url: /Our Blueprint/Beginnings (Our History)
+    sublinks:
+      - title: Beginnings (Our History)
+        url: /permalink
+      - title: New submenu
+        url: /permalink
   - title: Parents Info
     url: /Parents-Info/principal-message/
     sublinks:
