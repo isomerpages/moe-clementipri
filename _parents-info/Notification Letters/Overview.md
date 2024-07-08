@@ -8,7 +8,7 @@ variant: markdown
 ### Notification Letters
 
 #### 2024
-1. [Start of year notification 2024](/files/2024/2024_Start_of_Year_Notification_Final.pdf)
+1. [Term 1 School notification 2024](/files/2024/2024_Start_of_Year_Notification_Final.pdf)
 
 #### 2023
 1. [MSEA Awards 2023](https://fb.watch/nWRpDhsxzJ/)
