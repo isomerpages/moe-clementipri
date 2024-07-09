@@ -4,7 +4,7 @@ permalink: /beginnings-our-history/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h4>Beginnings (Our History)</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Website/school_logo_01.png">
