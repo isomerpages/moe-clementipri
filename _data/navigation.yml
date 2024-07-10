@@ -31,8 +31,22 @@ links:
       - title: Kids Studio
         url: /our-glory/kids-studio
   - title: Our Curriculum
-    url: /permalink
-    sublinks: []
+    url: /our-curriculum/science
+    sublinks:
+      - title: Science
+        url: /our-curriculum/science
+      - title: CCE Character & Citizenship Ed
+        url: /our-curriculum/cce-character-and-citizenship-education/
+      - title: PE Art Music
+        url: /our-curriculum/pam-physical-education-art-music
+      - title: Mother Tongue
+        url: /our-curriculum/mother-tongue
+      - title: Mathematics
+        url: /our-curriculum/mathematics
+      - title: English
+        url: /our-curriculum/english
+      - title: Total Curriculum
+        url: /our-curriculum/total-curriculum
   - title: Our Resources
     url: /permalink
     sublinks: []
