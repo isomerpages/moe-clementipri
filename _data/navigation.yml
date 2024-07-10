@@ -49,7 +49,13 @@ links:
         url: /our-curriculum/total-curriculum
   - title: Our Resources
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: For Teachers
+        url: /our-resources/for-teachers
+      - title: For Students
+        url: /our-resources/for-students
+      - title: For Parents
+        url: /our-resources/for-parents
   - title: Our Stakeholders
     url: /our-stakeholders/educators
     sublinks:
