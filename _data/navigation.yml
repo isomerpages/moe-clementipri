@@ -1,76 +1,76 @@
 logo: /images/sch logo.jpg
 links:
   - title: Our Blueprint
-    url: /our-blueprint/beginnings-our-history
+    url: beginnings-our-history
     sublinks:
       - title: Beginnings (Our History)
-        url: /our-blueprint/beginnings-our-history
+        url: beginnings-our-history
       - title: Principals' Milestones
-        url: /our-blueprint/principals-milestones
+        url: principals-milestones
       - title: School Crest
-        url: /our-blueprint/school-crest
+        url: school-crest
       - title: School Vision & Mission
-        url: /our-blueprint/school-vision-mission
+        url: school-vision-mission
       - title: School Values
-        url: /our-blueprint/school-values
+        url: school-values
       - title: School Song
-        url: /our-blueprint/school-song
+        url: school-song
   - title: Our Glory
-    url: /our-glory/stretch-programmes
+    url: stretch-programmes
     sublinks:
       - title: Stretch Programmes
-        url: /our-glory/stretch-programmes
+        url: stretch-programmes
       - title: Learning for Life Programme
-        url: /our-glory/learning-for-life-programme/
+        url: /learning-for-life-programme/
       - title: Applied Learning Programme
-        url: /our-glory/applied-learning-programme
+        url: /applied-learning-programme
       - title: Broadcast Room
-        url: /our-glory/broadcast-room
+        url: /broadcast-room
       - title: Clementian Care Corner
-        url: /our-glory/clementian-care-corner
+        url: /clementian-care-corner
       - title: Kids Studio
-        url: /our-glory/kids-studio
+        url: /kids-studio
   - title: Our Curriculum
-    url: /our-curriculum/science
+    url: /science
     sublinks:
       - title: Science
-        url: /our-curriculum/science
+        url: /science
       - title: CCE Character & Citizenship Ed
-        url: /our-curriculum/cce-character-and-citizenship-education/
+        url: /cce-character-and-citizenship-education/
       - title: PE Art Music
-        url: /our-curriculum/pam-physical-education-art-music
+        url: /pam-physical-education-art-music
       - title: Mother Tongue
-        url: /our-curriculum/mother-tongue
+        url: /mother-tongue
       - title: Mathematics
-        url: /our-curriculum/mathematics
+        url: /mathematics
       - title: English
-        url: /our-curriculum/english
+        url: /english
       - title: Total Curriculum
-        url: /our-curriculum/total-curriculum
+        url: /total-curriculum
   - title: Our Resources
-    url: /permalink
+    url: /for-teachers
     sublinks:
       - title: For Teachers
-        url: /our-resources/for-teachers
+        url: /for-teachers
       - title: For Students
-        url: /our-resources/for-students
+        url: /for-students
       - title: For Parents
-        url: /our-resources/for-parents
+        url: /for-parents
   - title: Our Stakeholders
     url: /our-stakeholders/educators
     sublinks:
       - title: Educators
-        url: /our-stakeholders/educators
+        url: /educators
       - title: Senior Management Committee
-        url: /our-stakeholders/senior-management-committee
+        url: /senior-management-committee
       - title: Family Matters @ School
-        url: /our-stakeholders/family-matters-school
+        url: /family-matters-school
       - title: Parent Support Group
-        url: /our-stakeholders/parent-support-group
+        url: /parent-support-group
       - title: School Administrative Staff
-        url: /our-stakeholders/school-administrative-staff
-      - title: School AdvisoryCommittee
-        url: /permalink
+        url: /school-administrative-staff
+      - title: School Advisory Committee
+        url: /school-advisory-committee
   - title: Parents Info
     url: /Parents-Info/principal-message/
     sublinks:
