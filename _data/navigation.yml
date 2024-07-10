@@ -52,7 +52,19 @@ links:
     sublinks: []
   - title: Our Stakeholders
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Educators
+        url: /our-stakeholders/educators
+      - title: Senior Management Committee
+        url: /our-stakeholders/senior-management-committee
+      - title: Family Matters @ School
+        url: /our-stakeholders/family-matters-school
+      - title: Parent Support Group
+        url: /our-stakeholders/parent-support-group
+      - title: School Administrative Staff
+        url: /our-stakeholders/school-administrative-staff
+      - title: New submenu
+        url: /permalink
   - title: Parents Info
     url: /Parents-Info/principal-message/
     sublinks:
