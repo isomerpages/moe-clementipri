@@ -16,20 +16,20 @@ links:
       - title: School Song
         url: school-song
   - title: Our Glory
-    url: /our-glory/stretch-programmes
+    url: stretch-programmes
     sublinks:
       - title: Stretch Programmes
-        url: /our-glory/stretch-programmes
+        url: stretch-programmes
       - title: Learning for Life Programme
-        url: /our-glory/learning-for-life-programme/
+        url: /learning-for-life-programme/
       - title: Applied Learning Programme
-        url: /our-glory/applied-learning-programme
+        url: /applied-learning-programme
       - title: Broadcast Room
-        url: /our-glory/broadcast-room
+        url: /broadcast-room
       - title: Clementian Care Corner
-        url: /our-glory/clementian-care-corner
+        url: /clementian-care-corner
       - title: Kids Studio
-        url: /our-glory/kids-studio
+        url: /kids-studio
   - title: Our Curriculum
     url: /our-curriculum/science
     sublinks:
