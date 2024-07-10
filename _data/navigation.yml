@@ -1,20 +1,20 @@
 logo: /images/sch logo.jpg
 links:
   - title: Our Blueprint
-    url: /our-blueprint/beginnings-our-history
+    url: beginnings-our-history
     sublinks:
       - title: Beginnings (Our History)
-        url: /our-blueprint/beginnings-our-history
+        url: beginnings-our-history
       - title: Principals' Milestones
-        url: /our-blueprint/principals-milestones
+        url: principals-milestones
       - title: School Crest
-        url: /our-blueprint/school-crest
+        url: school-crest
       - title: School Vision & Mission
-        url: /our-blueprint/school-vision-mission
+        url: school-vision-mission
       - title: School Values
-        url: /our-blueprint/school-values
+        url: school-values
       - title: School Song
-        url: /our-blueprint/school-song
+        url: school-song
   - title: Our Glory
     url: /our-glory/stretch-programmes
     sublinks:
