@@ -15,6 +15,9 @@ links:
         url: /Our Blueprint/school-values
       - title: School Song
         url: /Our Blueprint/school-song
+  - title: Our Glory
+    url: /permalink
+    sublinks: []
   - title: Parents Info
     url: /Parents-Info/principal-message/
     sublinks:
