@@ -17,7 +17,9 @@ links:
         url: /Our Blueprint/school-song
   - title: Our Glory
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Science
+        url: /permalink
   - title: Our Curriculum
     url: /permalink
     sublinks: []
