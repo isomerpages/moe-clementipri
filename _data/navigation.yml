@@ -16,10 +16,10 @@ links:
       - title: School Song
         url: school-song
   - title: Our Glory
-    url: stretch-programmes
+    url: Stretch-Programmes
     sublinks:
       - title: Stretch Programmes
-        url: stretch-programmes
+        url: Stretch-Programmes
       - title: Learning for Life Programme
         url: /learning-for-life-programme/
       - title: Applied Learning Programme
@@ -34,7 +34,7 @@ links:
     url: /science
     sublinks:
       - title: Science
-        url: /science
+        url: /Science
       - title: CCE Character & Citizenship Ed
         url: /cce-character-and-citizenship-education/
       - title: PE Art Music
