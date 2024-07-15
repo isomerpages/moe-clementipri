@@ -1,6 +1,6 @@
 ---
-title: Senior Management Committee
-permalink: /senior-management-committee/
+title: School Management Committee
+permalink: /school-management-committee/
 variant: markdown
 description: ""
 ---
