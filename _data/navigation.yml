@@ -1,14 +1,14 @@
 logo: /images/sch logo.jpg
 links:
   - title: Our Blueprint
-    url: beginnings-our-history
+    url: /beginnings-our-history
     sublinks:
       - title: Beginnings (Our History)
-        url: beginnings-our-history
+        url: /beginnings-our-history
       - title: Principals' Milestones
         url: principals-milestones
       - title: School Crest
-        url: school-crest
+        url: School-Crest
       - title: School Vision & Mission
         url: school-vision-mission
       - title: School Values
@@ -16,10 +16,10 @@ links:
       - title: School Song
         url: school-song
   - title: Our Glory
-    url: stretch-programmes
+    url: Stretch-Programmes
     sublinks:
       - title: Stretch Programmes
-        url: stretch-programmes
+        url: Stretch-Programmes
       - title: Learning for Life Programme
         url: /learning-for-life-programme/
       - title: Applied Learning Programme
@@ -34,7 +34,7 @@ links:
     url: /science
     sublinks:
       - title: Science
-        url: /science
+        url: /Science
       - title: CCE Character & Citizenship Ed
         url: /cce-character-and-citizenship-education/
       - title: PE Art Music

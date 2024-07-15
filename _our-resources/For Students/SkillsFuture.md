@@ -1,12 +1,12 @@
 ---
-title: Skillsfuture
+title: SkillsFuture
 permalink: /skillsfuture/
 variant: tiptap
 description: ""
 third_nav_title: For Students
 ---
-<h2>Skillsfuture</h2>
-<p><strong>Login URL:</strong>  <a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener noreferrer nofollow" target="_blank">Skillsfuture Primary Schools</a>
+<h2>SkillsFuture</h2>
+<p><strong>Login URL:</strong>  <a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture Primary Schools</a>
 </p>
 <p></p>
 <p>MySkillsFuture for students is a one-stop portal to help you discover
