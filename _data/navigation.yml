@@ -1,12 +1,12 @@
 logo: /images/sch logo.jpg
 links:
   - title: Our Blueprint
-    url: /beginnings-our-history
+    url: /beginnings-our-history/
     sublinks:
       - title: Beginnings (Our History)
         url: /beginnings-our-history
       - title: Principals' Milestones
-        url: principals-milestones
+        url: /principals-milestones
       - title: School Crest
         url: School-Crest
       - title: School Vision & Mission
@@ -34,7 +34,7 @@ links:
     url: /science
     sublinks:
       - title: Science
-        url: /Science
+        url: /science
       - title: CCE Character & Citizenship Ed
         url: /cce-character-and-citizenship-education/
       - title: PE Art Music
