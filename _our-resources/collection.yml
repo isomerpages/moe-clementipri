@@ -1,5 +1,5 @@
 collections:
-  quick-links:
+  our-resources:
     output: true
     order:
       - For Parents.md
