@@ -1,7 +1,0 @@
-collections:
-  our-resources:
-    output: true
-    order:
-      - For Teachers.md
-      - For Pupils.md
-      - For Parents.md
