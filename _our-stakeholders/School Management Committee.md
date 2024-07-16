@@ -4,7 +4,7 @@ permalink: /school-management-committee/
 variant: markdown
 description: ""
 ---
-### School Management Team
+### School Management Committee
 
 | Name | Designation | 
 |---|---|
