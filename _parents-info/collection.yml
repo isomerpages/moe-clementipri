@@ -3,10 +3,6 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - School Vision,Mission & Values/.keep
-      - School Vision,Mission & Values/School Logo.md
-      - School Vision,Mission & Values/School Song.md
-      - School Vision,Mission & Values/School Vision, Mission & Values.md
       - School Information/Student Protection Plan Insurance.md
       - School Information/.keep
       - School Information/School Hours.md
@@ -22,11 +18,6 @@ collections:
       - School Information/Edusave Awards For Primary School.md
       - School Information/Service Providers.md
       - School Information/Helplines for Pupils.md
-      - Our People/.keep
-      - Our People/School Management Team.md
-      - Our People/Form Teachers.md
-      - Our People/Allied Educators.md
-      - Our People/Executive Administrative & Support Staff.md
       - Parenting Tips.md
       - Notification Letters/.keep
       - Notification Letters/Overview.md
@@ -36,9 +27,5 @@ collections:
       - Notification Letters/Primary 4.md
       - Notification Letters/Primary 5.md
       - Notification Letters/Primary 6.md
-      - Partners/.keep
-      - Partners/Parent Support Group.md
-      - Partners/School Advisory Committee.md
-      - Partners/Family Matters @ School.md
       - Forms.md
       - Onboarding Parents Gateway (PG).md
