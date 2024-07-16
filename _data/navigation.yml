@@ -95,8 +95,12 @@ links:
   - title: After School Programmes
     url: /signature-programmes-in-ctp/after-school-programmes/enrichment/
     sublinks:
-      - title: After School Programmes
+      - title: Enrichment Programmes
         url: /signature-programmes-in-ctp/after-school-programmes
+      - title: MOE Based Remediation
+        url: /permalink
+      - title: School Based Remediation
+        url: /permalink
   - title: PAL & CCA
     url: /pal-and-cca/pal/
     sublinks:
