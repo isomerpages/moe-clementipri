@@ -2,6 +2,7 @@ collections:
   our-stakeholders:
     output: true
     order:
+      - Non Teaching Staff.md
       - Educators.md
       - School Management Committee.md
       - Family Matters@School.md
