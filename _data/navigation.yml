@@ -55,7 +55,7 @@ links:
       - title: For Students
         url: /quick-links/for-students/student-learning-space/
       - title: For Parents
-        url: /Parents-Info/principal-message/
+        url: /parents-info/principal-message/
   - title: Our Stakeholders
     url: /our-stakeholders/educators
     sublinks:
@@ -73,25 +73,6 @@ links:
         url: /school-advisory-committee
       - title: Non Teaching Staff
         url: /parents-info/our-people/nonteachingstaff/
-  - title: Parents Info
-    url: /Parents-Info/principal-message/
-    sublinks:
-      - title: Principal's Message
-        url: /Parents-Info/principal-message/
-      - title: School Information
-        url: /Parents-Info/school-information/school-hours/
-      - title: Our People
-        url: /Parents-Info/Our-People/
-      - title: Parenting Tips
-        url: /Parents-Info/parenting-tips/
-      - title: Notifications
-        url: /Parents-Info/Notification-Letters/
-      - title: Partners
-        url: /Parents-Info/partners/
-      - title: Forms
-        url: /Parents-Info/forms/
-      - title: Onboarding Parents Gateway
-        url: /parents-info/pgonboarding/
   - title: Signature Programmes in CTP
     url: /signature-programmes-in-ctp/after-school-programmes/enrichment/
     sublinks:

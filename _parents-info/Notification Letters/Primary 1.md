@@ -1,9 +1,9 @@
 ---
 title: Primary 1
-permalink: /Parents-Info/Notification-Letters/pri-1/
+permalink: /parents-info/notification-letters/pri-1/
 description: ""
 third_nav_title: Notification Letters
-variant: markdown
+variant: tiptap
 ---
 ### Primary 1
 

@@ -1,12 +1,13 @@
 ---
 title: School Hours
-permalink: /Parents-Info/school-information/school-hours/
+permalink: /parents-info/school-information/school-hours/
 description: ""
 third_nav_title: School Information
+variant: tiptap
 ---
 ### School Hours
 
-| School Hours | Level | Recess | Tue Recess | Fruit & Snack Time |
+| School Hours | Level | Recess | Tue Recess | Fruit &amp; Snack Time |
 |---|---|---|---|---|
 | Mon to Fri<br>7.30 a.m. to<br>1.30 p.m.<br><br> | Primary 1 | 0830-0900 | 0845-0915 | 12 noon |
 |  | Primary 2 | 0900-0930 | 0915-0945 | 12 noon |

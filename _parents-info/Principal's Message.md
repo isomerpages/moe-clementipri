@@ -1,6 +1,6 @@
 ---
 title: Principal's Message
-permalink: /Parents-Info/principal-message/
+permalink: /parents-info/principal-message/
 description: ""
 variant: tiptap
 ---
