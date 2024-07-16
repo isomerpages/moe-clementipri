@@ -73,25 +73,6 @@ links:
         url: /school-advisory-committee
       - title: Non Teaching Staff
         url: /parents-info/our-people/nonteachingstaff/
-  - title: Parents Info
-    url: /parents-info/principal-message/
-    sublinks:
-      - title: Principal's Message
-        url: /parents-info/principal-message/
-      - title: School Information
-        url: /parents-info/school-information/school-hours/
-      - title: Our People
-        url: /parents-info/our-people/
-      - title: Parenting Tips
-        url: /parents-info/parenting-tips/
-      - title: Notifications
-        url: /Parents-Info/Notification-Letters/
-      - title: Partners
-        url: /Parents-Info/partners/
-      - title: Forms
-        url: /Parents-Info/forms/
-      - title: Onboarding Parents Gateway
-        url: /parents-info/pgonboarding/
   - title: Signature Programmes in CTP
     url: /signature-programmes-in-ctp/after-school-programmes/enrichment/
     sublinks:
