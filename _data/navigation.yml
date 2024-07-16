@@ -92,17 +92,6 @@ links:
         url: /Parents-Info/forms/
       - title: Onboarding Parents Gateway
         url: /parents-info/pgonboarding/
-  - title: Journey of a Clementian
-    url: /lower-primary/Primary-1/back-to-school-day/
-    sublinks:
-      - title: Lower Primary
-        url: /lower-primary/Primary-1/back-to-school-day/
-      - title: Middle Primary
-        url: /middle-primary/Primary-3/VIA/
-      - title: Upper Primary
-        url: /upper-primary/Primary-5/learning-journey-science-centre/
-      - title: Memorable School Events
-        url: /journey-of-a-clementian/Memorable-School-Events/lunar-new-year-celeb/
   - title: Signature Programmes In CTP
     url: /signature-programmes-in-ctp/ALP/
     sublinks:
