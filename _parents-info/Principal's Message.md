@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>Principal's Message</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vimal.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/vimal.jpg">
 </div>
 <p>At Clementi Primary School, “Why we do what we do?” is always a question
 that we encourage everyone to ask. This questioning mindset is what we
@@ -73,3 +73,4 @@ foundation.</p>
 <p>Thank You</p>
 <p>Yours in Service,
 <br>Vimalenthiran Vijayasingam</p>
+<p></p>
