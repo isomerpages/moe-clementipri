@@ -51,11 +51,11 @@ links:
     url: /for-teachers
     sublinks:
       - title: For Teachers
-        url: /for-teachers
+        url: /quick-links/for-teachers/
       - title: For Students
-        url: /for-students
+        url: /quick-links/for-students/student-learning-space/
       - title: For Parents
-        url: /for-parents
+        url: /Parents-Info/principal-message/
   - title: Our Stakeholders
     url: /our-stakeholders/educators
     sublinks:
@@ -76,8 +76,6 @@ links:
     sublinks:
       - title: Principal's Message
         url: /Parents-Info/principal-message/
-      - title: School Vision,Mission & Values
-        url: /Parents-Info/core-values/school-logo/
       - title: School Information
         url: Parents-Info/school-information/school-hours/
       - title: Our People

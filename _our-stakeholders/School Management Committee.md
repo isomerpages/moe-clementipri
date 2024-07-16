@@ -1,38 +1,238 @@
 ---
 title: School Management Committee
 permalink: /school-management-committee/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-### School Management Team
-
-| Name | Designation | 
-|---|---|
-| Mr Vimalenthiran s/o Vijayasingam | Principal | |
-| Mrs Cheryl Lim | Vice-Principal (Acad) |   |
-| Mrs Catherine Chan | Vice-Principal (Acad) |   |
-| Ms Tung Ai Jui  | Vice-Principal (Admin)  | 
-| Mrs Chua-Lee Sau Wai Jessie | School Staff Developer (SSD) |   |
-| Ms Ewe Jun Wen | HOD/Mathematics  |   |
-| Ms Er Yen Ru | HOD/Science |   |
-| Mdm S Premalatha | HOD/English |   |
-| Ms Geralin Tan | HOD/PE, Aesthetics & CCA |   |
-| Mrs Adeline Tan | HOD/Student Management |   |
-| Ms Christina Chang | HOD/CCE |   |
-| Ms Irene Lim Shu Hui  | LH/Science  |   |
-| Ms Krishnan  | LH/English  |   |
-| Ms Yang Shu  | SH/CL  |   |
-| Mr Ling Leck Poh Paul | SH/ICT |   |
-| Ms Hardyanti Binte Sapuan | SH/Art |   |
-| Mr Mohammad Hafiz Bin Mohd Rashib | PE & CCA |   |
-| Ms Annabelle Pek | SH/Student Well-Being & Management |   |
-| Ms Ow Siew Eng | Upper Primary Year Head |   |
-| Mdm Haryanny Awang |Middle Primary Year Head |   |
-| Ms Lily Guan | Middle Primary Asst Year Head |   |
-| Ms Nurul Huda Binte Yazid | Lower Primary Year Head |   |
-| Dr Zainaba Omar | Lead Teacher/ Malay Language  |   |
-| Mdm Liaw Li Ching | ST/Educational Support |   |
-| Mdm Suraya Yacob | ST/Lower Primary Learners |   |
-|
-
-* Parents/guardians may: email to the school’s generic email address [admin_clementi_ps@moe.edu.sg](admin_clementi_ps@moe.edu.sg), stating clearly the staff they wish their message be conveyed to.
+<h3>School Management Committee</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Vimalenthiran s/o Vijayasingam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Cheryl Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Acad)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Catherine Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Acad)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tung Ai Jui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Admin)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Chua-Lee Sau Wai Jessie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer (SSD)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ewe Jun Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Er Yen Ru</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm S Premalatha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/English</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Geralin Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/PE, Aesthetics &amp; CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Adeline Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Student Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Christina Chang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/CCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Irene Lim Shu Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH/Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Krishnan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH/English</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yang Shu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/CL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ling Leck Poh Paul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/ICT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hardyanti Binte Sapuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Art</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammad Hafiz Bin Mohd Rashib</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE &amp; CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Annabelle Pek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Student Well-Being &amp; Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ow Siew Eng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper Primary Year Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Haryanny Awang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Middle Primary Year Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lily Guan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Middle Primary Asst Year Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nurul Huda Binte Yazid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Primary Year Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Zainaba Omar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher/ Malay Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Liaw Li Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST/Educational Support</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Suraya Yacob</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST/Lower Primary Learners</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents/guardians may: email to the school’s generic email address <a href="admin_clementi_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">admin_clementi_ps@moe.edu.sg</a>,
+stating clearly the staff they wish their message be conveyed to.</p>
+</li>
+</ul>
+<p></p>
