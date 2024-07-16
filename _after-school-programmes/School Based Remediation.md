@@ -1,9 +1,9 @@
 ---
 title: School Based Remediation
-permalink: /signature-programmes-in-ctp/After-School-Programmes/permalink
+permalink: /after-school-programmes/school-based-remediation/
 description: ""
+variant: tiptap
 ---
-
 ### School Based Remediation
 
 #### Remediation Programme

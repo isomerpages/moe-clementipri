@@ -1,12 +1,10 @@
 ---
 title: Overview
-permalink: /signature-programmes-in-ctp/After-School-Programmes/enrichment/
+permalink: /signature-programmes-in-ctp/after-school-programmes/enrichment/
 description: ""
 third_nav_title: Enrichment
+variant: tiptap
 ---
-
-
-
 ### Enrichment
 #### Enrichment Programme
 
