@@ -5,14 +5,72 @@ description: ""
 third_nav_title: School Information
 variant: tiptap
 ---
-### School Hours
-
-| School Hours | Level | Recess | Tue Recess | Fruit &amp; Snack Time |
-|---|---|---|---|---|
-| Mon to Fri<br>7.30 a.m. to<br>1.30 p.m.<br><br> | Primary 1 | 0830-0900 | 0845-0915 | 12 noon |
-|  | Primary 2 | 0900-0930 | 0915-0945 | 12 noon |
-|  | Primary 3 | 0930-1000 | 0945-1015 | 12 noon |
-|  | Primary 4 | 1000-1030 | 1015-1045 | 9 a.m |
-|  | Primary 5 | 1030-1100 | 1045-1115 | 12 noon |
-|  | Primary 6 | 1100-1130 | 1115-1145 | 9 a.m |
-|
+<h3>School Hours</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>School Hours</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Recess</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Fruit &amp; Snack Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Mon to Fri
+<br>7.30 a.m. to
+<br>1.30 p.m.
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 2</p>
+<p>Primary 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0900-0930</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 noon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 1</p>
+<p>Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1000-1030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 noon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 3</p>
+<p>Primary 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1100-1130</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 am</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
