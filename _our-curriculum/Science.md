@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /science/
+permalink: /page-is-under-construction/
 variant: tiptap
 description: ""
 ---

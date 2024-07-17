@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /mathematics/
+permalink: /page-is-under-construction/
 variant: tiptap
 description: ""
 ---

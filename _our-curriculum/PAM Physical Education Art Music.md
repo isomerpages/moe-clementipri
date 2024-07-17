@@ -1,6 +1,6 @@
 ---
 title: PAM Physical Education Art Music
-permalink: /pam-physical-education-art-music/
+permalink: /page-is-under-construction/
 variant: tiptap
 description: ""
 ---

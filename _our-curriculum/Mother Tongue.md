@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue
-permalink: /mother-tongue/
+permalink: /page-is-under-construction/
 variant: tiptap
 description: ""
 ---
