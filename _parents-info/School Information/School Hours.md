@@ -32,7 +32,8 @@ variant: tiptap
 <td rowspan="3" colspan="1">
 <p>Mon to Fri
 <br>7.30 a.m. to
-<br>1.30 p.m.
+<br>1.30 p.m.</p>
+<p>(excludes weekends, school holidays and Public Holidays)
 <br>
 </p>
 </td>
