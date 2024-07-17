@@ -12,9 +12,6 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/kid_studio_1.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kid_studio_2.png">
-</div>
 <p>KidStudio was the school’s former art gallery. It was renovated in 2022.
 Tiffany Looi Wing Yan from 3 Initiative in 2022 coined the name “KidStudio”
 as part of the “Gallery Naming Competition”. Her suggestion received the
