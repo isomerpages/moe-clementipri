@@ -1,6 +1,6 @@
 ---
 title: MOE Based Remediation
-permalink: /signature-programmes-in-ctp/after-school-programmes/moe-based-remediation/
+permalink: /our-curriculum/moe-based-remediation/
 description: ""
 variant: tiptap
 ---

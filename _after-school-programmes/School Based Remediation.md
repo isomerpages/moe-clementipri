@@ -1,6 +1,6 @@
 ---
 title: School Based Remediation
-permalink: /after-school-programmes/school-based-remediation/
+permalink: /our-curriculum/school-based-remediation/
 description: ""
 variant: tiptap
 ---

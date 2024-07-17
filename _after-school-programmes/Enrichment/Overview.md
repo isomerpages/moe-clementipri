@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /signature-programmes-in-ctp/after-school-programmes/enrichment/
+permalink: /after-school-programmes/enrichment/
 description: ""
 third_nav_title: Enrichment
 variant: tiptap
