@@ -31,22 +31,22 @@ links:
       - title: Kids Studio
         url: /kids-studio/
   - title: Our Curriculum
-    url: /science
+    url: /total-curriculum
     sublinks:
-      - title: Science
-        url: /science
-      - title: CCE Character & Citizenship Ed
-        url: /cce-character-and-citizenship-education/
-      - title: PE Art Music
-        url: /pam-physical-education-art-music
-      - title: Mother Tongue
-        url: /mother-tongue
-      - title: Mathematics
-        url: /mathematics
-      - title: English
-        url: /english
       - title: Total Curriculum
         url: /total-curriculum
+      - title: CCE Character & Citizenship Ed
+        url: /cce-character-and-citizenship-education/
+      - title: English
+        url: /english
+      - title: Mathematics
+        url: /mathematics
+      - title: Science
+        url: /science
+      - title: Mother Tongue
+        url: /mother-tongue
+      - title: PE Art Music
+        url: /pam-physical-education-art-music
       - title: Enrichment Programmes
         url: /after-school-programmes/enrichment/
       - title: MOE Based Remediation
