@@ -1,10 +1,11 @@
 ---
-title: Helplines for Pupils
-permalink: /Parents-Info/school-information/helplines-for-pupils/
+title: Helplines for Students
+permalink: /parents-info/school-information/helplines-for-pupils/
 description: ""
-third_nav_title: School Information
+third_nav_title: For Students
+variant: tiptap
 ---
-### Helplines for Pupils
+### Helplines for Students
 
 |  |  |
 |---|---|

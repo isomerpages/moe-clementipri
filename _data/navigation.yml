@@ -79,15 +79,6 @@ links:
         url: /school-advisory-committee
       - title: Non Teaching Staff
         url: /parents-info/our-people/nonteachingstaff/
-  - title: Signature Programmes in CTP
-    url: /signature-programmes-in-ctp/after-school-programmes/enrichment/
-    sublinks:
-      - title: Enrichment Programmes
-        url: /signature-programmes-in-ctp/after-school-programmes/enrichment/
-      - title: MOE Based Remediation
-        url: /signature-programmes-in-ctp/after-school-programmes/moe-based-remediation/
-      - title: School Based Remediation
-        url: /after-school-programmes/school-based-remediation
   - title: PAL & CCA
     url: /pal-and-cca/pal/
     sublinks:
@@ -95,17 +86,3 @@ links:
         url: /pal-and-cca/pal/
       - title: CCA
         url: /pal-and-cca/CCA/
-  - title: Quick Links
-    url: /quick-links/for-students/student-learning-space/
-    sublinks:
-      - title: For Staff
-        url: /quick-links/for-staff/
-      - title: For Students
-        url: /quick-links/for-students/student-learning-space/
-  - title: Staff Recognition
-    url: /accolades-and-achievements/permalink/
-    sublinks:
-      - title: Accolades and Achievements
-        url: /accolades-and-achievements/permalink/
-      - title: MSEA 2023
-        url: /accolades-and-achievements/msea2023
