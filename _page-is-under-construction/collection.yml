@@ -1,4 +1,5 @@
 collections:
   page-is-under-construction:
     output: true
-    order: []
+    order:
+      - Page is under construction.md
