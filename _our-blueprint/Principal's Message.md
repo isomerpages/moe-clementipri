@@ -4,7 +4,7 @@ permalink: /parents-info/principal-message/
 description: ""
 variant: tiptap
 ---
-<h3>Principal's Message</h3>
+<h3>Principal's Message 2024</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/vimal.jpg">
 </div>
