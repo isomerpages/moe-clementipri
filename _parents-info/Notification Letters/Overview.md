@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /Parents-Info/Notification-Letters/
+permalink: /parents-info/notification-letters/
 description: ""
 third_nav_title: Notification Letters
 variant: markdown
