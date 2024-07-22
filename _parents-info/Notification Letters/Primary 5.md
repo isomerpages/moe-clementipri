@@ -8,9 +8,10 @@ variant: markdown
 ### Primary 5
 
 #### 2024
-1. [2024 P5 Weighted Assessment](/files/2024/2024_Formal_Assessment_for_Primary_5__Parent_s_Notification__1.pdf)
-2. [CTPS Primary 5 Foundation Booklist](/files/2024/P5FDN_booklist_2024.pdf)
-3. [CTPS Primary 5 Booklist](/files/2024/P5_booklist_2024.pdf)
+1. [P5 Year End Assessment schedule 2024](/files/2024/P5_Notification_on_YEA_dates_2024.pdf)
+2. [2024 P5 Weighted Assessment](/files/2024/2024_Formal_Assessment_for_Primary_5__Parent_s_Notification__1.pdf)
+3. [CTPS Primary 5 Foundation Booklist](/files/2024/P5FDN_booklist_2024.pdf)
+4. [CTPS Primary 5 Booklist](/files/2024/P5_booklist_2024.pdf)
 
 #### 2023
 1. [P5 Year End assessment schedule 2023](/files/2023/T3/primary%20five%20year-end%20assessment%20schedule%202023.pdf)
