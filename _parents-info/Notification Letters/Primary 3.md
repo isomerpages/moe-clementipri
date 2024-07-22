@@ -8,8 +8,9 @@ variant: markdown
 ### Primary 3
 
 #### 2024
-1. [2024 P3 Weighted Assessment](/files/2024/2024_Formal_Assessment_for_Primary_3__Parent_s_Notification__1.pdf)
-2. [CTPS Primary 3 Booklist](/files/2024/P3_booklist_2024.pdf)
+1. [P3 Year End Assessment schedule 2024](/files/2024/P3_Notification_on_YEA_dates_2024.pdf)
+2. [2024 P3 Weighted Assessment](/files/2024/2024_Formal_Assessment_for_Primary_3__Parent_s_Notification__1.pdf)
+3. [CTPS Primary 3 Booklist](/files/2024/P3_booklist_2024.pdf)
 
 #### 2023
 1. [P3 Year End assessment schedule 2023](/files/2023/T3/primary%20three%20year-end%20assessment%20schedule%202023.pdf)
