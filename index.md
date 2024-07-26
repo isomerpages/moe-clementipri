@@ -12,7 +12,7 @@ notification: Photographs or video images of you or your parents may be taken
 sections:
   - hero:
       title: Clementi Primary School
-      background: /images/hero banner.gif
+      background: /images/2024 Website/gifmaker_me.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
