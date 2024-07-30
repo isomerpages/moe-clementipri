@@ -1288,6 +1288,125 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>SEN Officers</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CLARA HOW</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Adj School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIM KAM YUEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Snr SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SERITA RAU</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NADIAH BTE ABDUL RAHIM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUREZMA FARAH BINTE JOHAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>UT SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FARWIZAH UBAIDAH BINTE MUHAMMAD REDWAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T&amp;L</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN SEOK HYMN MIMY</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
