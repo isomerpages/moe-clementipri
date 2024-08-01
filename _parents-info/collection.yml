@@ -2,7 +2,6 @@ collections:
   parents-info:
     output: true
     order:
-      - Bus Operator.md
       - Photos.md
       - School Information/.keep
       - School Information/School Hours.md
@@ -28,4 +27,5 @@ collections:
       - Notification Letters/Primary 5.md
       - Notification Letters/Primary 6.md
       - Forms.md
+      - Bus Operator.md
       - Onboarding Parents Gateway (PG).md
