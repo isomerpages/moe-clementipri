@@ -2,6 +2,7 @@ collections:
   parents-info:
     output: true
     order:
+      - Bus Operator.md
       - Photos.md
       - School Information/.keep
       - School Information/School Hours.md
