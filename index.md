@@ -28,10 +28,4 @@ sections:
         - title: Follow us on Instagram!
           description: ""
           url: https://www.instagram.com/clementiprimaryofficial/
-  - infobar:
-      title: Affirmation/Feedback
-      subtitle: we want to hear you
-      description: We'd love to hear your feedback
-      button: click here
-      url: https://form.gov.sg/#!/5f68400ec81ca700112d550b
 ---
