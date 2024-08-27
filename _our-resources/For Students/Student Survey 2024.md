@@ -9,6 +9,7 @@ third_nav_title: For Students
 <p><a href="https://forms.moe.edu.sg/forms/JkyZbN" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/JkyZbN</a>
 </p>
 <p>OR scan the QR code</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Survey_2024_QR.png">
 </div>
