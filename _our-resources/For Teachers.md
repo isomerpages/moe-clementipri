@@ -36,3 +36,5 @@ variant: tiptap
 </p>
 <p><strong><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a></strong>
 </p>
+<p><strong><a href="https://www.transcribe.gov.sg/" rel="noopener nofollow" target="_blank">Transcribe</a></strong>
+</p>
