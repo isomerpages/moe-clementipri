@@ -4,6 +4,8 @@ permalink: /quick-links/for-teachers/
 description: ""
 variant: tiptap
 ---
+<p><strong><a href="https://appraiser.gov.sg" rel="noopener nofollow" target="_blank">Appraiser</a></strong>
+</p>
 <p><strong><a href="https://clementipri.edupage.org/" rel="noopener noreferrer nofollow" target="_blank">Edupage</a></strong>
 </p>
 <p><strong><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">All Ears Form Builder</a></strong>
