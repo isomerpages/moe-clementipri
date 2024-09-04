@@ -6,9 +6,8 @@ third_nav_title: School Information
 variant: tiptap
 ---
 <h3>Service Providers</h3>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -20,9 +19,6 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>Operating Hours</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -49,9 +45,6 @@ child's name and class
 <br>Lunch hour:
 <br>12:30pm to 1:30pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -75,9 +68,6 @@ child's name and class
 <br>Timing for Parents:
 <br>1.45 p.m. to 3.15 p.m.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -93,26 +83,8 @@ child's name and class
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents are to make any transport arrangement directly with the bus vendor.
-<br>If you are unable to contact Mr Alan via call, please send him a message
-via SMS.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Period 1 Jan 2025 – 31 Jan 2026 (Daily School Bus)</p>
-<p></p>
-<p><strong>Distance Range Category</strong>
+<br>
 </p>
-<p></p>
-<p>Up to 2km
-<br>1 way 15 seater - $80
-<br>2 way 15 seater - $110
-<br>1 way &gt;15 seater - $68
-<br>2 way &gt;15 seater - $85</p>
-<p></p>
-<p>2 to 4km</p>
-<p>1 way 15 seater - $110
-<br>2 way 15 seater - $140
-<br>1 way &gt;15 seater - $80
-<br>2 way &gt;15 seater - $110</p>
 </td>
 </tr>
 <tr>
@@ -132,14 +104,8 @@ via SMS.</p>
 <td rowspan="1" colspan="1">
 <p>Parents are to make arrangement directly with the vendors.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
