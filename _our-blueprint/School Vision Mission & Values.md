@@ -1,5 +1,5 @@
 ---
-title: School Vision & Mission
+title: School Vision Mission & Values
 permalink: /school-vision-mission/
 variant: tiptap
 description: ""
