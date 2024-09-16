@@ -2,13 +2,13 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Mother Tongue/Chinese Language.md
-      - Mother Tongue/Malay Language.md
-      - Mother Tongue/Tamil Language.md
-      - Mother Tongue/.keep
       - Total Curriculum.md
       - CCE Character and Citizenship Education.md
       - English.md
       - Mathematics.md
       - Science.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Chinese Language.md
+      - Mother Tongue/Malay Language.md
+      - Mother Tongue/Tamil Language.md
       - PAM Physical Education Art Music.md
