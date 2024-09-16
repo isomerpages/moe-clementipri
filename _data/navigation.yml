@@ -31,6 +31,8 @@ links:
   - title: Our Curriculum
     url: /total-curriculum
     sublinks:
+      - title: Applied Learning Programme
+        url: /our-curriculum/applied-learning-programme/
       - title: Total Curriculum
         url: /total-curriculum
       - title: CCE Character & Citizenship Ed
@@ -51,8 +53,6 @@ links:
         url: /our-curriculum/moe-based-remediation/
       - title: School Based Remediation
         url: /our-curriculum/school-based-remediation/
-      - title: Applied Learning Programme
-        url: /our-curriculum/applied-learning-programme/
   - title: Our Resources
     url: /parents-info/principal-message/
     sublinks:
