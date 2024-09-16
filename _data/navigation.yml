@@ -31,8 +31,6 @@ links:
   - title: Our Curriculum
     url: /total-curriculum
     sublinks:
-      - title: Applied Learning Programme
-        url: /our-curriculum/applied-learning-programme/
       - title: Total Curriculum
         url: /total-curriculum
       - title: CCE Character & Citizenship Ed
@@ -47,6 +45,8 @@ links:
         url: /chinese/
       - title: PE Arts & Music
         url: /arts/
+      - title: Applied Learning Programme
+        url: /our-curriculum/applied-learning-programme/
       - title: Enrichment Programmes
         url: /after-school-programmes/enrichment/
       - title: MOE Based Remediation
