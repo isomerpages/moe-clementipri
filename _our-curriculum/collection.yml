@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Applied Learning Programme.md
       - Total Curriculum.md
       - CCE Character and Citizenship Education.md
       - English.md
@@ -17,3 +16,4 @@ collections:
       - PE Art & Music/Arts.md
       - PE Art & Music/Music.md
       - Co Curricular Activity.md
+      - Applied Learning Programme.md
