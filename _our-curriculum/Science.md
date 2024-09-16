@@ -9,7 +9,7 @@ description: ""
 tool in helping them explore their natural and physical world.</p>
 <p>Every pupil is able to appreciate Science for its intrinsic value</p>
 </blockquote>
-<h4>Key Programmes</h4>
+<h4><strong>Key Programmes</strong></h4>
 <p><strong>Inquiry based Science Lessons:</strong> For promotion of 21st CC
 skills on Civic Literacy, Global Awareness and Cross-Cultural Skills (CGC),
 lessons involved the students in the discussion of Science in the world
