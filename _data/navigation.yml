@@ -22,8 +22,6 @@ links:
         url: /stretch-programmes/
       - title: Learning for Life Programme
         url: /learning-for-life-programme/
-      - title: Applied Learning Programme
-        url: /applied-learning-programme/
       - title: Broadcast Room
         url: /broadcast-room/
       - title: Clementian Care Corner
@@ -40,13 +38,17 @@ links:
       - title: English
         url: /english
       - title: Mathematics
-        url: /page-is-under-construction/
+        url: /mathematics/
       - title: Science
-        url: /page-is-under-construction/
+        url: /science/
       - title: Mother Tongue
-        url: /page-is-under-construction/
-      - title: PE Art Music
-        url: /page-is-under-construction/
+        url: /chinese/
+      - title: PE Arts & Music
+        url: /arts/
+      - title: Co Curricular Activity
+        url: /physical-sports/
+      - title: Applied Learning Programme
+        url: /our-curriculum/applied-learning-programme/
       - title: Enrichment Programmes
         url: /after-school-programmes/enrichment/
       - title: MOE Based Remediation
@@ -79,10 +81,3 @@ links:
         url: /school-advisory-committee
       - title: Non Teaching Staff
         url: /parents-info/our-people/nonteachingstaff/
-  - title: PAL & CCA
-    url: /pal-and-cca/pal/
-    sublinks:
-      - title: PAL
-        url: /page-is-under-construction/
-      - title: CCA
-        url: /page-is-under-construction/

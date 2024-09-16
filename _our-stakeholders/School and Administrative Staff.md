@@ -1,30 +1,147 @@
 ---
 title: School and Administrative Staff
 permalink: /school-and-administrative-staff/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-### Executive Administrative &amp; Support Staff
-
-| Name | Designation |
-|---|---|
-| Ms Quek Lih Chyn Joyce | Administration Manager |
-| Mr Song Kok Liang Patrick | Operations Manager  |
-| Mr Wee Hing | Adjunct Operations Manager  |
-| Mr Fadzly Bin Samsudin | ICT Manager |
-| Ms Chua Seow Hong | Admin Executive |
-| Ms Nurul ‘Ain Teo | Admin Executive |
-| Ms Zalina Bte Mohammadin |CSO |
-| Ms Tay Bee Geok Erica  |Adjunct CSO |
-| Ms Wong Poh Chee Sophia | Adjunct CSO |
-| Mr Ho Chwee Koon | OSO |
-| Mdm Rameswari | OSO |
-| Mdm Yong Heong Cheong |OSO |
-| Mr Lim Hock Huat | OSO |
-| 
-
-*   Parents/guardians may: email to the school’s generic email address&nbsp;[admin_clementi_ps@moe.edu.sg](admin_clementi_ps@moe.edu.sg), stating clearly the staff they wish their message be conveyed to.<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/office.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20Website/EAS_2024.jpg">
 </div>
+<h3>Executive Administrative &amp; Support Staff</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Quek Lih Chyn Joyce</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Song Kok Liang Patrick</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wee Hing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adjunct Operations Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Fadzly Bin Samsudin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Seow Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nurul ‘Ain Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zalina Bte Mohammadin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Bee Geok Erica</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adjunct CSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Poh Chee Sophia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adjunct CSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ho Chwee Koon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rameswari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yong Heong Cheong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Hock Huat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>
+<p>Parents/guardians may: email to the school’s generic email address&nbsp;
+<a href="admin_clementi_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">admin_clementi_ps@moe.edu.sg</a>, stating clearly the staff they wish
+their message be conveyed to.</p>
+<p></p>
+</li>
+</ul>
 <p></p>
