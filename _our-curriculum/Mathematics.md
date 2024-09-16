@@ -9,7 +9,7 @@ description: ""
 with strong mathematical foundations, critical thinking skills, and a passion
 for excellence.</p>
 </blockquote>
-<h4>Key Programmes<br></h4>
+<h4><strong>Key Programmes</strong><br></h4>
 <p>The Mathematics Department is committed to fostering a community of self-directed
 learners who excel in numeracy, logical reasoning, and problem-solving,
 while nurturing a passion for meaningful contribution to society. Through
