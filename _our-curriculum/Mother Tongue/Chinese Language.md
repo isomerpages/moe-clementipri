@@ -6,8 +6,8 @@ description: ""
 third_nav_title: Mother Tongue
 ---
 <blockquote>
-<p>Every student is an effective communicator with a love for the Mother
-Tongue language and the associated culture and values.</p>
+<p>Vision: Every student is an effective communicator with a love for the
+Mother Tongue language and the associated culture and values.</p>
 </blockquote>
 <h4>Key Programmes</h4>
 <p></p>
