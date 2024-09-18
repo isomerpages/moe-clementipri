@@ -10,7 +10,7 @@ third_nav_title: Mother Tongue
 <br><strong>Every student is an effective communicator with a love for the Mother Tongue language and the associated culture and values.</strong>
 </p>
 </blockquote>
-<h4>Key Programmes</h4>
+<h4><strong>Key Programmes</strong></h4>
 <p></p>
 <p><strong>Chinese New Year Celebration</strong>
 <br>Our primary school’s Chinese New Year celebration is a vibrant and joyous
