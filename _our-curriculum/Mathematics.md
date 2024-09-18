@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>Vision: Empowering Clementians to be confident, self-directed learners
-with strong mathematical foundations, critical thinking skills, and a passion
-for excellence.</p>
+<p>Vision:
+<br><strong>Empowering Clementians to be confident, self-directed learners with strong mathematical foundations, critical thinking skills, and a passion for excellence.</strong>
+</p>
 </blockquote>
 <h4><strong>Key Programmes</strong><br></h4>
 <p>The Mathematics Department is committed to fostering a community of self-directed

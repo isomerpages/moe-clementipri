@@ -6,10 +6,11 @@ description: ""
 third_nav_title: Mother Tongue
 ---
 <blockquote>
-<p>Every student is an effective communicator with a love for the Mother
-Tongue language and the associated culture and values.</p>
+<p>Vision:
+<br><strong>Every student is an effective communicator with a love for the Mother Tongue language and the associated culture and values.</strong>
+</p>
 </blockquote>
-<h4>Key Programmes</h4>
+<h4><strong>Key Programmes</strong></h4>
 <p></p>
 <p><strong>Chinese New Year Celebration</strong>
 <br>Our primary school’s Chinese New Year celebration is a vibrant and joyous
@@ -35,3 +36,4 @@ pride and belonging.</p>
 <br>MTSP caters to P3 and P4 students who needs extra support, through innovative
 pedagogies and engaging learning resources. MTSP aims to motivate low progress
 learners and to further assist them in the learning of Mother Tongue Language.</p>
+<p></p>
