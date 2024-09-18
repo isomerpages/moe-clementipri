@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>Vision: Nurturing students to become responsible and compassionate individuals
-who positively impact their communities and the world.</p>
+<p>Vision:
+<br><strong>Nurturing students to become responsible and compassionate individuals who positively impact their communities and the world.</strong>
+</p>
 </blockquote>
 <h4><strong>Key Programmes</strong></h4>
 <p>At Clementi Primary School, the Character and Citizenship Education (CCE)
