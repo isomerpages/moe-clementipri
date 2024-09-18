@@ -6,12 +6,11 @@ description: ""
 third_nav_title: PE Art & Music
 ---
 <blockquote>
-<p>Vision: Every Clementian is nurtured to be a creative and expressive individual
-through a comprehensive and engaging art education program that ignites
-curiosity, fosters imagination, and develops artistic skills, empowering
-them to explore their unique creative potential.</p>
+<p>Vision:
+<br><strong>Every Clementian is nurtured to be a creative and expressive individual through a comprehensive and engaging art education program that ignites curiosity, fosters imagination, and develops artistic skills, empowering them to explore their unique creative potential.</strong>
+</p>
 </blockquote>
-<h4>Key Programmes</h4>
+<h4><strong>Key Programmes</strong></h4>
 <p><strong>Progressive Learning Experience</strong>
 <br>Our art curriculum is structured to cater to different age groups, ensuring
 a progressive learning experience. Starting with foundational skills in
