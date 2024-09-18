@@ -6,9 +6,10 @@ description: ""
 third_nav_title: Mother Tongue
 ---
 <blockquote>
-<p>Vision: Proficient, confident and creative users of Malay language, with
-strong moral values and deep sense of national identity, enabling them
-to contribute meaningfully to society. (Arif Budiman)</p>
+<p>Vision:
+<br>Proficient, confident and creative users of Malay language, with strong
+moral values and deep sense of national identity, enabling them to contribute
+meaningfully to society. (Arif Budiman)</p>
 </blockquote>
 <p>Key Programmes</p>
 <p><strong>1. Mother Tongue Fornight (MTL Fortnight)</strong>
