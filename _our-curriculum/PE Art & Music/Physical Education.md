@@ -6,8 +6,9 @@ description: ""
 third_nav_title: PE Art & Music
 ---
 <blockquote>
-<p>Every Clementian developed to be physically competent and confident to
-enjoy a lifetime of active and healthy living safely and responsibly.</p>
+<p>Vision:
+<br><strong>Every Clementian developed to be physically competent and confident to enjoy a lifetime of active and healthy living safely and responsibly.</strong>
+</p>
 </blockquote>
 <p>In CTPS, our Physical Education (PE) programme offers Clementians a dynamic
 and enriching curriculum, integrating both curriculum and co-curriculum
