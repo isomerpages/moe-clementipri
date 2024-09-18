@@ -6,9 +6,9 @@ description: ""
 third_nav_title: Mother Tongue
 ---
 <blockquote>
-<p>Vision: Every student is an effective communicator with a deep appreciation
-for the Mother Tongue language, as well as the rich culture and values
-it embodies.</p>
+<p>Vision:
+<br>Every student is an effective communicator with a deep appreciation for
+the Mother Tongue language, as well as the rich culture and values it embodies.</p>
 </blockquote>
 <h4>Key Programmes</h4>
 <p><strong>Deepavali Celebration</strong>
