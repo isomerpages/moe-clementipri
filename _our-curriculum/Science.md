@@ -5,9 +5,10 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>Vision: Every Child enjoys science and values science as an important
-tool in helping them explore their natural and physical world.</p>
-<p>Every pupil is able to appreciate Science for its intrinsic value</p>
+<p>Vision:
+<br><strong>Every Child enjoys science and values science as an important tool in helping them explore their natural and physical world.</strong>
+<br><strong>Every pupil is able to appreciate Science for its intrinsic value</strong>
+</p>
 </blockquote>
 <h4><strong>Key Programmes</strong></h4>
 <p><strong>Inquiry based Science Lessons:</strong> For promotion of 21st CC
