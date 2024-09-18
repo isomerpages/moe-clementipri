@@ -6,8 +6,8 @@ description: ""
 ---
 <blockquote>
 <p>Vision:
-<br>Empowering Clementians to be confident, self-directed learners with strong
-mathematical foundations, critical thinking skills, and a passion for excellence.</p>
+<br><strong>Empowering Clementians to be confident, self-directed learners with strong mathematical foundations, critical thinking skills, and a passion for excellence.</strong>
+</p>
 </blockquote>
 <h4><strong>Key Programmes</strong><br></h4>
 <p>The Mathematics Department is committed to fostering a community of self-directed
