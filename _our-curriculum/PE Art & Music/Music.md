@@ -7,7 +7,7 @@ third_nav_title: PE Art & Music
 ---
 <blockquote>
 <p>Vision:
-<br><strong>Every Clementian to foster a lifelong interest and involvment in music which would enable Clementians to appreciate and contribute to Singapore's cultural tapestry.</strong> 
+<br><strong>Every Clementian to foster a lifelong interest and involvment in music which would enable Clementians to appreciate and contribute to Singapore's cultural tapestry.</strong>
 </p>
 </blockquote>
 <h4><strong>Key Programmes</strong></h4>
@@ -33,7 +33,7 @@ holistic education and build self-esteem, nurture creativity, develops
 concentration and confidence in them. It is an annual affair for our Clementians
 to demonstrate musicianship as an ensemble.
 <br>
-<br>Ethnic Music Enrichment<strong> </strong>
+<br><strong>Ethnic Music Enrichment </strong>
 <br>Ethnic music enrichment programme is designed to deepen young Primary
 2 and 3 musicians' understanding and appreciation of world music during
 curriulum. It enhance Clementians' musical skills and broadening their
