@@ -5,9 +5,6 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/broadcast_room.jpg">
-</div>
 <p>In our aim of developing our Clementians as confident and empathetic communicators,
 the broadcast room serves as a hub for disseminating information during
 morning assemblies, fostering community and providing valuable educational
