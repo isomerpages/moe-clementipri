@@ -2,4 +2,4 @@ collections:
   our-story:
     output: true
     order:
-      - Who we are.md
+      - Who We Are.md
