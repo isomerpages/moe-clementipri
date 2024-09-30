@@ -24,12 +24,6 @@ links:
         url: /stretch-programmes/
       - title: Learning for Life Programme
         url: /learning-for-life-programme/
-      - title: Broadcast Room
-        url: /broadcast-room/
-      - title: Clementian Care Corner
-        url: /clementian-care-corner/
-      - title: KidStudio
-        url: /kidstudio/
   - title: Our Curriculum
     url: /total-curriculum
     sublinks:
@@ -50,7 +44,7 @@ links:
       - title: Co Curricular Activity
         url: /physical-sports/
       - title: Applied Learning Programme
-        url: /our-curriculum/applied-learning-programme/
+        url: /applied-learning-programme/
       - title: Enrichment Programmes
         url: /after-school-programmes/enrichment/
       - title: MOE Based Remediation
