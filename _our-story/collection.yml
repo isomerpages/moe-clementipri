@@ -1,0 +1,5 @@
+collections:
+  our-story:
+    output: true
+    order:
+      - Who We Are.md
