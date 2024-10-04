@@ -48,8 +48,8 @@ experience encourages active learning, critical thinking, and problem-solving
 skills, showcasing that math is alive in our school!</p>
 <p><strong>Math and English Fiesta</strong>
 <br>The Math and English Fiesta is a specially designed event aimed at engaging
-Clementians in an immersive and enjoyable learning experience. As part
-of our post-PSLE programme, Primary 6 pupils will develop and lead interactive
+pupils in an immersive and enjoyable learning experience. As part of our
+post-PSLE programme, Primary 6 pupils will develop and lead interactive
 games and activities tailored to reinforce key Math and English concepts
 for lower primary pupils. This initiative promotes peer collaboration,
 teamwork, and socialisation among pupils across different levels, fostering
