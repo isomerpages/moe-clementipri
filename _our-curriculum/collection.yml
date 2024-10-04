@@ -2,17 +2,17 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Total Curriculum.md
+      - Departments/.keep
       - Departments/Physical Education Department.md
       - Departments/Science Department.md
       - Departments/Mathematics Department.md
       - Departments/English Department.md
-      - Departments/.keep
-      - Total Curriculum.md
-      - Character and Citizenship Education.md
       - Mother Tongue/.keep
       - Mother Tongue/Chinese Language.md
       - Mother Tongue/Malay Language.md
       - Mother Tongue/Tamil Language.md
+      - Character and Citizenship Education.md
       - Aesthetics/.keep
       - Aesthetics/Visual Art.md
       - Aesthetics/Music.md
