@@ -10,9 +10,8 @@ description: ""
 </div>
 <p></p>
 <blockquote>
-<p><strong>Every Clementian a Creator, Connector and Contributor</strong>
-</p>
-<p><strong>Empowering every Clementian to innovate, collaborate, and contribute meaningfully to his/her community and the world through age-appropriate programmes that foster active participation in solving real-world challenges, while equipping them with future-ready competencies.</strong>
+<p></p>
+<p><strong>Every Clementian to be empowered to innovate, collaborate, and contribute meaningfully to his/her community and the world through age-appropriate programmes that foster active participation in solving real-world challenges, while equipping them with future-ready competencies.</strong>
 </p>
 </blockquote>
 <p></p>
