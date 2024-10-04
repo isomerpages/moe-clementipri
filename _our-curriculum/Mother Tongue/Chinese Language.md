@@ -7,7 +7,7 @@ third_nav_title: Mother Tongue
 ---
 <blockquote>
 <p>Vision:
-<br><strong>Every Clementian is an effective communicator with a love for the Mother Tongue Language and the associated culture and values.</strong>
+<br><strong>Every Clementian to be empowered as an effective communicator with a love for the Mother Tongue Language and the associated culture and values.</strong>
 </p>
 </blockquote>
 <h4><strong>Key Programmes</strong></h4>
