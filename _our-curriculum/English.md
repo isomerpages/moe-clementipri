@@ -41,6 +41,6 @@ in our pupils! On this special day, the pupils and staff come to school
 dressed up as a character from a book they have read and loved.</p>
 <p>Through Books Alive, we aim to nurture confident, empathetic communicators
 who can share their ideas and passions with others. By providing a supportive
-platform for our students to shine, we empower them to become confident
-individuals who can make a positive impact in the world. So, let the stories
-come alive and the magic begin!</p>
+platform for our pupils to shine, we empower them to become confident individuals
+who can make a positive impact in the world. So, let the stories come alive
+and the magic begin!</p>
