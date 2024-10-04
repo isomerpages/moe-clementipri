@@ -7,7 +7,7 @@ third_nav_title: Aesthetics
 ---
 <blockquote>
 <p>Vision:
-<br><strong>Every Clementian to foster a lifelong interest and involvement in music which would enable Clementians to appreciate and contribute to Singapore's cultural tapestry.</strong>
+<br><strong>Every Clementian is empowered and  fostered with a lifelong interest and involvement in music which would enable Clementians to appreciate and contribute to Singapore's cultural tapestry.</strong>
 </p>
 </blockquote>
 <h4><strong>Key Programmes</strong></h4>
