@@ -3,21 +3,21 @@ collections:
     output: true
     order:
       - Total Curriculum.md
-      - CCE Character and Citizenship Education.md
       - English.md
       - Mathematics.md
-      - Science.md
       - Mother Tongue/.keep
       - Mother Tongue/Chinese Language.md
       - Mother Tongue/Malay Language.md
       - Mother Tongue/Tamil Language.md
-      - PE Art & Music/.keep
-      - PE Art & Music/Physical Education.md
-      - PE Art & Music/Arts.md
-      - PE Art & Music/Music.md
+      - Physical Education.md
+      - Aesthetics/.keep
+      - Aesthetics/Visual Art.md
+      - Aesthetics/Music.md
+      - Science.md
+      - Character & Citizenship Education.md
       - CCA/.keep
       - CCA/Physical Sports.md
-      - CCA/Performance & Visual Arts.md
+      - CCA/Performance & Visual Art.md
       - CCA/Uniformed Groups.md
       - CCA/Clubs & Societies.md
       - Applied Learning Programme.md

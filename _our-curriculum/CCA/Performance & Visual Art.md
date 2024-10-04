@@ -1,6 +1,6 @@
 ---
-title: Performance & Visual Arts
-permalink: /performance-visual-arts/
+title: Performance & Visual Art
+permalink: /performance-visual-art/
 variant: tiptap
 description: ""
 third_nav_title: CCA

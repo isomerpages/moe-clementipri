@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Mother Tongue
 ---
+<h4>Vision:</h4>
 <blockquote>
-<p>Vision:
-<br><strong>Proficient, confident and creative users of Malay language, with strong moral values and deep sense of national identity, enabling them to contribute meaningfully to society. (Arif Budiman)</strong>
+<p><strong>Every Clementian to  be empowered as proficient, confident and creative users of Malay language, with strong moral values and deep sense of national identity, enabling them to contribute meaningfully to society. (Arif Budiman)</strong>
 </p>
 </blockquote>
 <h4><strong>Key Programmes</strong></h4>
@@ -29,11 +29,11 @@ songs
 <br>To further promote the use of the Malay Language and creating cultural
 awareness in our Clementians, our school oganised the inaugural 'Fiesta
 Kampung' event in 2024. A collaboration with other primary schools in the
-W1 cluster, students from Primary 1 to 5 participated in various traditional
+W1 cluster, pupils from Primary 1 to 5 participated in various traditional
 games such as bola baling, tapak gajah, capteh, sepak takraw and tarik
 upih.</p>
 <p><strong>3. External - Rakan Bahasa and Lensa Si Cilik</strong>
-<br>As part of Bulan Bahasa, students are appointed as Rakan Bahasa (Friends
+<br>As part of Bulan Bahasa, pupils are appointed as Rakan Bahasa (Friends
 of the Language) by the Malay Language Council, Singapore (Majlis Bahasa
 Melayu Singapura or MBMS), to encourage those who are passionate about
 the Malay language and culture, to spread the love of the language to their

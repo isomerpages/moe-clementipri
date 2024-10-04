@@ -29,8 +29,8 @@ links:
     sublinks:
       - title: Total Curriculum
         url: /total-curriculum
-      - title: CCE Character & Citizenship Ed
-        url: /cce-character-and-citizenship-education/
+      - title: Character & Citizenship Edu
+        url: /character-and-citizenship-education/
       - title: English
         url: /english
       - title: Mathematics
@@ -39,8 +39,10 @@ links:
         url: /science/
       - title: Mother Tongue
         url: /chinese/
-      - title: PE Art & Music
+      - title: Physical Education
         url: /physical-education
+      - title: Aesthetics
+        url: /visualart/
       - title: Co Curricular Activity
         url: /physical-sports/
       - title: Applied Learning Programme
