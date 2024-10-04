@@ -36,5 +36,5 @@ understanding its traditions and heritage.</p>
 support for your child in learning MTL. This program is available for pupils
 in Primary 3 and 4 who may benefit from additional assistance in learning
 Mother Tongue Languages. Through innovative pedagogies and engaging learning
-resources, pupils receive individualized support to enhance their language
+resources, pupils receive individualised support to enhance their language
 learning experience.</p>
