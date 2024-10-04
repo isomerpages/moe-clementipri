@@ -42,6 +42,6 @@ is a key highlight for the day.</p>
 <br>The carnival collaborates with National Day celebrations and features
 a suite of booths that expose pupils to games and activities beyond PE,
 Art and Music lessons. In line with the National Day theme, these booths
-are also closely associated with Singapore in the 2h carnival period, Clementians
-have the opportunity to engage in booths activities and a FTGP package
-that build their understanding about Singapore.</p>
+are also closely associated with Singapore in the 2 hour carnival period,
+Clementians have the opportunity to engage in various station activities
+and a FTGP package that build their understanding about Singapore.</p>
