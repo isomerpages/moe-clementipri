@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Total Curriculum.md
-      - CCE Character and Citizenship Education.md
+      - Character and Citizenship Education.md
       - English.md
       - Mathematics.md
       - Science.md
