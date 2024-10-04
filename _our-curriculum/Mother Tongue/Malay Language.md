@@ -5,11 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Mother Tongue
 ---
-<blockquote>
-<p>Vision:
-<br><strong>Proficient, confident and creative users of Malay language, with strong moral values and deep sense of national identity, enabling them to contribute meaningfully to society. (Arif Budiman)</strong>
+<h4>Vision:</h4>
+<p><strong>Clementians who are Proficient, confident and creative users of Malay language, with strong moral values and deep sense of national identity, enabling them to contribute meaningfully to society. (Arif Budiman)</strong>
 </p>
-</blockquote>
 <h4><strong>Key Programmes</strong></h4>
 <p><strong>1. Mother Tongue Fornight (MTL Fortnight)</strong>
 <br>The Mother Tongue Language (MTL) Fortnight, held annually in Term 3, aims
