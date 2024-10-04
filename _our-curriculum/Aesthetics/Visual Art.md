@@ -7,7 +7,7 @@ third_nav_title: Aesthetics
 ---
 <blockquote>
 <p>Vision:
-<br><strong>Every Clementian is nurtured to be a creative and expressive individual through a comprehensive and engaging art education program that ignites curiosity, fosters imagination, and develops artistic skills, empowering them to explore their unique creative potential.</strong>
+<br><strong>Every Clementian is empowered and nurtured to be a creative and expressive individual through a comprehensive and engaging art education program that ignites curiosity, fosters imagination, and develops artistic skills, empowering them to explore their unique creative potential.</strong>
 </p>
 </blockquote>
 <h4><strong>Key Programmes</strong></h4>
