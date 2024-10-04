@@ -6,7 +6,7 @@ description: ""
 ---
 <blockquote>
 <p>Vision:
-<br><strong>Every Clementian is empowered as a confident, self-directed learners with strong mathematical foundations, critical thinking skills, and a passion for excellence.</strong>
+<br><strong>Every Clementian to be empowered as a confident, self-directed learners with strong mathematical foundations, critical thinking skills, and a passion for excellence.</strong>
 </p>
 </blockquote>
 <h4><strong>Key Programmes</strong><br></h4>
