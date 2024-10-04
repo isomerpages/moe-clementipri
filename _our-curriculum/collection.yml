@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Physical Education.md
       - Total Curriculum.md
       - CCE Character and Citizenship Education.md
       - English.md
@@ -12,6 +11,7 @@ collections:
       - Mother Tongue/Chinese Language.md
       - Mother Tongue/Malay Language.md
       - Mother Tongue/Tamil Language.md
+      - Physical Education.md
       - PE Art & Music/.keep
       - PE Art & Music/Arts.md
       - PE Art & Music/Music.md
