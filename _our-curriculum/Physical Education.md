@@ -6,7 +6,7 @@ description: ""
 ---
 <blockquote>
 <p>Vision:
-<br><strong>Every Clementian empowered and developed to be physically competent and confident to enjoy a lifetime of active and healthy living safely and responsibly.</strong>
+<br><strong>Every Clementian to be empowered and develop as a physically competent and confident to enjoy a lifetime of active and healthy living safely and responsibly.</strong>
 </p>
 </blockquote>
 <p>In CTPS, our Physical Education (PE) programme offers Clementians a dynamic
