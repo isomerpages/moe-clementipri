@@ -50,8 +50,8 @@ as a tool for innovation and social impact.</p>
 <p><strong>Enriched and deepen Clementians’ application of Design Thinking</strong>
 <br>Selected pupils in the E2K Mathematics and Science programme undergo a
 ten-week course where they are challenged to develop their own project
-using the Design Thinking framework, with a focus on the key phase, "Empathize."
-This process emphasizes the importance of generating a holistic and empathetic
+using the Design Thinking framework, with a focus on the key phase, "Empathise."
+This process emphasises the importance of generating a holistic and empathetic
 understanding of the problems people face. As part of the programme, pupils
 are tasked with observing and identifying issues or challenges they wish
 to address in order to help their family, friends, or others find meaningful
