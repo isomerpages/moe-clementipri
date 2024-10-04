@@ -6,7 +6,7 @@ description: ""
 ---
 <blockquote>
 <p>Vision:
-<br><strong>Every Clementian is empowered and engaged as a 21st Century English Language learner who is an empathetic communicator, discerning reader and creative inquirer.</strong>
+<br><strong>Every Clementian to be empowered and engaged as a 21st Century English Language learner who is an empathetic communicator, discerning reader and creative inquirer.</strong>
 </p>
 </blockquote>
 <h4><strong>Key Programmes</strong></h4>
