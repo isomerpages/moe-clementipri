@@ -7,7 +7,7 @@ third_nav_title: Mother Tongue
 ---
 <h4>Vision:</h4>
 <blockquote>
-<p><strong>Clementians who are proficient, confident and creative users of Malay language, with strong moral values and deep sense of national identity, enabling them to contribute meaningfully to society. (Arif Budiman)</strong>
+<p><strong>Every Clementian to  be empowered as proficient, confident and creative users of Malay language, with strong moral values and deep sense of national identity, enabling them to contribute meaningfully to society. (Arif Budiman)</strong>
 </p>
 </blockquote>
 <h4><strong>Key Programmes</strong></h4>
