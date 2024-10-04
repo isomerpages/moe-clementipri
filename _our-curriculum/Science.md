@@ -26,15 +26,13 @@ of their investigation and make good decisions and conclusions to their
 experimental designs and investigations. In this way, Communication, Collaboration
 and Information Skills (CCI) are emphasised through the use of Science
 language to appreciate the use of Science standards in their work.</p>
-<p><strong>Claim, Evidence, Reasoning (CER):</strong> Strategies for open-ended
-questions for pupils to have a scaffolding on how they can answer such
-questions and hence be more confident in their answers.</p>
+<p><strong>Claim, Evidence, Reasoning (CER):</strong> Strategies that pupils
+can adopt to excel in answering Open-Ended questions confidently.</p>
 <p><strong>RICE (Read, Identify, Connect and Evaluate):</strong> Strategies
-for MCQ to better equip the pupils on how they can answer their MCQ questions
-all in their own and be confident in their answers.</p>
-<p><strong>Alternative Assessment:</strong> The use of alternative assessment
-to allow pupils to take ownership in their learning particularly in the
-conduct of investigation to conclude a Science concept during weekly lab
-work and Science Practical Tests</p>
+that pupils can adopt to excel in answering Multiple Choice Questions confidently.</p>
+<p><strong>Alternative Assessment:</strong> Incorporating alternative assessments,
+we foster pupil ownership, autonomy, and academic excellence in Science.
+This innovative approach focuses on investigation skills during weekly
+lab work and Science Practical Tests.</p>
 <p></p>
 <p></p>
