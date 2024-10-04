@@ -6,7 +6,7 @@ description: ""
 ---
 <blockquote>
 <p>Vision:
-<br><strong>Every student of Clementi Primary School will be engaged 21st Century EL learner who is an empathetic communicator, discerning reader and creative inquirer.</strong>
+<br><strong>Every Clementian will be engaged 21st Century EL learner who is an empathetic communicator, discerning reader and creative inquirer.</strong>
 </p>
 </blockquote>
 <h4><strong>Key Programmes</strong></h4>
