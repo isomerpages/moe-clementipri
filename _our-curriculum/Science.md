@@ -6,8 +6,7 @@ description: ""
 ---
 <blockquote>
 <p>Vision:
-<br><strong>Every Clementian enjoys Science and values Science as an important tool in helping them explore their natural and physical world.</strong>
-<br><strong>Every Clementian is able to appreciate Science for its intrinsic value.</strong>
+<br><strong>Every Clementian being empowered to love Science, discover its wonders and unlock its transformative power.</strong>
 </p>
 </blockquote>
 <h4><strong>Key Programmes</strong></h4>
