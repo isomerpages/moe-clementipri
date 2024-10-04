@@ -6,7 +6,7 @@ description: ""
 ---
 <blockquote>
 <p>Vision:
-<br><strong>Nurturing students to become responsible and compassionate individuals who positively impact their communities and the world.</strong>
+<br><strong>Nurturing Clementians to become responsible and compassionate individuals who positively impact their communities and the world.</strong>
 </p>
 </blockquote>
 <h4><strong>Key Programmes</strong></h4>
