@@ -31,7 +31,7 @@ aspects of their lives.</p>
 <br>These days are dedicated to deepening pupils' understanding of Singapore's
 history, heritage, and values through various activities and discussions.
 The programme fosters a sense of national identity, belonging, and commitment
-to Singapore among all students.</p>
+to Singapore among all pupils.</p>
 <p><strong>Education and Career Guidance (ECG) Programme</strong>
 <br>The ECG Programme aims to provide upper primary pupils with guidance and
 support in exploring their interests, strengths, and future pathways. It
