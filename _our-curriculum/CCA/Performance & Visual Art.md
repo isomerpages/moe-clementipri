@@ -63,7 +63,7 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Tan Kim Keat, Mr Yap Shun Yi </strong>
+<p><strong>Mr Tan Kim Keat, Mr Yap Shun Yi</strong>
 </p>
 <p><strong>and Mdm Bi Yanmei</strong>
 </p>
@@ -113,11 +113,11 @@ third_nav_title: CCA
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Modern Dance CCA is an enriching programme designed to introduce young students to the world of contemporary dance. Through a variety of fun and engaging sessions, students learn not only the technical aspects of modern dance, such as flexibility, coordination, and strength but  also build up values such as perseverance and self-discipline.</strong>
+<p><strong>Modern Dance CCA is an enriching programme designed to introduce young students to the world of contemporary dance. Through a variety of fun and engaging sessions, students learn not only the technical aspects of modern dance, such as flexibility, coordination, and strength but also build up values such as perseverance and self-discipline.</strong>
 </p>
 <p><strong>A professional instructor lead the sessions and the dance routines are age-appropriate and enjoyable; learning takes place in a supportive and positive environment. Modern Dance CCA also promotes teamwork, as students often work in groups to create performances, helping them to build social skills and friendships.</strong>
 </p>
-<p><strong>Performances are key components of the Modern Dance CCA, offering students the opportunity to showcase their skills and hard work. We have participated in both internal and external events including  the annual Prize Giving Day concert and also  Singapore Youth Festival.</strong>
+<p><strong>Performances are key components of the Modern Dance CCA, offering students the opportunity to showcase their skills and hard work. We have participated in both internal and external events including the annual Prize Giving Day concert and also Singapore Youth Festival.</strong>
 </p>
 <p><strong>We welcome all students who have a passion for dancing and who are keen to learn to join us.</strong>
 </p>
@@ -159,7 +159,7 @@ third_nav_title: CCA
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Chinese Dance CCA invites you on a captivating journey of grace and cultural exploration through the world of flowing movements and rich symbolism.  Master graceful postures, intricate footwork, and expressive movements that tell stories and celebrate Chinese culture.</strong>
+<p><strong>Chinese Dance CCA invites you on a captivating journey of grace and cultural exploration through the world of flowing movements and rich symbolism. Master graceful postures, intricate footwork, and expressive movements that tell stories and celebrate Chinese culture.</strong>
 </p>
 </td>
 </tr>
@@ -183,9 +183,9 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Thursday </strong>
+<p><strong>Thursday</strong>
 </p>
-<p><strong>3.30-5.30pm </strong>
+<p><strong>3.30-5.30pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -279,13 +279,13 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Yanis,  Mdm Christy, Mdm Syafiqah</strong>
+<p><strong>Mdm Yanis, Mdm Christy, Mdm Syafiqah</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Getting involved with Malay Dance CCA means developing personal quality traits like discipline and perseverance, as well teamwork, where each member looks out for another. They learn to cooperate, learn to teach each other, practice active listening and learn how to resolve conflicts. The Malay Dance CCA has achieved Certificate of Distinction for several consecutive SYF Arts Presentations and these happened due to the personal attitudes and teamwork of its members.                                                                                                                        Dancing improves gross and fine motor skills coordination concurrently and improves beat and rhythm recognition. Dancing is a stress reliever and allows personal expression through bodily movements. In Malay Dance, students will also learn to use instruments that accompany dances like tambourine and kompang and/or additional skills like silat.</strong>
+<p><strong>Getting involved with Malay Dance CCA means developing personal quality traits like discipline and perseverance, as well teamwork, where each member looks out for another. They learn to cooperate, learn to teach each other, practice active listening and learn how to resolve conflicts. The Malay Dance CCA has achieved Certificate of Distinction for several consecutive SYF Arts Presentations and these happened due to the personal attitudes and teamwork of its members. Dancing improves gross and fine motor skills coordination concurrently and improves beat and rhythm recognition. Dancing is a stress reliever and allows personal expression through bodily movements. In Malay Dance, students will also learn to use instruments that accompany dances like tambourine and kompang and/or additional skills like silat.</strong>
 </p>
 </td>
 </tr>
