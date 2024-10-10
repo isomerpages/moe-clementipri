@@ -173,7 +173,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Haryanny Awang</p>
+<p>Mdm Haryyanny Awang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Middle Primary Year Head</p>
