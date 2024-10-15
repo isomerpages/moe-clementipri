@@ -11,10 +11,7 @@ notification: Photographs or video images of you or your parents may be taken
   channels, or other communication channels.
 sections:
   - hero:
-      title: Clementi Primary School
       background: /images/2024 Website/gifmaker_me.gif
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Announcement
           description: ""
