@@ -41,4 +41,10 @@ pupils to make informed decisions about their future pathways.</p>
 <br>This programme focuses on promoting responsible and ethical use of technology,
 as well as equipping all primary school pupils with skills to navigate
 the digital world safely. It includes workshops, talks, and interactive
-activities that promote responsible and safe use of technology.</p>
+activities that promote responsible and safe use of technology.
+<br>
+<br><strong>Sexuality Education (SEd)</strong>
+<br>Sexuality Education in primary school focuses on teaching children about
+body awareness, personal boundaries, and healthy relationships. It aims
+to equip pupils with age-appropriate knowledge and skills to navigate their
+growth and development in a safe and respectful manner.</p>
