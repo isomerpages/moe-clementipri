@@ -46,7 +46,7 @@ advocates of care and support for fellow Clementians.</p>
 <br>• NESS Ambassadors
 <br>• Peer Support Leaders
 <br>• CCA leaders</p>
-<p> <strong>Tier 4: Leader of Leaders</strong>
+<p><strong>Tier 4: Leader of Leaders</strong>
 </p>
 <p>Tier 4 includes the leaders of the respective Tier 3 leaders' group. They
 are the voice of Clementians and are the facilitators to lead and engage
@@ -63,14 +63,14 @@ for all Clementians.</p>
 where a President and Vice-President(s) to be elected by staff and students.</p>
 <p>Desired Outcomes</p>
 <p>Tier Traits/Qualities</p>
-<p><strong>Tier 1</strong>	• Self-management (be responsible in words, behaviour
+<p><strong>Tier 1</strong> • Self-management (be responsible in words, behaviour
 and actions)
 <br>• Positive self-concept</p>
-<p> <strong>Tier 2</strong>	• Confident communicator
+<p><strong>Tier 2</strong> • Confident communicator
 <br>• Accountability
 <br>• Display P.I.E.R consistently</p>
-<p> <strong>Tier 3</strong>	• Innovative (find new ways to overcome challenges
+<p><strong>Tier 3</strong> • Innovative (find new ways to overcome challenges
 and constantly look for ways to improve)
 <br>• Collaborative team player</p>
-<p> <strong>Tier 4	</strong> • Mentor to other leaders
+<p><strong>Tier 4 </strong>• Mentor to other leaders
 <br>• Advocate a cause/project</p>
