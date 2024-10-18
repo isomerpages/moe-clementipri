@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - CCEs/.keep
       - Total Curriculum.md
       - English.md
       - Mathematics.md
@@ -15,6 +14,7 @@ collections:
       - Aesthetics/Visual Art.md
       - Aesthetics/Music.md
       - Science.md
+      - CCEs/.keep
       - Character & Citizenship Education.md
       - CCA/.keep
       - CCA/Physical Sports.md
