@@ -7,9 +7,9 @@ third_nav_title: CCEs
 ---
 <blockquote>
 <p>Vision:</p>
-<p><strong>CPS believes that every Clementian can and should be developed as a leader. As part of holistic education, we provide every student an opportunity to be a leader. Through Student Leadership Development, we envision that every Clementian is a leader who takes initiative to lead with confidence and integrity. </strong>
+<p><strong>CPS believes that every Clementian can and should be developed as a leader. As part of holistic education, we provide every pupil an opportunity to be a leader. Through Student Leadership Development, we envision that every Clementian is a leader who takes initiative to lead with confidence and integrity.</strong>
 </p>
-<p><strong>The school has put in place a tiered leadership structure to develop the leadership competencies of our student leaders. The tiered design of the approach caters to the implementation of various Student Leaders' Developent activities for different groups: specific segments of the population or the entire cohort . This differentiated approach ensures all pupils receive a baseline level of development while targeted training will stretch positional  leaders with role-specific skills.</strong>
+<p><strong>The school has put in place a tiered leadership structure to develop the leadership competencies of our student leaders. The tiered design of the approach caters to the implementation of various Student Leaders' Developent activities for different groups: specific segments of the population or the entire cohort . This differentiated approach ensures all pupils receive a baseline level of development while targeted training will stretch positional leaders with role-specific skills.</strong>
 </p>
 </blockquote>
 <p>
