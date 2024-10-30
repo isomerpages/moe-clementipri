@@ -56,6 +56,30 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Bryan Quek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Media and Audiovisual Specialist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ibrahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Nazrin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Chua Seow Hong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -96,10 +120,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ho Chwee Koon</p>
+<p>Ms Maisarah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Librarian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Wen Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science Lab Assistant</p>
 </td>
 </tr>
 <tr>
@@ -128,10 +160,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Faizat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Adjunct OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Song Liak</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adjunct OSO</p>
 </td>
 </tr>
 </tbody>

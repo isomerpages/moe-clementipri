@@ -3,7 +3,7 @@ title: Student Leadership
 permalink: /student-leadership/
 variant: tiptap
 description: ""
-third_nav_title: CCEs
+third_nav_title: CCE
 ---
 <blockquote>
 <p>Vision:</p>

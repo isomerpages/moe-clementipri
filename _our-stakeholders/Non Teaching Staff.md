@@ -6,7 +6,7 @@ variant: markdown
 ---
 | Name | Designation |
 |---|---|
-| Mr Robert Lee | Security Guard |
+| Mr Musa | Security Guard |
 | Mr Oh Eng Hooi | Security Guard  |
 | Mdm Lim Ah Nia | Canteen Stall 1 |
 | Mdm Loh Li Keow | Canteen Stall 1 |
@@ -17,7 +17,8 @@ variant: markdown
 | Mr Chan Cheng Cheong | Canteen Stall 4 |
 | Mdm Suraiyah Bte Mohd Yusoff| Canteen Stall 5 |
 | Mdm Ratinah Mohd Yatim |Canteen Stall 5 |
-| VACANT | Canteen Stall 6 |
+| Mdm Pang Kwong Kheng | Canteen Stall 6 |
+| Mr Yeo Kim Lai | Canteen Stall 6 |
 | Mr Muhammad Faizal Bin Othman | Canteen Stall 7 |
 | Mdm Nurzilah Bte Abdullah | Canteen Stall 7 |
 | Mdm Ang Bee Hong | Canteen Stall 8 |

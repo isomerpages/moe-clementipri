@@ -3,7 +3,7 @@ title: Character & Citizenship Education
 permalink: /character-and-citizenship-education/
 variant: tiptap
 description: ""
-third_nav_title: CCEs
+third_nav_title: CCE
 ---
 <blockquote>
 <p>Vision:
