@@ -96,14 +96,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ho Chwee Koon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Rameswari</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,10 +120,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Faizat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Adjunct OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Song Liak</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adjunct OSO</p>
 </td>
 </tr>
 </tbody>
