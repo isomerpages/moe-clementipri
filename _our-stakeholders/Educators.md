@@ -1381,17 +1381,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>UT SEN Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FARWIZAH UBAIDAH BINTE MUHAMMAD REDWAN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>T&amp;L</p>
 </td>
 <td rowspan="1" colspan="1">
