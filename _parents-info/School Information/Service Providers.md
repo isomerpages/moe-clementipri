@@ -95,7 +95,7 @@ child's name and class
 <td rowspan="1" colspan="1">
 <p>Pro-Teach Education Group Pte Ltd
 <br>
-<br>Tel 6569 9985
+<br>Tel 80717191
 <br>
 <br>Email: <a href="clementi@pro-teach.com" rel="noopener noreferrer nofollow" target="_blank">clementi@pro-teach.com</a>
 <br>Website: <a href="https://pro-teach.com/register.php" rel="noopener noreferrer nofollow" target="_blank">Most Trusted Student Care Center. Pro-Teach Student Care Group</a>
