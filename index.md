@@ -21,4 +21,18 @@ sections:
         - title: Follow us on Instagram!
           description: ""
           url: https://www.instagram.com/clementiprimaryofficial/
+  - announcements:
+      title: At A Glance
+      id: announcements
+      announcement_items:
+        - title: Event
+          date: 04 November 2024
+          announcement: P6 Business Entrepreneur (BE)
+          link_text: ""
+          link_url: ""
+        - title: Event
+          date: 06 November 2024
+          announcement: School Admin Day
+          link_text: ""
+          link_url: ""
 ---
