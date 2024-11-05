@@ -36,8 +36,8 @@ sections:
           link_text: ""
           link_url: ""
         - title: New Announcement
-          date: 05 November 2024
-          announcement: Announcement content
+          date: 15 November 2024
+          announcement: CTP Conference
           link_text: ""
           link_url: ""
 ---
