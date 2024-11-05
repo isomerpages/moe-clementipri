@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - For Parents.md
-      - For Students/Alumni.md
       - For Students/.keep
       - For Students/Student Learning Space.md
       - For Students/Student iCON.md
       - For Students/SkillsFuture.md
       - For Students/Helplines for Students.md
+      - For Students/Alumni.md
       - For Teachers.md
