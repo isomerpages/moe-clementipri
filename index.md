@@ -26,13 +26,18 @@ sections:
       id: announcements
       announcement_items:
         - title: Event
-          date: 04 November 2024
-          announcement: P6 Business Entrepreneur (BE)
+          date: 08 November 2024
+          announcement: Deepavali Celebrations
           link_text: ""
           link_url: ""
         - title: Event
           date: 06 November 2024
           announcement: School Admin Day
+          link_text: ""
+          link_url: ""
+        - title: New Announcement
+          date: 05 November 2024
+          announcement: Announcement content
           link_text: ""
           link_url: ""
 ---
