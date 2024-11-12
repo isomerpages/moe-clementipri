@@ -141,7 +141,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Vimalenthiran Viyasingam (2021-Present)</strong>
+<p><strong>Mr Vimalenthiran Vijayasingam (2021-Present)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
