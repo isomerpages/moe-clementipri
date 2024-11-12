@@ -44,3 +44,6 @@ who can share their ideas and passions with others. By providing a supportive
 platform for our pupils to shine, we empower them to become confident individuals
 who can make a positive impact in the world. So, let the stories come alive
 and the magic begin!</p>
+<p><a href="https://heyzine.com/flip-book/eae468cd2a.html" rel="noopener nofollow" target="_blank">Primary 5 Literary Works</a>
+</p>
+<p></p>
