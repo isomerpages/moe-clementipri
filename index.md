@@ -26,18 +26,8 @@ sections:
       id: announcements
       announcement_items:
         - title: Event
-          date: 06 November 2024
-          announcement: School Admin Day
-          link_text: ""
-          link_url: ""
-        - title: Event
-          date: 08 November 2024
-          announcement: Deepavali Celebrations
-          link_text: ""
-          link_url: ""
-        - title: Event
-          date: 15 November 2024
-          announcement: CTP Conference
+          date: 20 November 2024
+          announcement: Release of PSLE 2024 Results
           link_text: ""
           link_url: ""
 ---
