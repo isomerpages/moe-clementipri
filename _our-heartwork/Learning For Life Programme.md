@@ -40,7 +40,7 @@ session, selected based on their interest and aptitude in visual arts.
 This tier offers more focused and enhanced learning experiences compared
 to the general programme, laying a strong foundation for potential progression
 to Tier 3.</p>
-<p><strong>Programmes: </strong>
+<p><strong>Programmes:</strong>
 </p>
 <p>- Art Exploration Workshops for P1 and P2 Clementians
 <br>- Advanced Technique Workshops for P3 to P6 Clementians
@@ -55,7 +55,7 @@ opportunities for exceptionally talented Primary 1 to Primary 6 students.
 With a focus on leadership, advanced skills development, and real-world
 exposure, this tier aims to nurture and prepare young artists for future
 success.</p>
-<p><strong>Programmes: </strong>
+<p><strong>Programmes:</strong>
 </p>
 <p>- Singapore Youth Festival (SYF) Art Exhitbition
 <br>- DSA Art Portfolio Development
