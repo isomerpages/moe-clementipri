@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024 Website/gifmaker_me.gif
+      background: /images/ezgif_com_speed.gif
       key_highlights:
         - title: Announcement
           description: ""
