@@ -20,7 +20,7 @@ address. The MOE link is <a href="https://www.moe.gov.sg/primary/transfers" rel=
 <h5>Financial Assistance Scheme</h5>
 <p><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">Online Application</a> 
 <br><a href="/files/2025/MOE_FAS_Application_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 MOE FAS Application form</a>
-<br><a href="/files/2024/moe%20fas%20pamphlets.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Pamphlet</a> 
+<br><a href="/files/2025/MOE_FAS_pamphlet.pdf" rel="noopener nofollow" target="_blank">MOE FAS Pamphlet</a>
 <br><a href="/files/Income%20Family%20Micro%20Insurance%20and%20Savings%20Scheme.pdf" rel="noopener noreferrer nofollow" target="_blank">Income Family Micro Insurance and Savings Scheme</a>
 </p>
 <h5>Leave of Absence</h5>
