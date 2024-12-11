@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ezgif_com_speed.gif
+      background: /images/school_front.jpg
       key_highlights:
         - title: Announcement
           description: ""
