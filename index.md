@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/school_front.jpg
+      background: /images/clemimg.jpg
       key_highlights:
         - title: Announcement
           description: ""
@@ -24,10 +24,4 @@ sections:
   - announcements:
       title: At A Glance
       id: announcements
-      announcement_items:
-        - title: Event
-          date: 20 November 2024
-          announcement: Release of PSLE 2024 Results
-          link_text: ""
-          link_url: ""
 ---
