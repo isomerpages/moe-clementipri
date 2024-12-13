@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/clemimg2.jpg
+      background: /images/school_front.jpg
       key_highlights:
         - title: Announcement
           description: ""
