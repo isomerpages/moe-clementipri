@@ -45,6 +45,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Low Tan Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Acad)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Tung Ai Jui</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,10 +69,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ewe Jun Wen</p>
+<p>Mr Jenfry Jeremiah Tseng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Rong Wei Joseph</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/ICT</p>
 </td>
 </tr>
 <tr>
@@ -149,10 +165,26 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Joanne Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Music</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Mohammad Hafiz Bin Mohd Rashib</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PE &amp; CCA</p>
+<p>SH/PE &amp; CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lynnette Sim Ai Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Student Management</p>
 </td>
 </tr>
 <tr>
@@ -160,7 +192,7 @@ description: ""
 <p>Ms Annabelle Pek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Student Well-Being &amp; Management</p>
+<p>SH/Student Leadership</p>
 </td>
 </tr>
 <tr>
