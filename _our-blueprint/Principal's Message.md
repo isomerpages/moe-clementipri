@@ -4,45 +4,68 @@ permalink: /parents-info/principal-message/
 description: ""
 variant: tiptap
 ---
-<h3>Principal's Message 2024</h3>
+<h3>Principal's Message 2025</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/vimal.jpg">
 </div>
-<p>Dear Esteemed Clementi Primary School Students, Staff, Parents and Stakeholders,</p>
-<p>I trust this message finds you well as we step into another academic year
-filled with promise and potential. It is my pleasure to extend a warm welcome
-to all our stakeholders—parents, teachers, students, and the wider community
-that forms the backbone of Clementi Primary School.</p>
-<p>I am thrilled to share with you the outstanding achievement of our students
-in the 2023 Primary School Leaving Examination (PSLE). Our students have
-once again demonstrated remarkable dedication, resilience, and academic
-prowess, resulting in excellent PSLE results that we can all be immensely
-proud of.</p>
-<p>In 2023, our students showcased exceptional performance across various
-subjects, reflecting the effectiveness of our holistic education approach.
-The average PSLE score for our graduating students was well above comparable
-schools and our National Average, a testament to the hard work and commitment
-of both students and teachers.</p>
-<p>These stellar results not only affirm the quality of education at Clementi
-Primary School but also reflect our unwavering commitment to nurturing
-well-rounded individuals who excel academically and embody our school vision
-of "An active learner, a caring friend, a concerned citizen."</p>
-<p>As we celebrate this achievement, it is essential to recognize that success
-goes beyond academic excellence. Our students are not only scoring high
-marks but are also developing the character traits and values encapsulated
-in our school values of Perseverance, Integrity, Respect, and Excellence.</p>
-<p>This remarkable accomplishment would not have been possible without the
-collective efforts of our dedicated teaching staff, the support of parents,
-and the commitment of our students. I extend my heartfelt gratitude to
-each one of you for contributing to the success of Clementi Primary School.</p>
-<p>As we embark on the new academic year, let us carry the momentum of this
-success forward, inspiring our students to strive for even greater heights.
-Our focus remains on providing a nurturing environment that fosters not
-only academic excellence but also the holistic development of every child.</p>
-<p>Here's to another year of achievements, growth, and collaborative success
-at Clementi Primary School. Thank you for your ongoing support and dedication
-to our shared vision.</p>
-<p>Warm regards,</p>
-<p>Vimalenthiran Vijayasingam</p>
-<p>Principal Clementi Primary School</p>
+<p>Dear Clementians, Staff, Parents, and Stakeholders,</p>
 <p></p>
+<p>Welcome back to the new academic year, 2025!</p>
+<p>This year holds special significance, as we commemorate our school's Silver
+Jubilee, 25 years of excellence, growth, and a legacy of empowering students
+to reach their full potential.</p>
+<p>As we begin this fresh chapter, I would like to acknowledge the many successes
+of 2024. It was an outstanding year for our school, and I am proud to highlight
+a few of our notable achievements.</p>
+<p>Our Primary School Leaving Examination (PSLE) results were commendable,
+and we celebrate the success of every student who took the examination,
+recognising their diligence, dedication, and personal growth. Notably,
+our graduating students' average PSLE score exceeded both the national
+average and that of comparable schools, a testament to their efforts and
+the guidance of our teachers.</p>
+<p>I would like to express my heartfelt gratitude to our entire teaching
+staff in providing a nurturing and engaging learning environment for all
+our students. Your collective efforts, innovative approaches, and commitment
+to excellence have had a positive impact on our students' academic success,
+well-being, and overall growth.</p>
+<p>Our non-teaching staff have been the unsung heroes of our school, providing
+essential support and services that have enabled us to function seamlessly.
+From maintaining our facilities to providing administrative support, your
+contributions have been invaluable.</p>
+<p>In the realm of sports, our students excelled in the National School Games
+(NSG), demonstrating their passion, perseverance, and teamwork. Our coaches
+and Physical Education teachers have done a marvellous job in guiding and
+mentoring our students, and we are grateful for their expertise and enthusiasm.</p>
+<p>Our students also sparkled on the artistic stage, delivering outstanding
+performances at the Singapore Youth Festival. With creativity, poise, and
+confidence, they made our school proud. We are grateful to our PAM teachers,
+who have guided our students in unlocking their creative talents.</p>
+<p>All these achievements were made possible by the collective efforts of
+our students, teachers, non-teaching staff, and parents. I am thankful
+for your partnership.</p>
+<p>As we step into 2025, our commitment to excellence in every aspect of
+school life remains unwavering. Guided by our vision, we strive to nurture
+students who embody the qualities of Active Learners, Caring Friends, and
+Compassionate Leaders.</p>
+<p>Aligned with our school motto, "Others Before Self," we remain steadfast
+in our commitment to our four core values: Perseverance, Integrity, Empathy,
+and Respect. These values inspire us to navigate challenges with resilience,
+act with integrity, demonstrate compassion and treat all individuals with
+dignity and respect.</p>
+<p></p>
+<p>To our students, I encourage you to build on the successes of 2024 and
+strive for even greater heights in 2025.</p>
+<p></p>
+<p>To our parents, I thank you for your ongoing support and partnership.
+Your involvement in your child's education is invaluable, and we look forward
+to working closely with you throughout the year.</p>
+<p>To our staff, I express my appreciation for your hard work, dedication,
+and commitment to excellence.</p>
+<p>Let us start this new academic year with renewed spirit, guided by the
+inspiring lyrics of our school song: "Let us arise, stand tall, and strive
+for excellence, united as one."</p>
+<p>Thank you.</p>
+<p>&nbsp;</p>
+<p>Together, celebrating student agency,</p>
+<p>Vimalenthiran Vijayasingam
+<br>Principal, Clementi Primary School</p>
