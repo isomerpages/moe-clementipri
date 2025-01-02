@@ -8,7 +8,7 @@ third_nav_title: School Information
 <p>All students are covered by insurance with MINIMUM accident coverage up
 till December 2026. The policy provides accident coverage related to all
 school activities and/or CCAs both in and out of school (please refer to
-the <a href="/files/2024/Product_Fact_Sheet_Year_2024___Income_Insurance.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Factsheet</a>).</p>
+the <a href="/files/2025/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">product fact sheet</a>).</p>
 <p>For details regarding the coverage, please refer to the insurance company:</p>
 <p><strong>NTUC Income Insurance Co-operative Limited,</strong>
 </p>
