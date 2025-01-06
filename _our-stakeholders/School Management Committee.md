@@ -101,6 +101,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Yang Shu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Mother Tongue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Geralin Tan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,14 +145,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>LH/English</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Yang Shu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/CL</p>
 </td>
 </tr>
 <tr>
