@@ -1,5 +1,5 @@
 ---
-title: Photos
+title: Memories @ Flickr
 permalink: /photos/
 variant: tiptap
 description: ""
