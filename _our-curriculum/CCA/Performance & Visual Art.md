@@ -221,50 +221,6 @@ third_nav_title: CCA
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Indian Dance</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Tuesday</strong>
-</p>
-<p><strong>2.30-4.30pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Music Room</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Latheefa / Mdm Uni</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
-<p><strong>Indian Dance is a captivating art form deeply rooted in culture and tradition, offering students a unique avenue for self-expression, creativity, and physical fitness.</strong>
-</p>
-<p><strong>Through Indian Dance classes, students will have the opportunity to learn various dance styles, including classical, folk, and Bollywood, while immersing themselves in the rich tapestry of Indian music and dance. They will develop coordination, rhythm, and gracefulness as they master intricate movements and choreographies.</strong>
-</p>
-<p><strong>Indian Dance classes allows students to experience the joy, beauty, and cultural richness that this art form has to offer.</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Malay Dance</strong>
 </p>
 </td>
