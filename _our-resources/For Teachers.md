@@ -8,6 +8,8 @@ variant: tiptap
 </p>
 <p><strong><a href="https://www.canva.com/" rel="noopener nofollow" target="_blank">Canva (use iCON email address to login)</a></strong>
 </p>
+<p><strong><a href="https://www.classdojo.com/" rel="noopener nofollow" target="_blank">Class Dojo</a></strong>
+</p>
 <p><strong><a href="https://clementipri.edupage.org/" rel="noopener noreferrer nofollow" target="_blank">Edupage</a></strong>
 </p>
 <p><strong><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">All Ears Form Builder</a></strong>
