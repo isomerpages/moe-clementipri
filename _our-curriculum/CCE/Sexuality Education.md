@@ -82,7 +82,7 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="4">
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 </th>
 </tr>
@@ -130,7 +130,7 @@ affected, even when oneâ€™s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 2</p>
 </td>
 </tr>
 <tr>
@@ -149,7 +149,7 @@ own responses when they encounter pornography by applying the strategy <strong>â
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 2</p>
 </td>
 </tr>
 <tr>
@@ -166,7 +166,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 3</p>
+<p>Term 2</p>
 </td>
 </tr>
 </tbody>
@@ -196,7 +196,7 @@ and how to seek help for themselves and their friends.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 </td>
 </tr>
@@ -244,7 +244,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 5</p>
+<p>Term 4</p>
 </td>
 </tr>
 <tr>
@@ -261,7 +261,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 6</p>
+<p>Term 4</p>
 </td>
 </tr>
 </tbody>
