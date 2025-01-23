@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3>SLS</h3>
 <h5><strong>Login URL:</strong>&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a></h5>
-<h5><strong>SLS Account Management for students: </strong><a href="https://www.learning.moe.edu.sg/files/Login%20Troubleshooting/SLS%20Account%20Management%20-%20Guide%20for%20Students%20(Pri).pdf" rel="noopener nofollow" target="_blank">Click Here</a></h5>
+<h5><strong>SLS Account Management Guide for students: </strong><a href="https://www.learning.moe.edu.sg/files/Login%20Troubleshooting/SLS%20Account%20Management%20-%20Guide%20for%20Students%20(Pri).pdf" rel="noopener nofollow" target="_blank">Click Here</a></h5>
 <p>As part of its commitment to nurturing future-ready learners, the Ministry
 of Education announced that all students in Singapore schools will be supported
 in their learning by the Singapore Student Learning Space (SLS), an online
