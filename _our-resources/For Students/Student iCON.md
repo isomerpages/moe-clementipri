@@ -13,7 +13,7 @@ variant: tiptap
 </p>
 <p>URL to reset MIMS/Student iCON Password: <a href="https://mims.moe.gov.sg/sspr" rel="noopener noreferrer nofollow" target="_blank">https://mims.moe.gov.sg/sspr</a>
 </p>
-<h4><a href="/files/Student%20iCON%20Onboarding%20Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Student iCON Onboarding Guide</a></h4>
+<h4><a href="/files/2025/Student_iCON_Onboarding_Guide_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Student iCON Onboarding Guide</a></h4>
 <h4>Frequently Asked Questions</h4>
 <h5>Q1.<strong>What is the naming convention for Student iCON email address?</strong> <br></h5>
 <p>a.&nbsp;&nbsp; &nbsp;The student’s email address will be based on @students.edu.sg.
