@@ -5,10 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Mother Tongue
 ---
-<blockquote>
-<p>Vision:
-<br><strong>Every Clementian to be empowered as an effective communicator with a deep appreciation for the Mother Tongue language, as well as the rich culture and values it embodies</strong>.</p>
-</blockquote>
+<h4>Vision:</h4>
+<p><strong>Every Clementian to be empowered as an effective communicator with a deep appreciation for the Mother Tongue language, as well as the rich culture and values it embodies.</strong>
+</p>
 <h4><strong>Key Programmes</strong></h4>
 <p><strong>Deepavali Celebration</strong>
 <br>Each year, our Deepavali celebration is a vibrant and joyous event that
