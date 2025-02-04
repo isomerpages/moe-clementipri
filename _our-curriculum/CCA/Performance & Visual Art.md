@@ -30,7 +30,7 @@ third_nav_title: CCA
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Welcome to our vibrant world of creativity and expression! Whether you are a budding Picasso or simply love to dabble in colors, we are thrilled to invite you to join our Art Club. Get ready to unleash your imagination, explore new techniques, and make colorful memories as we embark on an exciting journey through the wonderful world of art together.</strong>
+<p><strong>Welcome to our vibrant world of creativity and expression! Whether you are a budding Picasso or simply love to dabble in colours, we are thrilled to invite you to join our Art Club. Get ready to unleash your imagination, explore new techniques, and make colorful memories as we embark on an exciting journey through the wonderful world of art together.</strong>
 </p>
 </td>
 </tr>
