@@ -22,7 +22,7 @@ museums and community spaces where pupils are able to conduct hands-on
 exploration, construct new knowledge and make connections to the topic
 being studied.
 <br>
-<br><strong>Alternative Assessments</strong>
+<br><strong>Alternative Assessment</strong>
 <br>In Clementi Primary School, we carry out performance tasks as a form of
 alternative assessment that would best reflect pupils’ ability to translate
 and transfer key knowledge, skills and values in context. The performance
