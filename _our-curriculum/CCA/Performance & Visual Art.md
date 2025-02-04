@@ -30,7 +30,7 @@ third_nav_title: CCA
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Welcome to our vibrant world of creativity and expression! Whether you are a budding Picasso or simply love to dabble in colors, we are thrilled to invite you to join our Art Club. Get ready to unleash your imagination, explore new techniques, and make colorful memories as we embark on an exciting journey through the wonderful world of art together.</strong>
+<p><strong>Welcome to our vibrant world of creativity and expression! Whether you are a budding Picasso or simply love to dabble in colours, we are thrilled to invite you to join our Art Club. Get ready to unleash your imagination, explore new techniques, and make colorful memories as we embark on an exciting journey through the wonderful world of art together.</strong>
 </p>
 </td>
 </tr>
@@ -113,13 +113,13 @@ third_nav_title: CCA
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Modern Dance CCA is an enriching programme designed to introduce young students to the world of contemporary dance. Through a variety of fun and engaging sessions, students learn not only the technical aspects of modern dance, such as flexibility, coordination, and strength but also build up values such as perseverance and self-discipline.</strong>
+<p><strong>Modern Dance CCA is an enriching programme designed to introduce young pupils to the world of contemporary dance. Through a variety of fun and engaging sessions, pupils learn not only the technical aspects of modern dance, such as flexibility, coordination, and strength but also build up values such as perseverance and self-discipline.</strong>
 </p>
-<p><strong>A professional instructor lead the sessions and the dance routines are age-appropriate and enjoyable; learning takes place in a supportive and positive environment. Modern Dance CCA also promotes teamwork, as students often work in groups to create performances, helping them to build social skills and friendships.</strong>
+<p><strong>A professional instructor lead the sessions and the dance routines are age-appropriate and enjoyable; learning takes place in a supportive and positive environment. Modern Dance CCA also promotes teamwork, as pupils often work in groups to create performances, helping them to build social skills and friendships.</strong>
 </p>
-<p><strong>Performances are key components of the Modern Dance CCA, offering students the opportunity to showcase their skills and hard work. We have participated in both internal and external events including the annual Prize Giving Day concert and also Singapore Youth Festival.</strong>
+<p><strong>Performances are key components of the Modern Dance CCA, offering pupils the opportunity to showcase their skills and hard work. We have participated in both internal and external events including the annual Prize Giving Day concert and also Singapore Youth Festival.</strong>
 </p>
-<p><strong>We welcome all students who have a passion for dancing and who are keen to learn to join us.</strong>
+<p><strong>We welcome all pupils who have a passion for dancing and who are keen to learn to join us.</strong>
 </p>
 </td>
 </tr>
@@ -199,7 +199,7 @@ third_nav_title: CCA
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>CTPS Voices is a vibrant CCA for learning and growth for our 56 students spanning from Primary 3 to Primary 6. We provide various platforms for Choir members to showcase their talents, nurture their potential, forge lasting friendships and develop their leadership potential.</strong>
+<p><strong>CTPS Voices is a vibrant CCA for learning and growth for our 56 pupils spanning from Primary 3 to Primary 6. We provide various platforms for Choir members to showcase their talents, nurture their potential, forge lasting friendships and develop their leadership potential.</strong>
 </p>
 <p><strong>With a diverse range of activities and programmes, we provide our Choir members with diverse experiences from choral exchange programmes with other schools and participation in internal choral festivals. We believe that every student should have the opportunity to shine!</strong>
 </p>
@@ -241,7 +241,7 @@ third_nav_title: CCA
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Getting involved with Malay Dance CCA means developing personal quality traits like discipline and perseverance, as well teamwork, where each member looks out for another. They learn to cooperate, learn to teach each other, practice active listening and learn how to resolve conflicts. The Malay Dance CCA has achieved Certificate of Distinction for several consecutive SYF Arts Presentations and these happened due to the personal attitudes and teamwork of its members. Dancing improves gross and fine motor skills coordination concurrently and improves beat and rhythm recognition. Dancing is a stress reliever and allows personal expression through bodily movements. In Malay Dance, students will also learn to use instruments that accompany dances like tambourine and kompang and/or additional skills like silat.</strong>
+<p><strong>Getting involved with Malay Dance CCA means developing personal quality traits like discipline and perseverance, as well teamwork, where each member looks out for another. They learn to cooperate, learn to teach each other, practise active listening and learn how to resolve conflicts. The Malay Dance CCA has achieved Certificate of Distinction for several consecutive SYF Arts Presentations and these happened due to the personal attitudes and teamwork of its members. Dancing improves gross and fine motor skills coordination concurrently and improves beat and rhythm recognition. Dancing is a stress reliever and allows personal expression through bodily movements. In Malay Dance, pupils will also learn to use instruments that accompany dances like tambourine and kompang and/or additional skills like silat.</strong>
 </p>
 </td>
 </tr>

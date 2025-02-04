@@ -31,10 +31,9 @@ third_nav_title: CCA
 </tr>
 <tr>
 <th rowspan="1" colspan="4">
-<p>The Badminton CCA aims to build students' interest towards this sport,
-and to use Badminton as a vehicle to build resilience, teamwork spirit,
-sportsmanship. Currently, our training caters 2 groups of students: competitive
-and recreational
+<p>The Badminton CCA aims to build pupils' interest towards this sport, and
+to use Badminton as a vehicle to build resilience, teamwork spirit, sportsmanship.
+Currently, our training caters 2 groups of pupils: competitive and recreational
 <br>Our competitive teams consist of Senior Boys, Senior Girls, Junior Boys,
 Junior girls, who will be participating in National School Games.</p>
 </th>
@@ -76,7 +75,7 @@ Junior girls, who will be participating in National School Games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>The Basketball CCA aims to build students' interest towards this sport, and to use the CCA experiences as a vehicle to build resilience, teamwork spirit, sportsmanship. Currently, our training caters 2 groups of students: competitive (Mon&amp;Thu) and recreational (Tue)</strong>
+<p><strong>The Basketball CCA aims to build pupils' interest towards this sport, and to use the CCA experiences as a vehicle to build resilience, teamwork spirit, sportsmanship. Currently, our training caters 2 groups of pupils: competitive (Mon&amp;Thu) and recreational (Tue)</strong>
 </p>
 <p><strong>Basketball training will focus on building a firm foundation to this game. Training activities include fundamental basketball skills and territorial games concept.</strong>
 </p>
@@ -104,7 +103,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tue, (All floorballers, 2.30pm-4.30pm: </strong>
+<p><strong>Tue, (All floorballers, 2.30pm-4.30pm:</strong>
 </p>
 <p><strong>Thursday (School Team, 3.30-5.30pm)</strong>
 </p>
@@ -145,7 +144,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tues 2.30-4.30pm (Recreational P4 pupils &amp; potential school team players); </strong>
+<p><strong>Tues 2.30-4.30pm (Recreational P4 pupils &amp; potential school team players);</strong>
 </p>
 <p><strong>Thurs 3.30-5.30pm (Recreational P5 pupils &amp; potential school team players)</strong>
 </p>
@@ -162,9 +161,9 @@ Junior girls, who will be participating in National School Games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>The Football CCA welcomes both boys and girls who has strong interest in the beautiful game. We are open to every student regardless of their skills. While we do not have separate sessions or teams for the boys and girls, </strong>
+<p><strong>The Football CCA welcomes both boys and girls who has strong interest in the beautiful game. We are open to every student regardless of their skills. While we do not have separate sessions or teams for the boys and girls,</strong>
 </p>
-<p><strong>we believe that they are equally talented and would benefit from the sessions together.  Currently, we only have boys football team who are representing the school in the National School Games.  Every session consists of various components aimed at developing players' physical, technical, tactical, and mental skills. In line with the school values, this CCA offers a range of activities that could develop their perseverance and value of respect for others.</strong>
+<p><strong>we believe that they are equally talented and would benefit from the sessions together. Currently, we only have boys football team who are representing the school in the National School Games. Every session consists of various components aimed at developing players' physical, technical, tactical, and mental skills. In line with the school values, this CCA offers a range of activities that could develop their perseverance and value of respect for others.</strong>
 </p>
 </td>
 </tr>
@@ -203,7 +202,7 @@ Junior girls, who will be participating in National School Games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Rope skipping is an easy sport for everyone to pick up and we welcome all who are interested to learn. This is different from other sports whereby there is individual and team events for the student to take part in. Individually, students can take part in events such as running step or individual freestyle. As a team, students can try out double dutch where 2 ropes are being turned concurrently for the jumper. </strong>
+<p><strong>Rope skipping is an easy sport for everyone to pick up and we welcome all who are interested to learn. This is different from other sports whereby there is individual and team events for the student to take part in. Individually, pupils can take part in events such as running step or individual freestyle. As a team, pupils can try out double dutch where 2 ropes are being turned concurrently for the jumper.</strong>
 </p>
 <p><strong>We aim to build resilience through the sport and grow together as a team.</strong>
 </p>

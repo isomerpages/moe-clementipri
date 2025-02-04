@@ -19,13 +19,13 @@ language experience approach, word study lesson, differentiated-focused
 lessons and extensive reading.
 <br>
 <br><strong>SUPPORT Programme - AM Read + PM Read</strong> 
-<br>This Reading Programme is a targeted intervention designed to support
+<br>This Reading Programme is a targetted intervention designed to support
 low progress readers in overcoming reading challenges and achieving literacy
 success. This comprehensive programme provides individualised instruction,
-tailored to meet the unique needs of each pupil by providing targeted support
-and evidence-based instruction, the programme empowers low progress readers
-to overcome challenges, achieve literacy success, and develop a lifelong
-love for reading.
+tailored to meet the unique needs of each pupil by providing targetted
+support and evidence-based instruction, the programme empowers low progress
+readers to overcome challenges, achieve literacy success, and develop a
+lifelong love for reading.
 <br>
 <br><strong>READERS THEATRE </strong>
 <br>To cultivate a lifelong love for literature and enhance essential reading
