@@ -241,7 +241,7 @@ third_nav_title: CCA
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Getting involved with Malay Dance CCA means developing personal quality traits like discipline and perseverance, as well teamwork, where each member looks out for another. They learn to cooperate, learn to teach each other, practice active listening and learn how to resolve conflicts. The Malay Dance CCA has achieved Certificate of Distinction for several consecutive SYF Arts Presentations and these happened due to the personal attitudes and teamwork of its members. Dancing improves gross and fine motor skills coordination concurrently and improves beat and rhythm recognition. Dancing is a stress reliever and allows personal expression through bodily movements. In Malay Dance, pupils will also learn to use instruments that accompany dances like tambourine and kompang and/or additional skills like silat.</strong>
+<p><strong>Getting involved with Malay Dance CCA means developing personal quality traits like discipline and perseverance, as well teamwork, where each member looks out for another. They learn to cooperate, learn to teach each other, practise active listening and learn how to resolve conflicts. The Malay Dance CCA has achieved Certificate of Distinction for several consecutive SYF Arts Presentations and these happened due to the personal attitudes and teamwork of its members. Dancing improves gross and fine motor skills coordination concurrently and improves beat and rhythm recognition. Dancing is a stress reliever and allows personal expression through bodily movements. In Malay Dance, pupils will also learn to use instruments that accompany dances like tambourine and kompang and/or additional skills like silat.</strong>
 </p>
 </td>
 </tr>
