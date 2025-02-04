@@ -4,10 +4,10 @@ permalink: /learning-for-life-programme/
 variant: tiptap
 description: ""
 ---
+<h4>Vision:</h4>
 <blockquote>
-<p><strong>Vision</strong>: Every Clementian is inspired to appreciate art,
-develop artistic skills across various mediums, and have their unique talents
-nurtured to their fullest potential.</p>
+<p><strong>Every Clementian is inspired to appreciate art, develop artistic skills across various mediums, and have their unique talents nurtured to their fullest potential.</strong>
+</p>
 </blockquote>
 <h4><strong>Key Programmes</strong></h4>
 <p><strong>General Art Programme: Tier 1 Creative Explorers</strong>
