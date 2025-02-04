@@ -32,7 +32,7 @@ where pupils can explore traditional crafts and cuisine from different
 cultures. This programme not only strengthens language skills but also
 deepens pupils’ appreciation for their cultural heritage, fostering a sense
 of pride and belonging.</p>
-<p><strong>Mother Tongue Support Program (MTSP) for Primary 3 (P3) and Primary 4 (P4)</strong>
+<p><strong>Mother Tongue Support Programme (MTSP) for Primary 3 (P3) and Primary 4 (P4)</strong>
 <br>MTSP caters to P3 and P4 pupils who needs extra support, through innovative
 pedagogies and engaging learning resources. MTSP aims to motivate low progress
 learners and to further assist them in the learning of Mother Tongue Language.</p>
