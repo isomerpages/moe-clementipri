@@ -15,7 +15,10 @@ as collaborative skills.</p>
 The programme applies to pupils from P4 onwards and enrolment is by invitation
 based on recommendations from Gifted Education Brancj( GEB) and pupils’
 overall results for the year.</p>
-<p></p>
+<p>Pupils in the Math ALPHA+ will attend the E2K Mathematics Programme and
+E2K Science Programme respectively. These programmes are developed by Israeli
+education specialists and aim to engage pupils with inquiry-based activities
+that involve advanced mathematical and science concepts</p>
 <p></p>
 <p></p>
 <p></p>
