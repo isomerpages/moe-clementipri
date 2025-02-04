@@ -6,7 +6,7 @@ description: ""
 third_nav_title: CCE
 ---
 <p>MOE SEXUALITY EDUCATION IN SCHOOLS</p>
-<p>1. Sexuality Education (SEd) in schools aims to enable students to understand
+<p>1. Sexuality Education (SEd) in schools aims to enable pupils to understand
 the physiological, social and emotional changes they experience as they
 mature, develop healthy and rewarding relationships with others, including
 those with members of the opposite sex, and make wise, informed and responsible
@@ -17,11 +17,11 @@ The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
 <p>2. The Goals of Sexuality Education are:</p>
-<p>(a) Support students in managing their physiological, social and emotional
+<p>(a) Support pupils in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.
-<br>(b) Guide students to make wise, informed and responsible decisions on
-sexuality matters.
-<br>(c) Help students develop a moral compass and respect for themselves and
+<br>(b) Guide pupils to make wise, informed and responsible decisions on sexuality
+matters.
+<br>(c) Help pupils develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
 <p>3. The Key Messages of Sexuality Education are:</p>
@@ -57,16 +57,16 @@ is that our children are becoming biologically ready for sexual activity
 sooner without necessarily having the corresponding cognitive or emotional
 maturity to modulate their behaviours. Furthermore, our young are also
 exposed to a wide range of influences that could endanger health and undermine
-the integrity of the family. Our students require close guidance so that
+the integrity of the family. Our pupils require close guidance so that
 they can respond with discernment to the sexual messages in the media and
 other sources.</p>
 <p>7. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd)
 lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these
-lessons, students will learn healthy ways to manage the physiological,
-social and emotional changes in their growing years. They learn to build
-healthy and rewarding relationships with others, including those with members
-of the opposite sex. Students are also guided to make wise, informed and
-responsible decisions to keep themselves safe from sexuality-related risks.</p>
+lessons, pupils will learn healthy ways to manage the physiological, social
+and emotional changes in their growing years. They learn to build healthy
+and rewarding relationships with others, including those with members of
+the opposite sex. Pupils are also guided to make wise, informed and responsible
+decisions to keep themselves safe from sexuality-related risks.</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -121,12 +121,12 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <p>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This lesson focuses on helping students identify the emotions and stress
-caused by physical changes during puberty. Students will learn to describe
+<p>This lesson focuses on helping pupils identify the emotions and stress
+caused by physical changes during puberty. Pupils will learn to describe
 the healthy ways to manage their negative feelings during this time. They
 will also learn to recognise that one’s identity need not be negatively
 affected, even when one’s body is experiencing changes due to puberty.</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the </em>pupils<em> will feel more comfortable during the discussions.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -139,13 +139,13 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 <p>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This lesson focuses on helping students know what pornography is and how
-it can affect themselves and others. Students will learn about the dangers
+<p>This lesson focuses on helping pupils know what pornography is and how
+it can affect themselves and others. Pupils will learn about the dangers
 of being exposed to sexually explicit materials and reject the viewing
 and/or reading of pornographic materials. They will learn to evaluate their
 own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
 </p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the </em>pupils<em> will feel more comfortable during the discussions.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -158,11 +158,11 @@ own responses when they encounter pornography by applying the strategy <strong>�
 <p>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>In this lesson, students will learn about sexual abuse, how it can happen
+<p>In this lesson, pupils will learn about sexual abuse, how it can happen
 during online and offline interactions and the impact of such abuse on
 victims. They also learn how to take precautionary measures to be safe
 and how to seek help for themselves and their friends.</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the </em>pupils<em> will feel more comfortable during the discussions.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -235,7 +235,7 @@ and how to seek help for themselves and their friends.</p>
 <p>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>In this lesson, students will learn to distinguish between the characteristics
+<p>In this lesson, pupils will learn to distinguish between the characteristics
 of love and infatuation, and identify the strong emotions that may arise
 from experiencing the feelings of infatuation. They will recognise that
 experiencing feelings of infatuation is part of growing up and becoming
@@ -254,7 +254,7 @@ healthy friendships with their circles of friends.</p>
 <p>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>In this lesson, students will learn healthy ways to manage the emotions
+<p>In this lesson, pupils will learn healthy ways to manage the emotions
 arising from infatuation and recognise the importance of respecting the
 boundaries of any relationship. They will also recognise the negative impact
 of teasing their peers who may be experiencing the feelings of infatuation
