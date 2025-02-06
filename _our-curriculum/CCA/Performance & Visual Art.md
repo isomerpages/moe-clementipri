@@ -193,7 +193,7 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Fiona Ang, Mdm Corina Koh,  Mdm Koh Siok Hui,</strong>
+<p><strong>Mrs Fiona Ang, Mdm Corina Koh, Mdm Koh Siok Hui,</strong>
 </p>
 </td>
 </tr>
@@ -235,7 +235,7 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Yanis, Mdm Christy, Mdm Syafiqah</strong>
+<p><strong>Mdm Yanis, Mdm Christy Koh, Mdm Celeste Wong Siow Yen</strong>
 </p>
 </td>
 </tr>
