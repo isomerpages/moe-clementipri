@@ -26,7 +26,8 @@ third_nav_title: CCA
 <p>Computer Lab 2</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ms Krishnan, Mrs Goh Pey Ting, Mdm Chng Mui Noi, Mdm Phua Siew Hoon</p>
+<p>Mdm, Ros Leila, Mdm Phua Siew Hoon, Mdm Chng Mui Noi, Mrs Goh Pey Ting
+and Ms Krishnan</p>
 </th>
 </tr>
 <tr>
