@@ -238,7 +238,7 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Yanis, Mdm Christy Koh, Mdm Celeste Wong Siow Yen</strong>
+<p><strong>Mdm Yanis, Mdm Christy Koh and Mdm Uni</strong>
 </p>
 </td>
 </tr>
