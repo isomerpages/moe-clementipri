@@ -237,7 +237,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Lim , Mdm Josephine Wong, Mdm Cynthia Lim</strong>
+<p><strong>Mdm Cynthia Lim, Mdm Josephine Wong, Mdm Uni </strong>
 </p>
 </td>
 </tr>
