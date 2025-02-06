@@ -153,7 +153,7 @@ and Ms Krishnan</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Kenny &amp; Mdm Sasikala</strong>
+<p><strong>Mr Kenny  Chau, Mdm Sasikala and Ms Lim Hwee Chen</strong>
 </p>
 </td>
 </tr>
