@@ -70,7 +70,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Wu Xin, Ms Ng Dan Ying, Ms Summer, Ms Mandy Chan and Mdm Shahada</strong>
+<p><strong>Mr Wu Xin, Ms Ng Dan Ying, Ms Mandy Chan and Mdm Shahada</strong>
 </p>
 </td>
 </tr>
