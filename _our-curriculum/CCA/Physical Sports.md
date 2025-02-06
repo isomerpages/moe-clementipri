@@ -23,11 +23,11 @@ third_nav_title: CCA
 </p>
 </td>
 <th rowspan="1" colspan="1">
-<p>Jurong East Sports Hall</p>
+<p>Clementi Sports Complex and School ISH</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mdm Neo Swee Hong, Mdm Liu Hua, Mdm Lee Wan Yi, Mr Tan Lin How, Ms Liew
-Sijie</p>
+<p>Mdm Neo Swee Hong, Mdm Liu Hua, Mdm Lee Wan Yi, Mr Tan Lin How and Ms
+Liew Sijie</p>
 </th>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Miss See Shen Leng, Mrs Kristale Teo, Miss Lee Jia Rui, Mr Du Guang, Mdm Yani</strong>
+<p><strong>Miss See Shen Leng, Mrs Kristale Teo, Miss Lee Jia Rui and Mr Du Guang</strong>
 </p>
 </td>
 </tr>
