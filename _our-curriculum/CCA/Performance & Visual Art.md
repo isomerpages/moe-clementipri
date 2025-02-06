@@ -153,7 +153,7 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Aletheia Ng, Mdm Santhi, Ms Koh Yu Xin</strong>
+<p><strong>Mdm Aletheia Ng, Mdm Santhi, Mrs Tan Sau Hoi</strong>
 </p>
 </td>
 </tr>
