@@ -59,9 +59,9 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mon &amp; Thu, school team, 3.30pm-5.30pm</strong>
+<p><strong>Monday &amp; Thursday (school team: 3.30pm-5.30pm), </strong>
 </p>
-<p><strong>Tue, non school team, 2.30pm-4.30pm</strong>
+<p><strong>Tuesday (non school team: 2.30pm-4.30pm)</strong>
 </p>
 <p></p>
 </td>
