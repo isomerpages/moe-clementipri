@@ -193,7 +193,7 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lily Guan, Mdm Koh Siok Hui, Mrs Fiona Ang</strong>
+<p><strong>Mrs Fiona Ang, Mdm Corina Koh,  Mdm Koh Siok Hui,</strong>
 </p>
 </td>
 </tr>
