@@ -66,7 +66,7 @@ and Ms Krishnan</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Ali, Ms Zhong Linshan, Mr Paul Ling</strong>
+<p><strong>Ms Zhong Linshan, Mr Tan Kian Beng, Mdm Win Wa Soe and  Mr Paul Ling</strong>
 </p>
 </td>
 </tr>
