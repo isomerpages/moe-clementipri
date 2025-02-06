@@ -66,7 +66,7 @@ and Ms Krishnan</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Zhong Linshan, Mr Tan Kian Beng, Mdm Win Wa Soe and  Mr Paul Ling</strong>
+<p><strong>Ms Zhong Linshan, Mr Tan Kian Beng, Mdm Win Wa Soe and Mr Paul Ling</strong>
 </p>
 </td>
 </tr>
@@ -109,7 +109,7 @@ and Ms Krishnan</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Jessie Ong, Mr Tan KB and Ms Irene</strong>
+<p><strong>Mdm Jessie Ong, Ms Ang Pei Yi and Ms Irene Lim</strong>
 </p>
 </td>
 </tr>
