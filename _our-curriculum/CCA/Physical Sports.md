@@ -145,9 +145,9 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tues 2.30-4.30pm (Recreational P4 pupils &amp; potential school team players);</strong>
+<p><strong>Tuesday 2.30-4.30pm (Recreational P4 pupils &amp; potential school team players);</strong>
 </p>
-<p><strong>Thurs 3.30-5.30pm (Recreational P5 pupils &amp; potential school team players)</strong>
+<p><strong>Thursday 3.30-5.30pm (Recreational P5 pupils &amp; potential school team players)</strong>
 </p>
 <p></p>
 </td>
@@ -156,7 +156,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Sham, Mdm Ruzanna, Mr Bala, Mr Edward Long, Mdm Latheefa, Mdm Melissa Wong</strong>
+<p><strong>Mr Sham, Mdm Ruzanna, Mr Bala, Mr Edward Long and Mdm Melissa Wong</strong>
 </p>
 </td>
 </tr>
