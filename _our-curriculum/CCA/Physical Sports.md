@@ -26,7 +26,8 @@ third_nav_title: CCA
 <p>Jurong East Sports Hall</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mdm Chong, Mdm Liu, Mdm Lee, Mdm Neo, Mr Tan</p>
+<p>Mdm Neo Swee Hong, Mdm Liu Hua, Mdm Lee Wan Yi, Mr Tan Lin How, Ms Liew
+Sijie</p>
 </th>
 </tr>
 <tr>
