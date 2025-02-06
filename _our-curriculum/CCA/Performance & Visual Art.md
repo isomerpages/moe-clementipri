@@ -183,6 +183,9 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Tuesday 2 - 4pm (when needed)</strong>
+</p>
+<p></p>
 <p><strong>Thursday</strong>
 </p>
 <p><strong>3.30-5.30pm</strong>
@@ -193,7 +196,7 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Fiona Ang, Mdm Tay Ming  Yan, Mdm Koh Siok Hui and Mdm Yani</strong>
+<p><strong>Mrs Fiona Ang, Mdm Koh Siok Hui and Mdm Yani</strong>
 </p>
 </td>
 </tr>
