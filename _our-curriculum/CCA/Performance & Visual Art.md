@@ -19,7 +19,7 @@ third_nav_title: CCA
 <p>Art Club</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Thurs 3.30 p.m. to 5.30 p.m</p>
+<p>Tuesday and Thursday 3.30 p.m. to 5.30 p.m</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Art Rooms 1 &amp; 2</p>
