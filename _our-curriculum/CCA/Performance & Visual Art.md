@@ -25,7 +25,7 @@ third_nav_title: CCA
 <p>Art Rooms 1 &amp; 2</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mrs Adeline Yeong, Ms Tracy Quek, Ms Melissa Wong and Ms Hardyanti Sapuan</p>
+<p>Mrs Adeline Yeong, Ms Tracy Quek and Ms Yvonne Fan</p>
 </th>
 </tr>
 <tr>
