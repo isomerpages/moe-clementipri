@@ -23,11 +23,11 @@ third_nav_title: CCA
 </p>
 </td>
 <th rowspan="1" colspan="1">
-<p>Jurong East Sports Hall</p>
+<p>Clementi Sports Complex and School ISH</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mdm Neo Swee Hong, Mdm Liu Hua, Mdm Lee Wan Yi, Mr Tan Lin How, Ms Liew
-Sijie</p>
+<p>Mdm Neo Swee Hong, Mdm Liu Hua, Mdm Lee Wan Yi, Mr Tan Lin How and Ms
+Liew Sijie</p>
 </th>
 </tr>
 <tr>
@@ -59,9 +59,9 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mon &amp; Thu, school team, 3.30pm-5.30pm</strong>
+<p><strong>Monday &amp; Thursday (school team: 3.30pm-5.30pm),</strong>
 </p>
-<p><strong>Tue, non school team, 2.30pm-4.30pm</strong>
+<p><strong>Tuesday (non school team: 2.30pm-4.30pm)</strong>
 </p>
 <p></p>
 </td>
@@ -70,7 +70,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Wu Xin, Ms Ng Dan Ying, Ms Mandy Chan and Mdm Shahada</strong>
+<p><strong>Mr Wu Xin, Ms Ng Dan Ying, Ms Mandy Chan, Mdm Ng Yee Yun and Mdm Shahada</strong>
 </p>
 </td>
 </tr>
@@ -115,7 +115,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Miss See Shen Leng, Mrs Kristale Teo, Miss Lee Jia Rui, Mr Du Guang, Mdm Yani</strong>
+<p><strong>Miss See Shen Leng, Mrs Kristale Teo, Miss Lee Jia Rui and Mr Du Guang</strong>
 </p>
 </td>
 </tr>
@@ -145,9 +145,9 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tues 2.30-4.30pm (Recreational P4 pupils &amp; potential school team players);</strong>
+<p><strong>Tuesday 2.30-4.30pm (Recreational P4 pupils &amp; potential school team players);</strong>
 </p>
-<p><strong>Thurs 3.30-5.30pm (Recreational P5 pupils &amp; potential school team players)</strong>
+<p><strong>Thursday 3.30-5.30pm (Recreational P5 pupils &amp; potential school team players)</strong>
 </p>
 <p></p>
 </td>
@@ -156,7 +156,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Sham, Mdm Ruzanna, Mr Bala, Mr Edward Long, Mdm Latheefa, Mdm Melissa Wong</strong>
+<p><strong>Mr Sham, Mdm Ruzanna, Mr Bala, Mr Edward Long and Mdm Melissa Wong</strong>
 </p>
 </td>
 </tr>
@@ -196,7 +196,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Jesse Wan, Miss Clara Yeo, Ms Shahidah, Ms Teo Ming Yan</strong>
+<p><strong>Mrs Jesse Wan, Miss Clara Yeo, Ms Shahidah, Mdm Tay Ming Yan</strong>
 </p>
 <p></p>
 </td>
@@ -237,7 +237,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Cynthia Lim, Mdm Josephine Wong, Mdm Uni</strong>
+<p><strong>Mdm Cynthia Lim, Mdm Josephine Wong and Mdm Celeste Wong Siow Yen</strong>
 </p>
 </td>
 </tr>

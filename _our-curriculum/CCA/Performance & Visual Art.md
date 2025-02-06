@@ -19,7 +19,7 @@ third_nav_title: CCA
 <p>Art Club</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Thurs 3.30 p.m. to 5.30 p.m</p>
+<p>Tuesday and Thursday 3.30 p.m. to 5.30 p.m</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Art Rooms 1 &amp; 2</p>
@@ -183,6 +183,9 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Tuesday 2 - 4pm (when needed)</strong>
+</p>
+<p></p>
 <p><strong>Thursday</strong>
 </p>
 <p><strong>3.30-5.30pm</strong>
@@ -193,7 +196,7 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Fiona Ang, Mdm Corina Koh, Mdm Koh Siok Hui,</strong>
+<p><strong>Mrs Fiona Ang, Mdm Koh Siok Hui and Mdm Yani</strong>
 </p>
 </td>
 </tr>
@@ -235,7 +238,7 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Yanis, Mdm Christy Koh, Mdm Celeste Wong Siow Yen</strong>
+<p><strong>Mdm Yanis, Mdm Christy Koh and Mdm Uni</strong>
 </p>
 </td>
 </tr>
