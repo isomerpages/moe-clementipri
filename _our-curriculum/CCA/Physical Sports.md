@@ -115,7 +115,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Miss See, Mrs Kristale Teo, Miss Lee Jia Rui</strong>
+<p><strong>Miss See Shen Leng, Mrs Kristale Teo, Miss Lee Jia Rui, Mr Du Guang, Mdm Yani</strong>
 </p>
 </td>
 </tr>
