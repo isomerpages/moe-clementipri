@@ -156,7 +156,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Sham, Mdm Ruzanna, Mr Bala, Mr Edward, Miss Aisyah</strong>
+<p><strong>Mr Sham, Mdm Ruzanna, Mr Bala, Mr Edward Long, Mdm Latheefa, Mdm Melissa Wong</strong>
 </p>
 </td>
 </tr>
