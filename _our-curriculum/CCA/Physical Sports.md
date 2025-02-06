@@ -59,7 +59,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Monday &amp; Thursday (school team: 3.30pm-5.30pm), </strong>
+<p><strong>Monday &amp; Thursday (school team: 3.30pm-5.30pm),</strong>
 </p>
 <p><strong>Tuesday (non school team: 2.30pm-4.30pm)</strong>
 </p>
@@ -196,7 +196,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Jesse Wan, Miss Clara Yeo, Ms Shahidah, Ms Teo Ming Yan</strong>
+<p><strong>Mrs Jesse Wan, Miss Clara Yeo, Ms Shahidah, Mdm Tay Ming Yan</strong>
 </p>
 <p></p>
 </td>
