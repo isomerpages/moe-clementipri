@@ -25,7 +25,7 @@ third_nav_title: CCA
 <p>Art Rooms 1 &amp; 2</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mrs Adeline Yeong, Ms Tracy Quek, Ms Melissa Wong and Ms Hardyanti Sapuan</p>
+<p>Mrs Adeline Yeong, Ms Tracy Quek and Ms Yvonne Fan</p>
 </th>
 </tr>
 <tr>
@@ -107,7 +107,7 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Joann Han, Mdm Suraya, Mdm Lakshmi</strong>
+<p><strong>Mdm Amy Yee Yen Bee, Ms Joann Han, Mdm Lakshmi</strong>
 </p>
 </td>
 </tr>
@@ -153,7 +153,7 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Aletheia Ng, Mdm Santhi, Ms Koh Yu Xin</strong>
+<p><strong>Mdm Aletheia Ng, Mdm Santhi, Mrs Tan Sau Hoi</strong>
 </p>
 </td>
 </tr>
@@ -193,7 +193,7 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lily Guan, Mdm Koh Siok Hui, Mrs Fiona Ang</strong>
+<p><strong>Mrs Fiona Ang, Mdm Corina Koh, Mdm Koh Siok Hui,</strong>
 </p>
 </td>
 </tr>
@@ -235,7 +235,7 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Yanis, Mdm Christy, Mdm Syafiqah</strong>
+<p><strong>Mdm Yanis, Mdm Christy Koh, Mdm Celeste Wong Siow Yen</strong>
 </p>
 </td>
 </tr>
