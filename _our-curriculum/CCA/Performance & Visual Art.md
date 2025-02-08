@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCA
 ---
-<h4>Performance &amp; Visual Art</h4>
+<h4>Performance &amp; Visual Arts</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -230,7 +230,7 @@ third_nav_title: CCA
 <td rowspan="1" colspan="1">
 <p><strong>Thursday</strong>
 </p>
-<p><strong>330-530pm</strong>
+<p><strong>3.30-5.30pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
