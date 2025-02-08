@@ -19,7 +19,7 @@ third_nav_title: CCA
 <p>Badminton</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>Tuesday, all players, 2.30pm - 4.30pm<br>Thursday, school team players, 3.30pm - 5.30pm</strong>
+<p><strong>Tuesday( all players:  2.30pm - 4.30pm)<br>Thursday (school team players: 3.30pm - 5.30pm)</strong>
 </p>
 </td>
 <th rowspan="1" colspan="1">
@@ -104,7 +104,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tue, (All floorballers, 2.30pm-4.30pm:</strong>
+<p><strong>Tuesday (All floorballers, 2.30pm-4.30pm:</strong>
 </p>
 <p><strong>Thursday (School Team, 3.30-5.30pm)</strong>
 </p>
@@ -188,7 +188,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tue, 2.30pm-4.30pm; Thursday 3,30-5.30pm (Only during competitions and performances)</strong>
+<p><strong>Tuesday, 2.30pm-4.30pm; Thursday 3,30-5.30pm (Only during competitions and performances)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -229,7 +229,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tue, 2.15pm-4.15pm</strong>
+<p><strong>Tuesday, 2.15pm-4.15pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

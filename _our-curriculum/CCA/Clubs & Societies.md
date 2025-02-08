@@ -20,7 +20,7 @@ third_nav_title: CCA
 </th>
 <th rowspan="1" colspan="1">
 <p>Tuesday
-<br>230-430pm</p>
+<br>2.30-4.30pm</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Computer Lab 2</p>
@@ -58,7 +58,7 @@ and Ms Krishnan</p>
 <td rowspan="1" colspan="1">
 <p><strong>Tuesday</strong>
 </p>
-<p><strong>230-430pm</strong>
+<p><strong>2.30-4.30pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -100,7 +100,7 @@ and Ms Krishnan</p>
 <td rowspan="1" colspan="1">
 <p><strong>Tuesday</strong>
 </p>
-<p><strong>230-430pm</strong>
+<p><strong>2.30-4.30pm</strong>
 </p>
 <p></p>
 </td>
@@ -143,7 +143,7 @@ and Ms Krishnan</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tuesdays</strong>
+<p><strong>Tuesday</strong>
 </p>
 <p><strong>2.30 pm - 4.30 pm</strong>
 </p>
