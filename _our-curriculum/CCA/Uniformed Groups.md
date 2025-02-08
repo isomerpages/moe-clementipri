@@ -19,7 +19,7 @@ third_nav_title: CCA
 <p>Brownies</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Tuesdays</p>
+<p>Tuesday</p>
 <p>2.30 pm - 4.30 pm</p>
 </th>
 <th rowspan="1" colspan="1">
