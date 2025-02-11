@@ -12,3 +12,5 @@ description: ""
 </p>
 <p><a href="https://flic.kr/s/aHBqjBYZbN" rel="noopener nofollow" target="_blank">P5 Camp 2025</a>
 </p>
+<p><a href="https://flic.kr/s/aHBqjC23CA" rel="noopener nofollow" target="_blank">Chinese New Year Celebrations 2025</a>
+</p>
