@@ -1,0 +1,8 @@
+collections:
+  after-school-programmes:
+    output: true
+    order:
+      - Enrichment/.keep
+      - Enrichment/Overview.md
+      - MOE Based Remediation.md
+      - School Based Remediation.md

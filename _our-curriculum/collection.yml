@@ -1,0 +1,26 @@
+collections:
+  our-curriculum:
+    output: true
+    order:
+      - Total Curriculum.md
+      - English.md
+      - Mathematics.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Chinese Language.md
+      - Mother Tongue/Malay Language.md
+      - Mother Tongue/Tamil Language.md
+      - Physical Education.md
+      - Aesthetics/.keep
+      - Aesthetics/Visual Art.md
+      - Aesthetics/Music.md
+      - Science.md
+      - CCE/.keep
+      - CCE/Character & Citizenship Education.md
+      - CCE/Social Studies and NESS.md
+      - CCE/Student Leadership.md
+      - CCE/Sexuality Education.md
+      - CCA/.keep
+      - CCA/Physical Sports.md
+      - CCA/Performance & Visual Art.md
+      - CCA/Uniformed Groups.md
+      - CCA/Clubs & Societies.md

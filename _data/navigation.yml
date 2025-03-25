@@ -1,0 +1,75 @@
+logo: /images/sch logo.jpg
+links:
+  - title: Our Blueprint
+    url: /beginnings-our-history/
+    sublinks:
+      - title: Beginnings (Our History)
+        url: /beginnings-our-history
+      - title: Principals' Milestones
+        url: /principals-milestones
+      - title: Principal's Message 2025
+        url: /parents-info/principal-message/
+      - title: School Crest
+        url: /school-crest/
+      - title: School Vision Mission & Values
+        url: /school-vision-mission/
+      - title: School Song
+        url: /school-song/
+  - title: Our Story
+    collection: our-story
+  - title: Our Heartwork
+    url: /stretch-programmes/
+    sublinks:
+      - title: Stretch Programmes
+        url: /stretch-programmes/
+      - title: Learning for Life Programme
+        url: /learning-for-life-programme/
+      - title: Applied Learning Programme
+        url: /applied-learning-programme/
+  - title: Our Curriculum
+    url: /total-curriculum
+    sublinks:
+      - title: Total Curriculum
+        url: /total-curriculum
+      - title: Character & Citizenship Edu
+        url: /character-and-citizenship-education/
+      - title: English
+        url: /english
+      - title: Mathematics
+        url: /mathematics/
+      - title: Science
+        url: /science/
+      - title: Mother Tongue
+        url: /chinese/
+      - title: Physical Education
+        url: /physical-education
+      - title: Aesthetics
+        url: /visualart/
+      - title: Co-Curricular Activity
+        url: /physical-sports/
+  - title: Our Resources
+    url: /parents-info/principal-message/
+    sublinks:
+      - title: For Teachers
+        url: /quick-links/for-teachers/
+      - title: For Students
+        url: /quick-links/for-students/student-learning-space/
+      - title: For Parents
+        url: /parents-info/notification-letters/
+  - title: Our Stakeholders
+    url: /educators/
+    sublinks:
+      - title: Educators
+        url: /educators
+      - title: School Management Committee
+        url: /school-management-committee
+      - title: Family Matters @ School
+        url: /family-matters-school
+      - title: Parent Support Group
+        url: /parent-support-group
+      - title: School Administrative Staff
+        url: /school-and-administrative-staff
+      - title: School Advisory Committee
+        url: /school-advisory-committee
+      - title: Non Teaching Staff
+        url: /parents-info/our-people/nonteachingstaff/

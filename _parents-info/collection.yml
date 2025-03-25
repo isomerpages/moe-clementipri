@@ -1,0 +1,31 @@
+collections:
+  parents-info:
+    output: true
+    order:
+      - Memories @ Flickr.md
+      - School Information/.keep
+      - School Information/School Hours.md
+      - School Information/School Rules.md
+      - School Information/Visitors to the School.md
+      - School Information/Opening of School Gate for Visitors.md
+      - School Information/Student Protection Plan Insurance.md
+      - School Information/Paying School and Miscellaneous Fees GIRO Deduction.md
+      - School Information/Non Giro Payment.md
+      - School Information/Descriptors for Achievement Bands and Grades (P1 to
+        P4).md
+      - School Information/Grading Scheme for P5 and P6 Standard Subjects.md
+      - School Information/Grading Scheme for P5 and P6 Foundation Subjects.md
+      - School Information/Edusave Awards For Primary School.md
+      - School Information/Service Providers.md
+      - Parenting Tips.md
+      - Notification Letters/.keep
+      - Notification Letters/Overview.md
+      - Notification Letters/Primary 1.md
+      - Notification Letters/Primary 2.md
+      - Notification Letters/Primary 3.md
+      - Notification Letters/Primary 4.md
+      - Notification Letters/Primary 5.md
+      - Notification Letters/Primary 6.md
+      - Forms.md
+      - Bus Operator.md
+      - Onboarding Parents Gateway (PG).md

@@ -1,0 +1,6 @@
+collections:
+  our-story:
+    output: true
+    order:
+      - Who We Are.md
+      - Who Believes in Dreaming Big.md
