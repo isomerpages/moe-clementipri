@@ -2,5 +2,6 @@ collections:
   our-story:
     output: true
     order:
+      - Who Will be Remembered.md
       - Who We Are.md
       - Who Believes in Dreaming Big.md
