@@ -14,3 +14,5 @@ description: ""
 </p>
 <p><a href="https://flic.kr/s/aHBqjC23CA" rel="noopener nofollow" target="_blank">Chinese New Year Celebrations 2025</a>
 </p>
+<p><a href="https://flic.kr/s/aHBqjC7v1m" rel="noopener nofollow" target="_blank">Prize Giving Day 2025</a>
+</p>
