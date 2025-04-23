@@ -16,3 +16,7 @@ description: ""
 </p>
 <p><a href="https://flic.kr/s/aHBqjC7v1m" rel="noopener nofollow" target="_blank">Prize Giving Day 2025</a>
 </p>
+<p><a href="https://flic.kr/s/aHBqjC93Av" rel="noopener nofollow" target="_blank">Hari Raya 2025</a>
+</p>
+<p><a href="https://flic.kr/s/aHBqjC8WqG" rel="noopener nofollow" target="_blank">Hari Raya 2025 Recess activities</a>
+</p>
