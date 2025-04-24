@@ -245,14 +245,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Liaw Li Ching</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ST/Educational Support</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Suraya Yacob</p>
 </td>
 <td rowspan="1" colspan="1">
