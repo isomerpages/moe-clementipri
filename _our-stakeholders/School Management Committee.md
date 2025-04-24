@@ -77,7 +77,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Rong Wei Joseph</p>
+<p>Mr Joseph Ang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ICT</p>
