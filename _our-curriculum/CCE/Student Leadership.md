@@ -37,10 +37,10 @@ their capacity to serve and lead with diligence and humility.</p>
 tier to take on further roles in the next tier.
 <br>
 <br><strong>Tier 3 : School Level Leadership</strong>
-<br>Tier 3 includes student leaders who demonstrate strong leadership skills
-and are provided with opportunities to lead and help in school events and
-activities. They learn to collaborate among themselves, and are seen as
-advocates of care and support for fellow Clementians.</p>
+<br>Tier 3 includes Clementians who demonstrate strong leadership skills and
+are provided with opportunities to lead and help in school events and activities.
+They learn to collaborate among themselves, and are seen as advocates of
+care and support for their peers.</p>
 <p>Leadership positions at this tier include :</p>
 <p>• Prefects
 <br>• NESS Ambassadors
@@ -48,7 +48,7 @@ advocates of care and support for fellow Clementians.</p>
 <br>• CCA leaders</p>
 <p><strong>Tier 4: Leader of Leaders</strong>
 </p>
-<p>Tier 4 includes the leaders of the respective Tier 3 leaders' group. They
+<p>Tier 4 includes the leaders of the respective executive committees. They
 are the voice of Clementians and are the facilitators to lead and engage
 the Tier 3 leaders. The school also aims to promote student agency through
 the Tier 4 group where they are given opportunities to plan and organise
