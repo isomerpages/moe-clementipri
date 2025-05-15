@@ -12,6 +12,10 @@ third_nav_title: CCE
 <p><strong>The school has put in place a tiered leadership structure to develop the leadership competencies of our student leaders. The tiered design of the approach caters to the implementation of various Student Leaders' Developent activities for different groups: specific segments of the population or the entire cohort . This differentiated approach ensures all pupils receive a baseline level of development while targeted training will stretch positional leaders with role-specific skills.</strong>
 </p>
 </blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Student_Leadership_logo.png">
+</div>
 <h4>Tiered Approach</h4>
 <p><strong>Tier 1 : Personal Leadership </strong>
 <br>Tier 1 includes all Clementians. The focus is on developing in each and
@@ -37,10 +41,10 @@ their capacity to serve and lead with diligence and humility.</p>
 tier to take on further roles in the next tier.
 <br>
 <br><strong>Tier 3 : School Level Leadership</strong>
-<br>Tier 3 includes student leaders who demonstrate strong leadership skills
-and are provided with opportunities to lead and help in school events and
-activities. They learn to collaborate among themselves, and are seen as
-advocates of care and support for fellow Clementians.</p>
+<br>Tier 3 includes Clementians who demonstrate strong leadership skills and
+are provided with opportunities to lead and help in school events and activities.
+They learn to collaborate among themselves, and are seen as advocates of
+care and support for their peers.</p>
 <p>Leadership positions at this tier include :</p>
 <p>• Prefects
 <br>• NESS Ambassadors
@@ -48,7 +52,7 @@ advocates of care and support for fellow Clementians.</p>
 <br>• CCA leaders</p>
 <p><strong>Tier 4: Leader of Leaders</strong>
 </p>
-<p>Tier 4 includes the leaders of the respective Tier 3 leaders' group. They
+<p>Tier 4 includes the leaders of the respective executive committees. They
 are the voice of Clementians and are the facilitators to lead and engage
 the Tier 3 leaders. The school also aims to promote student agency through
 the Tier 4 group where they are given opportunities to plan and organise
