@@ -12,6 +12,10 @@ third_nav_title: CCE
 <p><strong>The school has put in place a tiered leadership structure to develop the leadership competencies of our student leaders. The tiered design of the approach caters to the implementation of various Student Leaders' Developent activities for different groups: specific segments of the population or the entire cohort . This differentiated approach ensures all pupils receive a baseline level of development while targeted training will stretch positional leaders with role-specific skills.</strong>
 </p>
 </blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Student_Leadership_logo.png">
+</div>
 <h4>Tiered Approach</h4>
 <p><strong>Tier 1 : Personal Leadership </strong>
 <br>Tier 1 includes all Clementians. The focus is on developing in each and
