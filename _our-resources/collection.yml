@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - For Parents.md
+      - For Students/T&L Survey.md
       - For Students/Check in & Getting to know you better.md
       - For Students/.keep
       - For Students/Student Learning Space.md
