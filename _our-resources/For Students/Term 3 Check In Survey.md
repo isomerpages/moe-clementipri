@@ -10,7 +10,7 @@ third_nav_title: For Students
 <p>Lower Primary Check in Survey:</p>
 </li>
 </ol>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vKLR05</a>
+<p><a href="https://forms.moe.edu.sg/forms/vKLR05" rel="noopener nofollow" target="_blank">https://forms.moe.edu.sg/forms/vKLR05</a>
 </p>
 <p>&nbsp;</p>
 <ol start="2" data-tight="true" class="tight">
