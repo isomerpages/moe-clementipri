@@ -18,7 +18,7 @@ third_nav_title: For Students
 <p>Middle Primary Check in Survey:</p>
 </li>
 </ol>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vNBX0D</a>
+<p><a href="https://forms.moe.edu.sg/forms/vNBX0D" rel="noopener nofollow" target="_blank">https://forms.moe.edu.sg/forms/vNBX0D</a>
 </p>
 <p>&nbsp;</p>
 <ol start="3" data-tight="true" class="tight">
@@ -26,5 +26,5 @@ third_nav_title: For Students
 <p>Upper Primary Check in Survey</p>
 </li>
 </ol>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/JBBq0w</a>
+<p><a href="https://forms.moe.edu.sg/forms/JBBq0w" rel="noopener nofollow" target="_blank">https://forms.moe.edu.sg/forms/JBBq0w</a>
 </p>
