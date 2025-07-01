@@ -1370,28 +1370,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TAN SWEE CHEE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MDM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PEK MEOW SIEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>MDM</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1425,17 +1403,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>JOSEPHINE CHAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>MDM</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1451,17 +1418,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>YAP LAY HONG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MDM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SALAMAH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
