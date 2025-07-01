@@ -1260,6 +1260,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YASMIN NISHA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Adj School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1289,6 +1300,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>NADIAH BTE ABDUL RAHIM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEN OFFICER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FARWIZAH UBAIDAH</p>
 </td>
 </tr>
 <tr>
