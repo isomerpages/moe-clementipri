@@ -64,14 +64,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ibrahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Nazrin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,10 +96,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tay Bee Geok Erica</p>
+<p>Ms Patsy Gan Siew Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adjunct CSO</p>
+<p>CSO</p>
 </td>
 </tr>
 <tr>
