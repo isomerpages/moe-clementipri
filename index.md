@@ -21,11 +21,20 @@ sections:
         - title: Follow us on Instagram!
           description: ""
           url: https://www.instagram.com/clementiprimaryofficial/
-  - announcements:
-      title: At A Glance
-      id: announcements
-  - infobar:
-      title: 29 to 30 May
-      id: infobar
-      description: CTP Conference
+  - textcards:
+      title: Announcement
+      id: textcards
+      cards:
+        - title: Term 3 Notification
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Term 2 Notification
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Term 1 Notification
+          description: ""
+          linktext: Learn more
+          url: ""
 ---
