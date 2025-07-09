@@ -28,13 +28,13 @@ sections:
         - title: Term 3 Notification
           description: ""
           linktext: Learn more
-          url: ""
+          url: /files/2025/2025_Term_3_Parent_Notification.pdf
         - title: Term 2 Notification
           description: ""
           linktext: Learn more
-          url: ""
+          url: /files/2025/2025_Term_2_Parent_Notification.pdf
         - title: Term 1 Notification
           description: ""
           linktext: Learn more
-          url: ""
+          url: /files/2025/2025_Start_of_Year_PG_Notification.pdf
 ---
