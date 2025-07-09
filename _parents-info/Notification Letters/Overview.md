@@ -7,6 +7,11 @@ variant: markdown
 ---
 ### Notification Letters
 
+#### 2025
+1. [Term 3 School Notification](/files/2025/2025_Term_3_Parent_Notification.pdf)
+2. [Term 2 School Notification](/files/2025/2025_Term_2_Parent_Notification.pdf)
+3. [Term 1 School Notification](files/2025/2025_Start_of_Year_PG_Notification.pdf)
+
 #### 2024
 1. [Invitation to nominate teachers for National Awards](/files/2024/CTPS_FB_PAT__OYEA.pdf)
 2. [Term 4 School Notification](/files/2024/Term_4_Parent_Notification_2024.pdf)
