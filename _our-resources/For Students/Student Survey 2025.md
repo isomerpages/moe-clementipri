@@ -1,6 +1,6 @@
 ---
-title: Term 3 Check In Survey
-permalink: /term-3-check-in-survey/
+title: Student Survey 2025
+permalink: /student-survey-2025/
 variant: tiptap
 description: ""
 third_nav_title: For Students
