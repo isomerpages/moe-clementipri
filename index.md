@@ -26,7 +26,7 @@ sections:
       id: textcards
       cards:
         - title: Term 4 Notification
-          description: Card description
+          description: ""
           linktext: Learn more
           url: /files/2025/2025_Term_4_Parent_Notification.pdf
         - title: Caring Teacher Award
