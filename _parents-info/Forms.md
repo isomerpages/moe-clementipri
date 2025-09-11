@@ -23,8 +23,11 @@ address. The MOE link is <a href="https://www.moe.gov.sg/primary/transfers" rel=
 <br><a href="/files/2025/MOE_FAS_pamphlet.pdf" rel="noopener nofollow" target="_blank">MOE FAS Pamphlet</a>
 <br><a href="/files/Income%20Family%20Micro%20Insurance%20and%20Savings%20Scheme.pdf" rel="noopener noreferrer nofollow" target="_blank">Income Family Micro Insurance and Savings Scheme</a>
 </p>
+<h4>Waiting List</h4>
+<p><a href="https://form.gov.sg/68b65f33dc3abaac5b1f2357" rel="noopener nofollow" target="_blank">Application Form</a>
+</p>
 <h5>Leave of Absence</h5>
-<p><a href="https://form.gov.sg/60bd8fb1f6792300111b990f" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<p><a href="https://form.gov.sg/68b65d4e10c70779b6ed763e" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 </p>
 <h5>Step-By-Step Redemption Process for Translink Evoucher</h5>
 <p><a href="/files/Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide</a>
