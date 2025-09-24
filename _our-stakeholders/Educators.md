@@ -855,17 +855,6 @@ description: ""
 <p>TAN PECK IMM ADELINE YEONG</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>JOSEPH RACHEL</p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 75px">
