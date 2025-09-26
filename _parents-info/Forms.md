@@ -5,11 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3>Forms</h3>
-<h4>Pupil Matters</h4>
-<h5>Application for Admission or Transfer</h5>
-<p><a href="https://form.gov.sg/#!/5aeff791b80a10001acde2d5" rel="noopener noreferrer nofollow" target="_blank">Application Form</a> 
-<br>Please apply through MOE if the reason of transfer is change of residential
-address. The MOE link is <a href="https://www.moe.gov.sg/primary/transfers" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/transfers</a>
+<h4>Waiting List</h4>
+<p><a href="https://form.gov.sg/68b65f33dc3abaac5b1f2357" rel="noopener nofollow" target="_blank">Application Form</a>
+</p>
+<h5>Leave of Absence</h5>
+<p><a href="https://form.gov.sg/68b65d4e10c70779b6ed763e" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 </p>
 <h5>Edusave</h5>
 <p><a href="/files/Edusave%20English.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a> 
@@ -23,16 +23,12 @@ address. The MOE link is <a href="https://www.moe.gov.sg/primary/transfers" rel=
 <br><a href="/files/2025/MOE_FAS_pamphlet.pdf" rel="noopener nofollow" target="_blank">MOE FAS Pamphlet</a>
 <br><a href="/files/Income%20Family%20Micro%20Insurance%20and%20Savings%20Scheme.pdf" rel="noopener noreferrer nofollow" target="_blank">Income Family Micro Insurance and Savings Scheme</a>
 </p>
-<h4>Waiting List</h4>
-<p><a href="https://form.gov.sg/68b65f33dc3abaac5b1f2357" rel="noopener nofollow" target="_blank">Application Form</a>
-</p>
-<h5>Leave of Absence</h5>
-<p><a href="https://form.gov.sg/68b65d4e10c70779b6ed763e" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
-</p>
 <h5>Step-By-Step Redemption Process for Translink Evoucher</h5>
 <p><a href="/files/Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide</a>
 </p>
 <h5>Mother Tongue Language</h5>
-<p><a href="/files/Application%20to%20Offer%20Non%20Mother%20Tongue%20Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Application to Offer Non-Mother Tongue Language (Chinese/Malay/Tamil)</a> 
-<br><a href="/files/Application%20to%20Offer%20Non%20Tamil%20Indian%20Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Application to Offer Non-Tamil Indian Language</a>
+<p><a href="/files/Forms/Form_1___MTL__8_Dec_2023_.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 1 - MTL (Application </a>
+<a href="/files/Forms/Form_1___MTL__8_Dec_2023_.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Forms/Form_1___MTL__8_Dec_2023_.pdf" rel="noopener noreferrer nofollow" target="_blank">to offer an official Mother Tongue Langua</a>
+<a href="/files/Forms/Form_1___MTL__8_Dec_2023_.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Forms/Form_1___MTL__8_Dec_2023_.pdf" rel="noopener noreferrer nofollow" target="_blank">ge (Chinese/Malay/Tamil)</a> 
+<br><a href="/files/Forms/Form_3___NTIL__8_Dec_2023_.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 3 - NTIL (Application to offer Non-Tamil Indian Language)</a>
 </p>
