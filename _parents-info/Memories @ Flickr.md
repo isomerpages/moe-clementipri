@@ -20,3 +20,5 @@ description: ""
 </p>
 <p><a href="https://flic.kr/s/aHBqjC8WqG" rel="noopener nofollow" target="_blank">Hari Raya 2025 Recess activities</a>
 </p>
+<p><a href="https://flic.kr/s/aHBqjCwbHc" rel="noopener nofollow" target="_blank">CTP-lympics 2025</a>
+</p>
