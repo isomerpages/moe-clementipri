@@ -9,6 +9,10 @@ variant: tiptap
 <h4>2025</h4>
 <ol data-tight="true" class="tight">
 <li>
+<p><a href="/files/2025/P5_Notification_on_YEA_dates_2025.pdf" rel="noopener nofollow" target="_blank">P5 Year End Assessment Schedule 2025</a>
+</p>
+</li>
+<li>
 <p><a href="/files/2025/P5_Foundation.pdf" rel="noopener nofollow" target="_blank">CTPS Primary 5 Foundation Booklist</a>
 </p>
 </li>
