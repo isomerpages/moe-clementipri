@@ -6,6 +6,13 @@ third_nav_title: Notification Letters
 variant: tiptap
 ---
 <h3>Primary 4</h3>
+<h4>2026</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/2026/CTPS__P4.pdf" rel="noopener nofollow" target="_blank">CTPS Primary 4 Booklist</a>
+</p>
+</li>
+</ol>
 <h4>2025</h4>
 <ol data-tight="true" class="tight">
 <li>
