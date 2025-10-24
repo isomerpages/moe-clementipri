@@ -6,6 +6,13 @@ third_nav_title: Notification Letters
 variant: tiptap
 ---
 <h3>Primary 3</h3>
+<h4>2026</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/2026/CTPS__P3.pdf" rel="noopener nofollow" target="_blank">CTPS Primary 3 Booklist</a>
+</p>
+</li>
+</ol>
 <h4>2025</h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -32,23 +39,5 @@ variant: tiptap
 </p>
 </li>
 </ol>
-<h4>2023</h4>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/2023/T3/primary%20three%20year-end%20assessment%20schedule%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Year End assessment schedule 2023</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2023/T1/2023%20Formal%20Assessment%20for%20P3%20(Parent%20notification)%20.pdf" rel="noopener noreferrer nofollow" target="_blank">Formal Assessment for P3</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2023/P3%202023%20BOOKLIST.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Booklist 2023</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2023/T1/2023%20Start%20of%20Year%20Notification_FINAL%20v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Start of Year Notification 2023</a>
-</p>
-</li>
-</ol>
+<h4></h4>
 <p></p>
