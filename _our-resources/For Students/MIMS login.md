@@ -21,3 +21,12 @@ below.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide5.jpg">
 </div>
 <p></p>
+<p>For Primary 1 to 3 students, these are the apps you are able to see.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide6.jpg">
+</div>
+<p>For Primary 4 to 6 students, these are the apps you are able to see.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide7.jpg">
+</div>
+<p>For</p>
