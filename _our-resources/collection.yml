@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - For Parents.md
-      - For Students/MIMS (forgot answer to security challenge questions).md
-      - For Students/MIMS (account locked out).md
       - For Students/.keep
       - For Students/MIMS login.md
       - For Students/MIMS (Self service reset password).md
+      - For Students/MIMS (account locked out).md
+      - For Students/MIMS (forgot answer to security challenge questions).md
       - For Students/Term 4 Check In Survey 2025.md
       - For Students/Student Survey 2025.md
       - For Students/Student Learning Space.md
