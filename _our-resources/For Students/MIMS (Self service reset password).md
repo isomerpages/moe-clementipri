@@ -30,3 +30,4 @@ guidelines on the screen.</p>
 <p>Your password change will take some time to be completed.</p>
 <p>Once password change is successful,</p>
 <p>Click ‘<strong><em>Continue</em></strong>’.</p>
+<p>Click ‘<strong><em>Continue</em></strong>’.</p>
