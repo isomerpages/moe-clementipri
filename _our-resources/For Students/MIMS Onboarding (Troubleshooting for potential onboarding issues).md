@@ -20,4 +20,27 @@ email address (ending with @<a href="http://students.edu.sg" rel="noopener noref
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide15.jpg">
 </div>
-<p></p>
+<p>For issue D, E, F or other MIMS password-related issues, e.g. forgotten
+password or inactive account, please approach your teachers/ school's MIMS
+Student Administrator (SA) via email to reset your password.</p>
+<p><strong>D: </strong>The password you have provided is incorrect.</p>
+<p>Please ensure that you have typed in your MIMS password correctly. Avoid
+keying in your password repeatedly after being prompted “Login failed.”
+as this will cause your account to be locked out.&nbsp;</p>
+<p>if you have earlier set up the Self-Service Password Reset (SSPR) feature,
+you may use this to reset your password.</p>
+<p><strong>E: </strong>Your account has been locked out due to multiple incorrect
+password attempts.</p>
+<p>if you have earlier set up the Self-service Password Reset (SSPR) feature,
+you may use this to reset your password.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide16.jpg">
+</div>
+<p><strong>F:</strong> This screen will be encountered when you select ‘<strong><em>Forgot Password?</em></strong>’
+but MIMS Security Challenge Questions have not been set up.</p>
+<p>Please approach your teachers or MIMS School Administrator for help to
+set up your MIMS Security Challenge Questions and reset your password.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide17.jpg">
+</div>
+<p>F:</p>
