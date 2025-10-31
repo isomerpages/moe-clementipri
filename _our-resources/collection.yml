@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - For Parents.md
+      - For Students/MIMS Onboarding (Troubleshooting for potential onboarding
+        issues).md
       - For Students/.keep
       - For Students/MIMS login.md
       - For Students/MIMS (Self service reset password).md
