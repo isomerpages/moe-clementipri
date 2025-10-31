@@ -43,4 +43,6 @@ set up your MIMS Security Challenge Questions and reset your password.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide17.jpg">
 </div>
-<p>F:</p>
+<p><strong><em>To approach the MIMS School Administrator, please </em>contact the school's General Office at&nbsp;6779 7449&nbsp;or send an email </strong>to&nbsp;
+<a href="mailto:admin_clementi_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">admin_clementi_ps@moe.edu.sg</a>. Please note that requests made after
+3 pm can only be attended to by the next working day.F:</p>
