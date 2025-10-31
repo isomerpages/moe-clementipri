@@ -16,6 +16,8 @@ below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide4.jpg">
 </div>
-<p>
-<br>
-</p>
+<p>This is the landing page that you will see after logging in.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide5.jpg">
+</div>
+<p></p>
