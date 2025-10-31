@@ -14,6 +14,9 @@ and have answered your MIMS&nbsp; challenge questions correctly, you will
 see this screen.</p>
 <p>Click on ‘<strong><em>Unlock Password</em></strong>’ to access your account
 with your existing password.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide13.jpg">
+</div>
 <p>If you are unable to remember your password, you may set a new password
 by clicking on ‘<strong><em>Change Password</em></strong>’</p>
+<p></p>
