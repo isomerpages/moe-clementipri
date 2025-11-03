@@ -29,14 +29,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Cheryl Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal (Acad)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Catherine Chan</p>
 </td>
 <td rowspan="1" colspan="1">
