@@ -59,7 +59,15 @@ description: ""
 <p>Mr Bryan Quek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Media and Audiovisual Specialist</p>
+<p>ICT Associate</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Thang Khaw Dhal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Media and Audio Visual Specialist</p>
 </td>
 </tr>
 <tr>
