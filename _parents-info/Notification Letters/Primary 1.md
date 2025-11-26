@@ -9,6 +9,14 @@ variant: tiptap
 <h4>2026</h4>
 <ol data-tight="true" class="tight">
 <li>
+<p><a href="https://drive.google.com/file/d/1m-2uBCyl2G3DfmcH6AkBmnJmLFUZMPAD/view?usp=drive_link" rel="noopener nofollow" target="_blank">P1 Orientation Video</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1fl5I8VQVJLR7l7ZNa6oJdGUMxpdifQAr/view?usp=drive_link" rel="noopener nofollow" target="_blank">P1 Orientation Day 2025</a>
+</p>
+</li>
+<li>
 <p><a href="/files/2026/CTPS__P1.pdf" rel="noopener nofollow" target="_blank">CTPS Primary 1 Booklist</a>
 </p>
 </li>
