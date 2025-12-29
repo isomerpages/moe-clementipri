@@ -24,7 +24,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Quek Lih Chyn Joyce</p>
+<p>Ms Norlina Tan Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
@@ -36,14 +36,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wee Hing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Adjunct Operations Manager</p>
 </td>
 </tr>
 <tr>
