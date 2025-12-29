@@ -45,7 +45,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tung Ai Jui</p>
+<p>Mr Andrew Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal (Admin)</p>
@@ -101,7 +101,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Geralin Tan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/PE, Aesthetics &amp; CCA</p>
@@ -213,7 +213,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lily Guan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Middle Primary Asst Year Head</p>
