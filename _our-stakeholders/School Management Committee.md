@@ -109,7 +109,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Adeline Tan</p>
+<p>Mr Huang Han Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Student Management</p>
@@ -121,6 +121,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/CCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Adeline Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/E21CC</p>
 </td>
 </tr>
 <tr>
@@ -153,6 +161,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/ICT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ros Leila</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/CCE</p>
 </td>
 </tr>
 <tr>
