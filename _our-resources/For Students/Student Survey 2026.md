@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: For Students
 ---
-<p>Link for Student Survey 2025</p>
-<p><a href="https://forms.moe.edu.sg/forms/JqyWKk" rel="noopener nofollow" target="_blank">https://forms.moe.edu.sg/forms/JqyWKk</a>
+<p><a href="https://forms.moe.edu.sg/forms/vRaLG4" rel="noopener nofollow" target="_blank">P3 and P4 Check In Survey</a>
+</p>
+<p><a href="https://forms.moe.edu.sg/forms/oOqQGg" rel="noopener nofollow" target="_blank">P5 and P6 Check in Survey</a>
+</p>
+<p><a href="https://forms.moe.edu.sg/forms/vXjDRl" rel="noopener nofollow" target="_blank">Getting to know you</a>
 </p>
