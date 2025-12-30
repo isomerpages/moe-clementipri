@@ -37,8 +37,4 @@ sections:
           description: Caring Teacher Award Nominations 2026
           linktext: Learn more
           url: /files/2025/Caring_Teacher_Award_2026.pdf
-        - title: Term 3 Notification
-          description: ""
-          linktext: Learn more
-          url: /files/2025/2025_Term_3_Parent_Notification.pdf
 ---
