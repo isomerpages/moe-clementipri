@@ -25,20 +25,16 @@ sections:
       title: Announcement
       id: textcards
       cards:
-        - title: PAT and OYEA 2026
-          description: ""
-          linktext: Learn more
-          url: /files/2025/PAT___OYEA_2026.pdf
-        - title: Term 4 Notification
+        - title: Term 1 Notification 2026
           description: ""
           linktext: Learn more
           url: /files/2025/2025_Term_4_Parent_Notification.pdf
+        - title: PAT and OYEA 2026
+          description: ""
+          linktext: Learn more
+          url: /files/2026/2026_Start_of_Year_Notification.pdf
         - title: Caring Teacher Award
           description: Caring Teacher Award Nominations 2026
           linktext: Learn more
           url: /files/2025/Caring_Teacher_Award_2026.pdf
-        - title: Term 3 Notification
-          description: ""
-          linktext: Learn more
-          url: /files/2025/2025_Term_3_Parent_Notification.pdf
 ---
