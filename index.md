@@ -28,7 +28,7 @@ sections:
         - title: Term 1 Notification 2026
           description: ""
           linktext: Learn more
-          url: /files/2025/2025_Term_4_Parent_Notification.pdf
+          url: /files/2026/2026_Start_of_Year_Notification.pdf
         - title: PAT and OYEA 2026
           description: ""
           linktext: Learn more
