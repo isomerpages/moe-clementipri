@@ -57,3 +57,8 @@ Before Self.</p>
 <p>Vimalenthiran Vijayasingam</p>
 <p>Principal, Clementi Primary School</p>
 <p></p>
+<p></p>
+<h4>Archive</h4>
+<p><a href="/files/2025/2025_Back_to_School_Message.pdf" rel="noopener nofollow" target="_blank">Principal's Message 2025</a>
+</p>
+<p></p>
