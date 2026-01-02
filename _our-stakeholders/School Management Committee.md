@@ -101,14 +101,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/PE, Aesthetics &amp; CCA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Huang Han Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -225,14 +217,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Middle Primary Year Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Middle Primary Asst Year Head</p>
 </td>
 </tr>
 <tr>

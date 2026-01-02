@@ -772,7 +772,7 @@ description: ""
 <p>P4 PERSEVERANCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MRS</p>
+<p>MS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>KRISHNAN</p>
@@ -1235,7 +1235,7 @@ description: ""
 <p>MDM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JEAN HENG</p>
+<p>CHRISTY KOH</p>
 </td>
 </tr>
 <tr>
