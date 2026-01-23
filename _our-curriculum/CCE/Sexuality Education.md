@@ -35,7 +35,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education</p>
-<p><strong>Overview of CLEMENTI Primary School’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of CLEMENTI Primary School’s Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
@@ -82,7 +82,7 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="4">
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 </th>
 </tr>
@@ -196,7 +196,7 @@ and how to seek help for themselves and their friends.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 </td>
 </tr>
@@ -244,7 +244,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -261,7 +261,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4</p>
+<p>Term 1 Week 10</p>
 </td>
 </tr>
 </tbody>
