@@ -9,6 +9,10 @@ variant: tiptap
 <h4>2026</h4>
 <ol data-tight="true" class="tight">
 <li>
+<p><a href="https://drive.google.com/file/d/1Up5J_Tw59sDz5yH1i-fWDMUmeS2-a1Lu/view?usp=sharing" rel="noopener nofollow" target="_blank">P6 Parents Briefing Slides</a>
+</p>
+</li>
+<li>
 <p><a href="/files/2026/CTPS__P6.pdf" rel="noopener nofollow" target="_blank">CTPS Primary 6 Booklist</a>
 </p>
 </li>
