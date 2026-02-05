@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Learning Platforms/Information and Communications Technology (ICT).md
       - Learning Platforms/.keep
       - Total Curriculum.md
       - English.md
