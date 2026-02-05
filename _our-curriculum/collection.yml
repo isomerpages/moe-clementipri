@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Information and Communications Technology (ICT).md
       - Total Curriculum.md
       - English.md
       - Mathematics.md
@@ -25,3 +24,4 @@ collections:
       - CCA/Performance & Visual Art.md
       - CCA/Uniformed Groups.md
       - CCA/Clubs & Societies.md
+      - Information and Communications Technology (ICT).md
