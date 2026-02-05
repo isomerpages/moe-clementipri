@@ -112,5 +112,4 @@ learning and group projects</p>
 to learn at their own pace and explore interests</p>
 </li>
 </ul>
-<p><strong>Personalised Learning</strong>
-</p>
+<p></p>
