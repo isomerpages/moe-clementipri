@@ -13,6 +13,9 @@ to use technology as a tool to cultivate independent, engaged learners
 who are adept communicators and collaborators, equipped with essential
 information literacy skills.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/e21cc.png">
+</div>
 <p><strong>Alignment with EdTech Masterplan 2030</strong>
 </p>
 <p>Our ICT programme supports the three key goals of Singapore's EdTech Masterplan
