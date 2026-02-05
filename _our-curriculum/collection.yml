@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Comms and Learning Platforms/.keep
       - Total Curriculum.md
       - English.md
       - Mathematics.md
