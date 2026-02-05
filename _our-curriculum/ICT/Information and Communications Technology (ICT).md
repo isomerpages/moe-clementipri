@@ -1,6 +1,6 @@
 ---
 title: Information and Communications Technology (ICT)
-permalink: /information-and-communications-technology-ict/
+permalink: /ict/
 variant: tiptap
 description: ""
 third_nav_title: ICT
@@ -112,5 +112,4 @@ learning and group projects</p>
 to learn at their own pace and explore interests</p>
 </li>
 </ul>
-<p><strong>Personalised Learning</strong>
-</p>
+<p></p>
