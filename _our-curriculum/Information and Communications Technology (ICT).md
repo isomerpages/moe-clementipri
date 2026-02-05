@@ -75,3 +75,41 @@ ICT tools not just for content delivery, but specifically to foster key
 </li>
 </ul>
 <p></p>
+<p><strong>Communication and Learning Platforms</strong>
+</p>
+<p><strong>MIMS (MOE Identity Management System):</strong> All students receive
+a MIMS account essential for accessing academic applications and resources.</p>
+<p><strong>Parents Gateway (PG):</strong> Primary communication channel accessible
+via mobile app using Singpass.</p>
+<p><strong>Student Learning Space (SLS):</strong> Key platform for assignments
+and AI-enabled learning tools.</p>
+<p><strong>Google Apps:</strong> Integrated learning tools accessible through
+MIMS login.</p>
+<p><strong>ClassDojo:</strong> Communication platform for classroom updates.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>SLS as a Key Enabler of the EdTech Masterplan 2030</strong>
+</p>
+<p>The school taps on the Singapore Student Learning Space (SLS) V2 as a
+key enabler in supporting the ICT curriculum. Digital literacy and AI literacy
+lessons are hosted on SLS and the school will provide opportunities for
+students to go through these lessons while integrating them within the
+total curriculum.</p>
+<p>Our teachers employ <strong>e-Pedagogy</strong> principles aligned with
+the EdTech Masterplan 2030, focusing on:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Active Learning:</strong>&nbsp;Students engage with technology
+as creators, not just consumers</p>
+</li>
+<li>
+<p><strong>Collaborative Learning:</strong>&nbsp;Technology facilitates peer-to-peer
+learning and group projects</p>
+</li>
+<li>
+<p><strong>Self-Directed Learning:</strong>&nbsp;Digital tools enable students
+to learn at their own pace and explore interests</p>
+</li>
+</ul>
+<p><strong>Personalised Learning</strong>
+</p>
