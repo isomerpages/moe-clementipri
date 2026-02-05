@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Digital Literacy and Technological Skills (DLTS)@ CTP.md
       - Total Curriculum.md
       - English.md
       - Mathematics.md
