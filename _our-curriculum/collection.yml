@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Information and Communications Technology (ICT).md
-      - Learning Platforms/.keep
       - Total Curriculum.md
       - English.md
       - Mathematics.md
