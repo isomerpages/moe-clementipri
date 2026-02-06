@@ -7,6 +7,11 @@ third_nav_title: ICT
 ---
 <p><strong>Information &amp; Communications Technology (ICT)</strong>
 </p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xUf4ERfQ1_Q?si=3_E4fU0NBYV9i0a4"></iframe>
+</div>
+<p></p>
 <p>Clementi Primary School’s educational approach aligns with Singapore's
 national educational strategies, specifically the <strong>EdTech Masterplan 2030</strong> and
 the <strong>21st Century Competencies (21CC)</strong> framework. We strive
