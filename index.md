@@ -28,7 +28,7 @@ sections:
         - title: Term 2 Notification 2026
           description: ""
           linktext: Learn more
-          url: /files/2026/2026_Start_of_Year_Notification.pdf
+          url: /files/2026/Term_2_School_Notification_2026.pdf
         - title: Term 1 Notification 2026
           description: ""
           linktext: Learn more
