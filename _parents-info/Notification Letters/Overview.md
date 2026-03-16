@@ -9,6 +9,10 @@ variant: tiptap
 <h4>2026</h4>
 <ol data-tight="true" class="tight">
 <li>
+<p><a href="/files/2026/Term_2_School_Notification_2026.pdf" rel="noopener nofollow" target="_blank">Term 2 School Notifcation 2026</a>
+</p>
+</li>
+<li>
 <p><a href="/files/2026/2026_Start_of_Year_Notification.pdf" rel="noopener nofollow" target="_blank">Term 1 School Notification 2026</a>
 </p>
 </li>
@@ -28,7 +32,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="files/2025/2025_Start_of_Year_PG_Notification.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 School Notification</a>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Term 1 School Notification</a>
 </p>
 </li>
 </ol>
