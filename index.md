@@ -25,6 +25,10 @@ sections:
       title: Announcement
       id: textcards
       cards:
+        - title: Term 2 Notification 2026
+          description: ""
+          linktext: Learn more
+          url: /files/2026/2026_Start_of_Year_Notification.pdf
         - title: Term 1 Notification 2026
           description: ""
           linktext: Learn more
