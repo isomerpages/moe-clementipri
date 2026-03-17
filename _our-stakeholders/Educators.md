@@ -1505,17 +1505,6 @@ description: ""
 <p>MDM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YAP LAY HONG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MDM</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>ONG CHAI SEN</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1568,10 +1557,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MR</p>
+<p>MDM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HABIB NASIRUDIN</p>
+<p>NG SOO LIAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
