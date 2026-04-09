@@ -3,11 +3,11 @@ title: Visual Art
 permalink: /visualart/
 variant: tiptap
 description: ""
-third_nav_title: Aesthetics
+third_nav_title: PAM
 ---
 <blockquote>
 <p>Vision:
-<br><strong>Every Clementian to be empowered and nurtured as a creative and expressive individual through a comprehensive and engaging art education program that ignites curiosity, fosters imagination, and develops artistic skills, empowering them to explore their unique creative potential.</strong>
+<br><strong>Every Clementian empowered to grow as a confident, creative, and holistic individual through enriching Physical Education and Arts experiences that nurture lifelong well-being, imagination, appreciation, and responsible participation</strong>
 </p>
 </blockquote>
 <h4><strong>Key Programmes</strong></h4>

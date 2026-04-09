@@ -3,10 +3,11 @@ title: Physical Education
 permalink: /physical-education/
 variant: tiptap
 description: ""
+third_nav_title: PAM
 ---
 <blockquote>
 <p>Vision:
-<br><strong>Every Clementian to be empowered and develop as a physically competent and confident to enjoy a lifetime of active and healthy living safely and responsibly.</strong>
+<br><strong>Every Clementian empowered to grow as a confident, creative, and holistic individual through enriching Physical Education and Arts experiences that nurture lifelong well-being, imagination, appreciation, and responsible participation</strong>
 </p>
 </blockquote>
 <p>In CTPS, our Physical Education (PE) programme offers Clementians a dynamic
