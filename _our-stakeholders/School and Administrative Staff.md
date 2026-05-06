@@ -72,7 +72,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Logenayagi</p>
+<p>Mr Iman Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
