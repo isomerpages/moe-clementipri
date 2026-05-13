@@ -107,7 +107,7 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Amy Yee Yen Bee, Ms Joann Han, Mdm Lakshmi</strong>
+<p><strong>Mdm Amy Yee , Mrs Lee Siew Teng, Mdm Lim Siew Lee, Mdm Jean Heng</strong>
 </p>
 </td>
 </tr>
