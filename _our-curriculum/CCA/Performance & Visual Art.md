@@ -107,7 +107,7 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Amy Yee Yen Bee, Ms Joann Han, Mdm Lakshmi</strong>
+<p><strong>Mdm Amy Yee , Mrs Lee Siew Teng, Mdm Lim Siew Lee, Mdm Jean Heng</strong>
 </p>
 </td>
 </tr>
@@ -143,9 +143,9 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Thursday</strong>
+<p><strong>Tuesday</strong>
 </p>
-<p><strong>3.30pm - 5.30pm</strong>
+<p><strong>2.15pm - 4.15pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -153,7 +153,7 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Aletheia Ng, Mdm Santhi, Mrs Tan Sau Hoi</strong>
+<p><strong>Mdm Aletheia Ng, Mdm Santhi, Mrs Tan Sau Hoi, Ms Khoo Yi Hui</strong>
 </p>
 </td>
 </tr>
