@@ -12,3 +12,10 @@ third_nav_title: For Students
 <p><a href="https://sites.google.com/moe.edu.sg/p4survey2026/home" rel="noopener nofollow" target="_blank">https://sites.google.com/moe.edu.sg/p4survey2026/home</a>
 </p>
 <p>Primary 5:</p>
+<p><a href="https://sites.google.com/moe.edu.sg/p5survey2026/home" rel="noopener nofollow" target="_blank">https://sites.google.com/moe.edu.sg/p5survey2026/home</a>
+</p>
+<p>Primary 6:</p>
+<p><a href="https://sites.google.com/moe.edu.sg/p6survey2026/home" rel="noopener nofollow" target="_blank">https://sites.google.com/moe.edu.sg/p6survey2026/home</a>
+</p>
+<p></p>
+<p></p>
