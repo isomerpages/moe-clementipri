@@ -24,10 +24,12 @@ third_nav_title: For Students
 <p></p>
 <p><strong><u>Term 2 Check In survey</u></strong>
 </p>
-<p>P3 and P4 students:</p>
+<p><strong>P3 and P4 students:</strong>
+</p>
 <p><a href="https://forms.moe.edu.sg/forms/oZOkOb" rel="noopener nofollow" target="_blank">https://forms.moe.edu.sg/forms/oZOkOb</a>
 </p>
-<p>P5 and P6 students:</p>
+<p><strong>P5 and P6 students:</strong>
+</p>
 <p><a href="https://forms.moe.edu.sg/forms/vVnknz" rel="noopener nofollow" target="_blank">https://forms.moe.edu.sg/forms/vVnknz</a>
 </p>
 <p></p>
