@@ -5,9 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: For Students
 ---
-<p><a href="https://forms.moe.edu.sg/forms/vRaLG4" rel="noopener nofollow" target="_blank">P3 and P4 Check In Survey</a>
+<p>Teaching and Learning Survey links (to be done during Rocket Week only)</p>
+<p>Primary 3: <a href="https://sites.google.com/moe.edu.sg/p3survey2026/home" rel="noopener nofollow" target="_blank">https://sites.google.com/moe.edu.sg/p3survey2026/home</a>
 </p>
-<p><a href="https://forms.moe.edu.sg/forms/oOqQGg" rel="noopener nofollow" target="_blank">P5 and P6 Check in Survey</a>
+<p>Primary 4:</p>
+<p><a href="https://sites.google.com/moe.edu.sg/p4survey2026/home" rel="noopener nofollow" target="_blank">https://sites.google.com/moe.edu.sg/p4survey2026/home</a>
 </p>
-<p><a href="https://forms.moe.edu.sg/forms/vXjDRl" rel="noopener nofollow" target="_blank">Getting to know you</a>
-</p>
+<p>Primary 5:</p>
