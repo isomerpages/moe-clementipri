@@ -42,7 +42,7 @@ description: ""
 <p>29 May 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To sell chinese noodle</p>
+<p>To sell chinese noodle.</p>
 </td>
 </tr>
 </tbody>
