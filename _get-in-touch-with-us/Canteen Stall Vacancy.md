@@ -28,7 +28,7 @@ description: ""
 <p>Stall 5– Halal Western Food</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 May 2026</p>
+<p>open date</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Selling of halal western food</p>
@@ -36,12 +36,11 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><strong>Application Procedure</strong></h4>
 <p>Download and complete the Application Form (click on the link below).
 You may also request for a hardcopy of the Application Form from the School’s
 General Office.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/application_for_canteen_stall_formbf.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
 </p>
 <p>Attached the following documents together with the Application Form:</p>
 <table style="minWidth: 25px">
@@ -61,7 +60,7 @@ General Office.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; List of proposed menu
 and pricing for all items</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of relevant
-certificates such as Food Safety Course Level 1, etc</p>
+certificates such as Food Safety Course Level 1.</p>
 </td>
 </tr>
 </tbody>
