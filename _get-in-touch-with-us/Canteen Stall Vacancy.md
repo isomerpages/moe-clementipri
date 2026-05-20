@@ -28,7 +28,7 @@ description: ""
 <p>Stall 5– Halal Western Food</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>open date</p>
+<p>29 May 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Selling of halal western food</p>
