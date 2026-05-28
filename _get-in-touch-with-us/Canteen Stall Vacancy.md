@@ -28,10 +28,21 @@ description: ""
 <p>Stall 5– Halal Western Food</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>open date</p>
+<p>31 May 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selling of halal western food</p>
+<p>To sell halal western food.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stall 6 - Chinese Noodle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 May 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To sell chinese noodle.</p>
 </td>
 </tr>
 </tbody>
