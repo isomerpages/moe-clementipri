@@ -1,9 +1,10 @@
 ---
-title: Non Teaching Staff
-permalink: /parents-info/our-people/nonteachingstaff/
-description: ""
+title: Executive and Administrative Staff
+permalink: /school-and-administrative-staff/
 variant: tiptap
+description: ""
 ---
+<h3>Executive and Administrative Staff</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -20,140 +21,156 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Musa</p>
+<p>Ms Norlina Tan Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Security Guard</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Oh Eng Hooi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Security Guard</p>
+<p>Administration Manager</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Ah Nia</p>
+<p>Mr Song Kok Liang Patrick</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Canteen Stall 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Loh Li Keow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Canteen Stall 1</p>
+<p>Operations Manager</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nopiah Bte Biden</p>
+<p>Mr Muhammad Fadzly Bin Samsudin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Canteen Stall 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Rashidee Bin Suman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Canteen Stall 2</p>
+<p>ICT Manager</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Toh Siow Li</p>
+<p>Ms Chua Seow Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Canteen Stall 3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Khong Chwee Pheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Canteen Stall 4</p>
+<p>Admin Executive</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Cheng Cheong</p>
+<p>Ms Nurul ‘Ain Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Canteen Stall 4</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Suraiyah Bte Mohd Yusoff</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Canteen Stall 5</p>
+<p>Admin Executive</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ratinah Mohd Yatim</p>
+<p>Mr Bryan Quek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Canteen Stall 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Pang Kwong Kheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Canteen Stall 6</p>
+<p>ICT Associate</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yeo Kim Lai</p>
+<p>Mdm Zalina Bte Mohama Din</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Canteen Stall 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>-vacant-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Canteen Stall 7</p>
+<p>CSO</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-vacant-</p>
+<p>Ms Patsy Gan Siew Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Canteen Stall 7</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Ang Bee Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Canteen Stall 8</p>
+<p>Adjunct CSO</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Wong Poh Chee Sophia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Adjunct CSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rameswari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yong Heong Cheong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Song Liak</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Faizat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adjunct OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Nazrin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Iman Aziz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Thang Khaw Dhal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Media and Audio Visual Specialist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Maisarah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Librarian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Wen Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science Lab Assistant</p>
 </td>
 </tr>
 </tbody>
 </table>
+<ul>
+<li>
+<p>Parents/guardians may: email to the school’s generic email address&nbsp;
+<a href="mailto:admin_clementi_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">admin_clementi_ps@moe.edu.sg</a>, clearly stating the staff they wish
+their message be conveyed to.</p>
+<p></p>
+</li>
+</ul>
 <p></p>
