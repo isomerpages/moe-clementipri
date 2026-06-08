@@ -5,10 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: School Information
 ---
-<p>All students are covered by insurance with MINIMUM accident coverage up
-till December 2026. The policy provides accident coverage related to all
-school activities and/or CCAs both in and out of school (please refer to
-the <a href="/files/2025/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">product fact sheet</a>).</p>
+<p>The policy provides accident coverage related to all school activities
+and/or CCAs both in and out of school (please refer to the <a href="/files/2026/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">product fact sheet</a>
+</p>
 <p>For details regarding the coverage, please refer to the insurance company:</p>
 <p><strong>NTUC Income Insurance Co-operative Limited,</strong>
 </p>
@@ -19,4 +18,4 @@ the <a href="/files/2025/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofol
 <p><strong>Tel: 6788 1777 Fax: 6338 1500.</strong>
 </p>
 <p>Claims or checking of claims status are to be done online through Income
-Insurance’s online claims portal (<a href="https://www.clementitownsec.moe.edu.sg/files/Insurance_Product_Fact_Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>)</p>
+Insurance’s online claims portal (<a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>)</p>
