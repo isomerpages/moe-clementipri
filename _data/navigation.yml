@@ -50,12 +50,12 @@ links:
   - title: Our Resources
     url: /parents-info/principal-message/
     sublinks:
-      - title: For Teachers
-        url: /quick-links/for-teachers/
       - title: For Students
         url: /quick-links/for-students/student-learning-space/
       - title: For Parents
         url: /parents-info/notification-letters/
+      - title: For Teachers
+        url: /quick-links/for-teachers/
   - title: Our Stakeholders
     url: /educators/
     sublinks:
