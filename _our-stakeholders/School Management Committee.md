@@ -264,7 +264,7 @@ description: ""
 <ul data-tight="true" class="tight">
 <li>
 <p>Parents/guardians may: email to the school’s generic email address <a href="mailto:admin_clementi_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">admin_clementi_ps@moe.edu.sg</a>,
-stating clearly the staff they wish their message be conveyed to.</p>
+clearly stating the staff they wish their message be conveyed to.</p>
 </li>
 </ul>
 <p></p>
