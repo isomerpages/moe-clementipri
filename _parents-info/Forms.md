@@ -16,14 +16,15 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p>MOE Financial Assistance Application for 2026 [GGAS]: <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
-<br>
-<br><a href="/files/Income%20Family%20Micro%20Insurance%20and%20Savings%20Scheme.pdf" rel="noopener noreferrer nofollow" target="_blank">Income Family Micro Insurance and Savings Scheme</a>
+<br><a href="/files/2026/MOE_FAS_2026_pamphlet.pdf" rel="noopener nofollow" target="_blank">Fact Sheet</a>
+</p>
+</li>
+<li>
+<p>Redemption process for Transitlink EVoucher - <a href="/files/Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide</a>
 </p>
 </li>
 </ul>
-<h5>Step-By-Step Redemption Process for Translink Evoucher</h5>
-<p><a href="/files/Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide</a>
-</p>
+<p></p>
 <h5>Mother Tongue Language</h5>
 <p><a href="/files/Forms/Form_1___MTL__8_Dec_2023_.pdf" rel="noopener nofollow" target="_blank">Form 1 - MTL (Application to offer an official Mother Tongue Language (Chinese/Malay/Tamil)</a>
 <br><a href="/files/Forms/Form_3___NTIL__8_Dec_2023_.pdf" rel="noopener nofollow" target="_blank">Form 3 - NTIL (Application to offer Non-Tamil Indian Language)</a>
