@@ -4,10 +4,7 @@ permalink: /school-and-administrative-staff/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20Website/EAS_2024.jpg">
-</div>
-<h3>Executive Administrative &amp; Support Staff</h3>
+<h3>Executive and Administrative Staff</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -40,42 +37,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Fadzly Bin Samsudin</p>
+<p>Mr Muhammad Fadzly Bin Samsudin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Bryan Quek</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Associate</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Thang Khaw Dhal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Media and Audio Visual Specialist</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Nazrin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Iman Aziz</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
 </td>
 </tr>
 <tr>
@@ -96,6 +61,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Bryan Quek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Associate</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Zalina Bte Mohama Din</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -107,7 +80,7 @@ description: ""
 <p>Ms Patsy Gan Siew Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CSO</p>
+<p>Adjunct CSO</p>
 </td>
 </tr>
 <tr>
@@ -116,22 +89,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Adjunct CSO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Maisarah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Librarian</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Wen Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science Lab Assistant</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +109,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Hock Huat</p>
+<p>Mr Tan Song Liak</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>OSO</p>
@@ -168,10 +125,42 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Song Liak</p>
+<p>Mr Nazrin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adjunct OSO</p>
+<p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Iman Aziz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Thang Khaw Dhal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Media and Audio Visual Specialist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Maisarah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Librarian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Wen Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science Lab Assistant</p>
 </td>
 </tr>
 </tbody>
