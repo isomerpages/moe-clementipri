@@ -67,6 +67,8 @@ child's name and class
 <br>8.30 a.m. to 3.30 p.m.
 <br>Timing for Parents:
 <br>1.45 p.m. to 3.15 p.m.</p>
+<p></p>
+<p>Closed during school holidays</p>
 </td>
 </tr>
 <tr>
@@ -74,17 +76,40 @@ child's name and class
 <p>School Bus Services</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alan Bus Services
-<br>Clementi Central Post Office
-<br>PO Box 65 Singapore 911203
-<br>Tel : 67778811 / 81248988
-<br>Fax : 6779 1616
-<br>Email: alanbus@alanbus.com</p>
+<p>Please contact Manager, Mr Alan on school bus transport matters.</p>
+<p>If you are unable to contact Mr Alan via call, please send him a message
+via SMS at 81248988.</p>
+<p>• Contact Number: 67778811</p>
+<p>• Email: <a href="mailto:alanbus@alanbus.com" rel="noopener noreferrer nofollow" target="_blank">alanbus@alanbus.com</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents are to make any transport arrangement directly with the bus vendor.
 <br>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Distance Range Category</p>
+<p></p>
+<p></p>
+<p>Up to 2km
+<br>&gt;2 - 4km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Up to 15 seater</p>
+<p>1 Way 2 way</p>
+<p></p>
+<p>$80 $110</p>
+<p>$110 $140</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&gt;15 seater
+<br>1 way 2 way</p>
+<p></p>
+<p>$68 $85</p>
+<p>$80 $110</p>
 </td>
 </tr>
 <tr>
