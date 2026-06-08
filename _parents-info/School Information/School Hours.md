@@ -33,19 +33,16 @@ variant: tiptap
 <p>Mon to Fri
 <br>7.30 a.m. to
 <br>1.30 p.m.</p>
-<p>(excludes weekends, school holidays and Public Holidays)
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary 2</p>
 <p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0900-0930</p>
+<p>9.00 a.m. - 9.30 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 noon</p>
+<p>12.00 p.m.</p>
 </td>
 </tr>
 <tr>
@@ -54,10 +51,10 @@ variant: tiptap
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1000-1030</p>
+<p>10.00 a.m. - 10.30 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 noon</p>
+<p>12.00 p.m.</p>
 </td>
 </tr>
 <tr>
@@ -66,10 +63,10 @@ variant: tiptap
 <p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1100-1130</p>
+<p>11.00 a.m. - 11.30 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9 am</p>
+<p>9.00 a.m.</p>
 </td>
 </tr>
 </tbody>
