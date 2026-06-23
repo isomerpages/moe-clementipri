@@ -849,17 +849,6 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ZHONG LINSHAN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>MDM</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -951,17 +940,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>KOH SIOK HUI</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KENNETH TEO</p>
 </td>
 </tr>
 <tr>
@@ -1170,17 +1148,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>YVONNE FAN YU MEI</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>IRENE LIM</p>
 </td>
 </tr>
 <tr>
