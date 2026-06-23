@@ -37,6 +37,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Azmi Bin Amin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Muhammad Fadzly Bin Samsudin</p>
 </td>
 <td rowspan="1" colspan="1">
