@@ -125,7 +125,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Irene Lim Shu Hui</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH/Science</p>
@@ -257,6 +257,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>ST/ Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Fiona Kwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST/Music</p>
 </td>
 </tr>
 </tbody>
