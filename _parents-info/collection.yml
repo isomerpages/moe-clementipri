@@ -2,10 +2,6 @@ collections:
   parents-info:
     output: true
     order:
-      - Student Care Centre.md
-      - School Bus Services.md
-      - Bookshop and School Uniform.md
-      - Dental Clinic.md
       - Memories @ Flickr.md
       - School Information/.keep
       - School Information/School Hours.md
@@ -31,5 +27,9 @@ collections:
       - Notification Letters/Primary 4.md
       - Notification Letters/Primary 5.md
       - Notification Letters/Primary 6.md
+      - Dental Clinic.md
+      - Bookshop and School Uniform.md
+      - School Bus Services.md
+      - Student Care Centre.md
       - Forms.md
       - Onboarding Parents Gateway (PG).md
