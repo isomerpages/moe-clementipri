@@ -1,5 +1,5 @@
 ---
-title: Group Personal Accident GPA Insurance Plan for Students
+title: Group Personal Accident (GPA) Insurance Plan for Students
 permalink: /student-protection-plan-insurance/
 variant: tiptap
 description: ""
