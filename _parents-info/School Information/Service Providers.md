@@ -37,13 +37,19 @@ child's name and class
 </td>
 <td rowspan="1" colspan="1">
 <p>Opening hours:
-<br>Mon, Weds, Fri
-<br>8.00 a.m. - 5.00 p.m.
-<br>Tue &amp; Thur
-<br>1.30 p.m. - 5.00 p.m.
 <br>
-<br>Lunch hour:
-<br>12:30pm to 1:30pm</p>
+</p>
+<p><strong>June/July2026 clinic schedule:</strong>
+</p>
+<p>29/6 to 3/7: Qifa Pri</p>
+<p>6/7: Clinic Closed</p>
+<p>7/7 to 10/7: Clementi Pri</p>
+<p>13/7 to 16/7: Qifa Pri</p>
+<p>17/7: Clinic Closed</p>
+<p>20/7 to 24/7: Clementi Pri</p>
+<p>27/7 to 28/7: Qifa Pri</p>
+<p>29/7: Qifa Pri (AM only)</p>
+<p>30/7 to 31/7: Qifa Pr</p>
 </td>
 </tr>
 <tr>
