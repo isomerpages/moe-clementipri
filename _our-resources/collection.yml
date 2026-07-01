@@ -2,9 +2,8 @@ collections:
   our-resources:
     output: true
     order:
-      - For Parents.md
-      - For Students/Student Handbook.md
       - For Students/.keep
+      - For Students/Student Handbook.md
       - For Students/MIMS login.md
       - For Students/MIMS (Self service reset password).md
       - For Students/MIMS (account locked out).md
@@ -16,4 +15,5 @@ collections:
       - For Students/SkillsFuture.md
       - For Students/Helplines for Students.md
       - For Students/Alumni.md
+      - For Parents.md
       - For Teachers.md
