@@ -4,3 +4,4 @@ permalink: /dental-clinic/
 variant: tiptap
 description: ""
 ---
+<p>Dental</p>
