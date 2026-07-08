@@ -25,24 +25,24 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Stall 5– Halal Western Food</p>
+<p>Stall 6 - Chinese Noodle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 May 2026</p>
+<p>20 July 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To sell halal western food.</p>
+<p>To sell chinese noodle.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Stall 6 - Chinese Noodle</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 May 2026</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To sell chinese noodle.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
