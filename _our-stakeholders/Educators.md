@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Website/Staff_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/2025img.jpg">
 </div>
 <h3>Form Teachers</h3>
 <table style="minWidth: 75px">
