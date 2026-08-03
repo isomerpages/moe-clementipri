@@ -64,7 +64,7 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Tan Kim Keat, Mr Yap Shun Yi</strong>
+<p><strong>Mr Yap Shun Yi</strong>
 </p>
 <p><strong>and Mdm Bi Yanmei</strong>
 </p>
