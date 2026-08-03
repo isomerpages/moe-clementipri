@@ -152,7 +152,7 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Kenny Chau, Mdm Sasikala and Ms Lim Hwee Chen</strong>
+<p><strong>Mr Kenny Chau, Mdm Sasikala</strong>
 </p>
 </td>
 </tr>
