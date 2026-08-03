@@ -19,7 +19,7 @@ third_nav_title: CCA
 <p>Badminton</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>Tuesday( all players:  2.30pm - 4.30pm)<br>Thursday (school team players: 3.30pm - 5.30pm)</strong>
+<p><strong>Tuesday( all players: 2.30pm - 4.30pm)<br>Thursday (school team players: 3.30pm - 5.30pm)</strong>
 </p>
 </td>
 <th rowspan="1" colspan="1">
@@ -115,7 +115,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Miss See Shen Leng, Mrs Kristale Teo, Miss Lee Jia Rui and Mr Du Guang</strong>
+<p><strong>Miss See Shen Leng, Mrs Kristale Teo, Miss Lee Jia Rui</strong>
 </p>
 </td>
 </tr>
