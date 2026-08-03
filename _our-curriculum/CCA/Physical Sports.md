@@ -196,7 +196,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Jesse Wan, Miss Clara Yeo, Ms Shahidah, Mdm Tay Ming Yan</strong>
+<p><strong>Mrs Jesse Wan, Ms Shahidah, Mdm Tay Ming Yan</strong>
 </p>
 <p></p>
 </td>
