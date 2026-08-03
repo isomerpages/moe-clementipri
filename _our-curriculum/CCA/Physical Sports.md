@@ -26,8 +26,8 @@ third_nav_title: CCA
 <p>Clementi Sports Complex and School ISH</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mdm Neo Swee Hong, Mdm Liu Hua, Mdm Lee Wan Yi, Mr Tan Lin How and Ms
-Liew Sijie</p>
+<p>Mdm Neo Swee Hong, Mdm Liu Hua, Mdm Lee Wan Yi, Mr Tan Lin How and Joshua
+Chiew</p>
 </th>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Miss See Shen Leng, Mrs Kristale Teo, Miss Lee Jia Rui</strong>
+<p><strong>Miss See Shen Leng, Mrs Kristale Teo, Ms Lee Jia Rui, Mdm Melissa Wong</strong>
 </p>
 </td>
 </tr>
@@ -156,7 +156,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Sham, Mdm Ruzanna, Mr Bala, Mr Edward Long and Mdm Melissa Wong</strong>
+<p><strong>Mr Sham, Mr Bala, Mr Edward Long and Mr Ryan Chiong</strong>
 </p>
 </td>
 </tr>
