@@ -26,7 +26,7 @@ third_nav_title: CCA
 <p>Computer Lab 2</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mdm, Ros Leila, Mdm Phua Siew Hoon, Mrs Goh Pey Ting and Ms Krishnan</p>
+<p>Mdm, Ros Leila, Mdm Phua Siew Hoon, Mrs Goh Pey Ting</p>
 </th>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Tan Kian Beng, Mdm Win Wa Soe and Mr Paul Ling</strong>
+<p><strong>Mr Tan Kian Beng, Mdm Win Wa Soe</strong>
 </p>
 </td>
 </tr>
