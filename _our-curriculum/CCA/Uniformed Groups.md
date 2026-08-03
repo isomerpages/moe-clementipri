@@ -26,8 +26,7 @@ third_nav_title: CCA
 <p>Teaching Lab</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ms Kheong Zi Jing, Mrs Sedryln Si, Mdm Sharin Ang and Ms Summer May</p>
-<p></p>
+<p>Ms Kheong Zi Jing, Mrs Sedryln Si, Mdm Sharin Ang</p>
 </th>
 </tr>
 <tr>
