@@ -26,7 +26,9 @@ variant: tiptap
 </ul>
 <p></p>
 <h5>Mother Tongue Language</h5>
-<p><a href="/files/Forms/Form_1___MTL__8_Dec_2023_.pdf" rel="noopener nofollow" target="_blank">Form 1 - MTL (Application to offer an official Mother Tongue Language (Chinese/Malay/Tamil)</a>
+<p><a href="https://form.gov.sg/6a223fe229fcd7773b7777ac" rel="noopener nofollow" target="_blank">Application for Mother Tongue Language (MTL) or MTL-in-lieu</a>
+</p>
+<p><a href="https://form.gov.sg/6a22412431a5ff59c0b5b283" rel="noopener nofollow" target="_blank">Appeal for Mother Tongue Language (MTL) or MTL-in-lieu</a>
 <br><a href="/files/Forms/Form_3___NTIL__8_Dec_2023_.pdf" rel="noopener nofollow" target="_blank">Form 3 - NTIL (Application to offer Non-Tamil Indian Language)</a>
 </p>
 <p></p>
