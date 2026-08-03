@@ -64,7 +64,7 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Yap Shun Yi</strong>
+<p><strong>Mr Yap Shun Yi, Ms Liu Fen</strong>
 </p>
 <p><strong>and Mdm Bi Yanmei</strong>
 </p>
@@ -108,7 +108,7 @@ third_nav_title: CCA
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Amy Yee , Mrs Lee Siew Teng, Mdm Lim Siew Lee, Mdm Jean Heng</strong>
+<p><strong>Mdm Amy Yee , Mrs Lee Siew Teng, Ms Lakshmi</strong>
 </p>
 </td>
 </tr>
