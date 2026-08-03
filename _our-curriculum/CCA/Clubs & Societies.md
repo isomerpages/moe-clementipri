@@ -26,8 +26,7 @@ third_nav_title: CCA
 <p>Computer Lab 2</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mdm, Ros Leila, Mdm Phua Siew Hoon, Mdm Chng Mui Noi, Mrs Goh Pey Ting
-and Ms Krishnan</p>
+<p>Mdm, Ros Leila, Mdm Phua Siew Hoon, Mrs Goh Pey Ting</p>
 </th>
 </tr>
 <tr>
@@ -66,7 +65,7 @@ and Ms Krishnan</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Zhong Linshan, Mr Tan Kian Beng, Mdm Win Wa Soe and Mr Paul Ling</strong>
+<p><strong>Mr Tan Kian Beng, Mdm Win Wa Soe</strong>
 </p>
 </td>
 </tr>
@@ -109,7 +108,7 @@ and Ms Krishnan</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Jessie Ong, Ms Ang Pei Yi and Ms Irene Lim</strong>
+<p><strong>Ms Ang Pei Yi, Amanda Yeo</strong>
 </p>
 </td>
 </tr>
@@ -153,7 +152,7 @@ and Ms Krishnan</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Kenny Chau, Mdm Sasikala and Ms Lim Hwee Chen</strong>
+<p><strong>Mr Kenny Chau, Mdm Sasikala</strong>
 </p>
 </td>
 </tr>
@@ -165,4 +164,5 @@ and Ms Krishnan</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>

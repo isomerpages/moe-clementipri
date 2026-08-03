@@ -19,15 +19,15 @@ third_nav_title: CCA
 <p>Badminton</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>Tuesday( all players:  2.30pm - 4.30pm)<br>Thursday (school team players: 3.30pm - 5.30pm)</strong>
+<p><strong>Tuesday( all players: 2.30pm - 4.30pm)<br>Thursday (school team players: 3.30pm - 5.30pm)</strong>
 </p>
 </td>
 <th rowspan="1" colspan="1">
 <p>Clementi Sports Complex and School ISH</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mdm Neo Swee Hong, Mdm Liu Hua, Mdm Lee Wan Yi, Mr Tan Lin How and Ms
-Liew Sijie</p>
+<p>Mdm Neo Swee Hong, Mdm Liu Hua, Mdm Lee Wan Yi, Mr Tan Lin How and Joshua
+Chiew</p>
 </th>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Miss See Shen Leng, Mrs Kristale Teo, Miss Lee Jia Rui and Mr Du Guang</strong>
+<p><strong>Miss See Shen Leng, Mrs Kristale Teo, Ms Lee Jia Rui, Mdm Melissa Wong</strong>
 </p>
 </td>
 </tr>
@@ -156,7 +156,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Sham, Mdm Ruzanna, Mr Bala, Mr Edward Long and Mdm Melissa Wong</strong>
+<p><strong>Mr Sham, Mr Bala, Mr Edward Long and Mr Ryan Chiong</strong>
 </p>
 </td>
 </tr>
@@ -196,7 +196,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Jesse Wan, Miss Clara Yeo, Ms Shahidah, Mdm Tay Ming Yan</strong>
+<p><strong>Mrs Jesse Wan, Ms Shahidah, Mdm Tay Ming Yan</strong>
 </p>
 <p></p>
 </td>
@@ -237,7 +237,7 @@ Junior girls, who will be participating in National School Games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Cynthia Lim, Mdm Josephine Wong and Mdm Celeste Wong Siow Yen</strong>
+<p><strong>Mdm Josephine Wong and Mdm Celeste Wong Siow Yen</strong>
 </p>
 </td>
 </tr>
