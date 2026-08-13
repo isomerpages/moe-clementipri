@@ -10,7 +10,9 @@ variant: tiptap
 <br><a href="https://form.gov.sg/68b65d4e10c70779b6ed763e" rel="noopener nofollow" target="_blank">Leave of Absence (LOA)</a>
 </p>
 <h5>Edusave</h5>
-<p>Standing Order for Use of Edusave <a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/68511c58e85a5dd195cf326f</a>
+<p>Login to the Student Finance System (SFS) at <a href="https://studentfinance.moe.gov.sg/" rel="noopener nofollow" target="_blank">https://studentfinance.moe.gov.sg/</a> using
+your Singpass to setup or manage your child's Edusave Standing Orders (SOs)</p>
+<p><a href="/files/2026/Standing_Order_Step_by_Step_Guide_GGAS_2026.pdf" rel="noopener nofollow" target="_blank">Standing Order Step by Step Guide</a>
 </p>
 <h5>Financial Assistance Scheme</h5>
 <ul data-tight="true" class="tight">
