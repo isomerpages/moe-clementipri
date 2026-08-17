@@ -1315,6 +1315,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Untrained School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CLAUDIA KONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Snr SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
