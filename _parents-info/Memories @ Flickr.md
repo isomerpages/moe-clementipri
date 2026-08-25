@@ -24,5 +24,11 @@ description: ""
 </p>
 <p><a href="https://flic.kr/ps/42HFQ4" rel="noopener nofollow" target="_blank">PSLE Results Release 2025</a>
 </p>
+<p><a href="https://flic.kr/s/aHBqjD2BwG" rel="noopener nofollow" target="_blank">P1 Orientation 2026</a>
+</p>
+<p><a href="https://flic.kr/s/aHBqjD2KXg" rel="noopener nofollow" target="_blank">Total Defence Day 2026</a>
+</p>
+<p><a href="https://flic.kr/s/aHBqjD2BKx" rel="noopener nofollow" target="_blank">Hari Raya 2026</a>
+</p>
 <p><a href="https://flic.kr/s/aHBqjCV1Dk" rel="noopener nofollow" target="_blank">CT-Lympics 2026</a>
 </p>
