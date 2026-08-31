@@ -4,7 +4,7 @@ permalink: /who-will-be-remembered/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Farewell to Beloved Staff</strong></h4>
+<h4><strong>Farewell to Staff</strong></h4>
 <p>Clementi Primary School bids a heartfelt farewell to our cherished staff
 members. Though they leave at different times, each of them has made an
 indelible mark on our school community, and their contributions will always
