@@ -2,7 +2,7 @@ collections:
   our-story:
     output: true
     order:
-      - Who our head prefects were.md
       - Who Will be Remembered.md
       - Who We Are.md
       - Who Believes in Dreaming Big.md
+      - Who our head prefects were.md
