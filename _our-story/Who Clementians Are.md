@@ -1,6 +1,6 @@
 ---
-title: Who We Are
-permalink: /who-we-are/
+title: Who Clementians Are
+permalink: /who-clementians-are/
 variant: tiptap
 description: ""
 ---
