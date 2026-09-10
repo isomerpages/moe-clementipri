@@ -5,6 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: For Students
 ---
+<p>Student Survey 2026 (for all levels)</p>
+<p>P1 to P3: survey to be done in school</p>
+<p>P4 to P6: survey to be done at home using SLS platform.</p>
+<p>Survey link: <a href="https://forms.moe.edu.sg/forms/odrNDn" rel="noopener nofollow" target="_blank">https://forms.moe.edu.sg/forms/odrNDn</a>
+</p>
+<p>**********************************************************</p>
+<p></p>
 <p><strong><u>Term 4 Check In survey (for Clementians)</u></strong>
 </p>
 <p><strong>P1 and P2: </strong><a href="https://forms.moe.edu.sg/forms/JkjEEM" rel="noopener nofollow" target="_blank">https://forms.moe.edu.sg/forms/JkjEEM</a>
