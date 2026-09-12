@@ -25,6 +25,10 @@ sections:
       title: Announcement
       id: textcards
       cards:
+        - title: Term 4 Notification 2026
+          description: ""
+          linktext: Learn more
+          url: /files/2026/Term_4_School_Notification_2026.pdf
         - title: Term 3 Notification 2026
           description: ""
           linktext: Learn more
@@ -34,10 +38,6 @@ sections:
           linktext: Learn more
           url: /files/2026/Term_2_School_Notification_2026.pdf
         - title: Term 1 Notification 2026
-          description: ""
-          linktext: Learn more
-          url: /files/2026/2026_Start_of_Year_Notification.pdf
-        - title: PAT and OYEA 2026
           description: ""
           linktext: Learn more
           url: /files/2026/2026_Start_of_Year_Notification.pdf
