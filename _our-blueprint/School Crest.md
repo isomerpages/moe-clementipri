@@ -6,7 +6,7 @@ description: ""
 ---
 <h4>School Crest</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Website/school_logo_03.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/2024 Website/school_logo_03.png">
 </div>
 <p></p>
 <p>The <strong>crescent </strong>speaks of the pupils as a new generation
