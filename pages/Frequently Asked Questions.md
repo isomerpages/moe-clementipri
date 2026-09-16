@@ -4,4 +4,4 @@ permalink: /faq/
 variant: tiptap
 description: ""
 ---
-<p>test</p>
+<p></p>
